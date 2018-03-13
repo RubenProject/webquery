@@ -1,0 +1,542 @@
+<!DOCTYPE html>
+
+<html lang="en" data-version="1.69.03">
+
+  <head>
+
+    <!-- standard page html head -->
+<title>Honours Academy - Leiden University</title>
+<meta name="google-site-verification" content="o8KYuFAiSZi6QWW1wxqKFvT1WQwN-BxruU42si9YjXw"/>
+<meta name="google-site-verification" content="hRUxrqIARMinLW2dRXrPpmtLtymnOTsg0Pl3WjHWQ4w"/>
+<link rel="canonical" href="https://www.universiteitleiden.nl/en/honours-academy"/>
+  <meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+<meta name="description" content="Welcome to the website of the Honours Academy, the place where ambitious students work together on their future."/>
+  <!-- icons -->
+<link rel="shortcut icon" href="https://www.universiteitleiden.nl/en/ul2common/icons/favicon.ico" />
+<link rel="icon" type="image/png" sizes="32x32" href="https://www.universiteitleiden.nl/en/ul2common/icons/icon-32px.png" />
+<link rel="icon" type="image/png" sizes="96x96" href="https://www.universiteitleiden.nl/en/ul2common/icons/icon-96px.png" />
+<link rel="icon" type="image/png" sizes="195x195" href="https://www.universiteitleiden.nl/en/ul2common/icons/icon-195px.png" />
+
+<link rel="apple-touch-icon" href="https://www.universiteitleiden.nl/en/ul2common/icons/icon-120px.png" /> <!-- iPhone retina -->
+<link rel="apple-touch-icon" sizes="180x180" href="https://www.universiteitleiden.nl/en/ul2common/icons/icon-180px.png" /> <!-- iPhone 6 plus -->
+<link rel="apple-touch-icon" sizes="152x152" href="https://www.universiteitleiden.nl/en/ul2common/icons/icon-152px.png" /> <!-- iPad retina -->
+<link rel="apple-touch-icon" sizes="167x167" href="https://www.universiteitleiden.nl/en/ul2common/icons/icon-167px.png" /> <!-- iPad pro -->
+<!-- twitter -->
+<meta property="twitter:card" content="summary"/>
+<meta property="twitter:site" content="@UniLeiden"/>
+<meta property="twitter:title" content="Honours Academy"/>
+<meta property="twitter:description" content="Welcome to the website of the Honours Academy, the place where ambitious students work together on their future."/>
+<!-- Open Graph -->
+<meta property="og:title" content="Honours Academy"/>
+<meta property="og:type" content="website"/>
+<meta property="og:description" content="Welcome to the website of the Honours Academy, the place where ambitious students work together on their future."/>
+<meta property="og:site_name" content="Leiden University"/>
+<meta property="og:locale" content="en_US"/>
+<meta property="og:image" content="http://www.universiteitleiden.nl/binaries/content/gallery/ul2/main-images/honours-academy/ha/avh_0425_panorama_cropped-3.jpg/avh_0425_panorama_cropped-3.jpg/d600x315"/>
+  <meta property="og:url" content="https://www.universiteitleiden.nl/en/honours-academy"/>
+  <meta name="application-name" content="search"
+      data-content-type="organizationlanding" data-content-category="general" data-protected="false" data-language="en" data-last-modified-date="2018-02-13" data-publication-date="2018-02-13" data-organization="honours-academy" data-interfaculties="honours-academy" data-uuid="6e6f584f-0683-4271-96b4-3ced0ae62b6c" data-website="external-site"><!-- Favicon and CSS -->
+<link rel='shortcut icon' href="https://www.universiteitleiden.nl/en/ul2common/icons/favicon.ico"/>
+<link rel="stylesheet" href="https://www.universiteitleiden.nl/en/ul2external/styles/screen.css?v=1.69.03"/>
+<!-- Google Tag Manager -->
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+      'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-MR67S7X');
+</script>
+<!-- End Google Tag Manager -->
+<!-- this line enables the loading of asynchronous components (together with the headContributions at the bottom) -->
+    <!-- Header Scripts -->
+    <!-- Please configure Google Analytics Account ID in the Channel Manager / Channel configuration to enable Google Analytics page tracking -->
+
+  </head>
+
+  <body class=" right ">
+    <!-- Google Tag Manager -->
+
+<!-- Google Tag Manager --><!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MR67S7X"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<!-- To enable JS-based styles: -->
+    <script> document.body.className += ' js'; </script>
+
+    <!-- googleoff: all-->
+<div class="header-container">
+  <header class="wrapper clearfix">
+
+    <h1 class="logo">
+      <a href="https://www.universiteitleiden.nl/en">
+        <img width="151" height="64" src="https://www.universiteitleiden.nl/en/ul2common/images/zegel.png" alt="Universiteit Leiden"/>
+      </a>
+    </h1>
+
+    <ul class="top-nav">
+
+  <li><a href="https://www.student.universiteitleiden.nl/en" >Current students</a></li>
+
+  <li><a href="https://www.universiteitleiden.nl/en/alumni" >Alumni</a></li>
+
+  <li><a href="https://www.staff.universiteitleiden.nl" >Staff members</a></li>
+
+  </ul><!-- Standard page searchbox -->
+<form id="search" method="get" action="https://www.universiteitleiden.nl/en/search">
+
+  <fieldset>
+    <input type="search" name="q" value="">
+    <button class="submit" type="submit">
+      <span>Search</span>
+    </button>
+  </fieldset>
+
+  <ul class="options">
+    <li>
+        <a href="https://www.universiteitleiden.nl/en/search" class="active" data-hidden='{"c":"all"}'>
+          All</a>
+      </li>
+    <li>
+        <a href="https://www.universiteitleiden.nl/en/search/persons"  data-hidden='{"c":"person"}'>
+          Persons</a>
+      </li>
+    <li>
+        <a href="https://www.universiteitleiden.nl/en/search/persons-by-expertise"  data-hidden='{"c":"personbyexpertise"}'>
+          Persons by expertise</a>
+      </li>
+    <li>
+        <a href="https://www.universiteitleiden.nl/en/search/subject"  data-hidden='{"c":"education","gsaentity_category":"Education"}'>
+          Education</a>
+      </li>
+    <li>
+        <a href="https://www.universiteitleiden.nl/en/search/subject"  data-hidden='{"c":"research","gsaentity_category":"Research"}'>
+          Research</a>
+      </li>
+    <li>
+        <a href="https://www.universiteitleiden.nl/en/search/subject"  data-hidden='{"c":"organization","gsaentity_category":"Organisation"}'>
+          Organisation</a>
+      </li>
+    <li>
+        <a href="https://www.universiteitleiden.nl/en/search/subject"  data-hidden='{"c":"subject","gsaentity_category":"Subject"}'>
+          Subject</a>
+      </li>
+    <li>
+        <a href="https://www.universiteitleiden.nl/en/search/subject"  data-hidden='{"c":"news","gsaentity_category":"News"}'>
+          News</a>
+      </li>
+    <li>
+        <a href="https://www.universiteitleiden.nl/en/search/subject"  data-hidden='{"c":"events","gsaentity_category":"Events"}'>
+          Events</a>
+      </li>
+    <li>
+        <a href="https://www.universiteitleiden.nl/en/search/subject"  data-hidden='{"c":"locations","gsaentity_category":"Location"}'>
+          Locations</a>
+      </li>
+    <li>
+        <a href="https://www.universiteitleiden.nl/en/search/subject"  data-hidden='{"c":"vacancies","gsaentity_category":"Vacancy"}'>
+          Vacancies</a>
+      </li>
+    <li>
+        <a href="https://www.universiteitleiden.nl/en/search/library"  data-hidden='{"c":"library"}'>
+          Library</a>
+      </li>
+    </ul>
+
+</form>
+
+<div class="language-btn-group">
+  <a href="https://www.universiteitleiden.nl/honours-academy?" class="btn">
+              <abbr title="Nederlands">nl</abbr>
+            </a>
+          <span class="btn active">
+          <abbr title="English">en</abbr>
+        </span>
+      </div></header>
+  <nav class="main-nav" data-menu-label="Menu">
+  <ul class="wrapper">
+
+    <li><a class="home" href="https://www.universiteitleiden.nl/en"><span>Home</span></a></li>
+    <li><a href="https://www.universiteitleiden.nl/en/research" >Research</a></li>
+
+  <li><a href="https://www.universiteitleiden.nl/en/education" >Education</a></li>
+
+  <li><a href="https://www.universiteitleiden.nl/en/academic-staff" >Academic staff</a></li>
+
+  <li><a href="https://www.universiteitleiden.nl/en/about-us" >About us</a></li>
+
+  <li><a href="https://www.universiteitleiden.nl/en/about-us/management-and-organisation/faculties" >Faculties</a></li>
+
+  <li><a href="https://www.universiteitleiden.nl/en/the-hague" >Campus The Hague</a></li>
+
+  <li><a href="http://www.library.universiteitleiden.nl/" >Library</a></li>
+
+  </ul>
+</nav></div>
+<!-- googleon: all-->
+<div class="main-container">
+      <div class="main wrapper clearfix">
+
+        <!-- googleoff: all-->
+<nav class="breadcrumb">
+    <ul>
+      <li><a href="https://www.universiteitleiden.nl/en">Home</a></li>
+
+      <li>Honours Academy</li>
+            </ul>
+  </nav>
+<!-- googleon: all-->
+<div class="hero">
+  <figure >
+          <img src="/binaries/content/gallery/ul2/main-images/honours-academy/ha/avh_0425_panorama_cropped-3.jpg/avh_0425_panorama_cropped-3.jpg/d1180x250" alt="" width="1180" height="250"/>
+          <figcaption class="credit">
+              </figcaption>
+          </figure>
+      </div><nav class="sub-nav" data-menu-label="Submenu">
+
+  <p class="parent">
+      <a href="https://www.universiteitleiden.nl/en/honours-academy" class="active">Overview</a>
+    </p>
+
+  <ul>
+      <li class="has-children">
+
+          <a href="https://www.universiteitleiden.nl/en/honours-academy/about-us" >About us</a>
+
+          </li>
+      <li class="has-children">
+
+          <a href="https://www.universiteitleiden.nl/en/honours-academy/education" >Education</a>
+
+          </li>
+      <li class="">
+
+          <a href="https://www.universiteitleiden.nl/en/honours-academy/partners" >Partners</a>
+
+          </li>
+      <li class="">
+
+          <a href="https://www.universiteitleiden.nl/en/honours-academy/honours-community" >Honours Community</a>
+
+          </li>
+      <li class="">
+
+          <a href="https://www.universiteitleiden.nl/en/honours-academy/board-of-examiners" >Board of Examiners</a>
+
+          </li>
+      <li class="">
+
+          <a href="https://www.universiteitleiden.nl/en/honours-academy/contact" >Contact</a>
+
+          </li>
+      </ul>
+
+  </nav>
+
+<div id="content">
+  <div class="sub-home">
+    <article>
+      <h1>Honours Academy</h1>
+
+      <p class="intro">Welcome to the website of the Honours Academy, the place where ambitious students work together on their future.</p>
+
+      <p>At the Honours Academy, high school students (VWO), bachelor’s students and master’s students follow extra education in addition to their regular studies. The Honours education is for students who are willing and able to do more; it &nbsp;is multidisciplinary, personal and future-oriented. Students achieve their ambitions by choosing their own path in tracks that offer both greater depth and venture outside of their own area of expertise. The Honours Academy aims to be a ‘testing ground’ and thus to promote educational innovation throughout the entire University.</p></article>
+
+    <div class="aside">
+      <ul class="tree">
+  <li class="active">
+      <a href="https://www.universiteitleiden.nl/en/honours-academy">Honours Academy</a>
+  <ul>
+      <li>
+          <a href="https://www.universiteitleiden.nl/honours-academy/pre-university-college">Pre-University College</a>
+  </li>
+      <li>
+          <a href="https://www.universiteitleiden.nl/honours-academy/pre-university-classes">Pre-University Classes</a>
+  </li>
+      <li>
+          <a href="https://www.universiteitleiden.nl/en/honours-academy/honours-college-and-classes">Honours College en Classes</a>
+  </li>
+      <li>
+          <a href="https://www.universiteitleiden.nl/en/honours-academy/leiden-leadership-programme">Leiden Leadership Programme</a>
+  </li>
+      <li>
+          <a href="https://www.universiteitleiden.nl/en/honours-academy/international-leiden-leadership-programme">International Leiden Leadership Programme</a>
+  </li>
+      </ul>
+  </li>
+
+  </ul>
+
+</div>
+
+  </div>
+
+  <div class="box-row threes">
+    <div class="box figure ">
+  <div class="box-content">
+    <a href="https://www.universiteitleiden.nl/en/honours-academy/partners">
+      <figure>
+        <img src="/binaries/content/gallery/ul2/main-images/honours-academy/ha/avh_8339-bewerkt.jpg" alt="" />
+      <figcaption>
+          <strong>Engagement</strong>
+          <span class="meta">Cooperation with field partners</span>
+          </figcaption>
+      </figure>
+    </a>
+  </div>
+</div><div class="box figure ">
+  <div class="box-content">
+    <a href="https://www.universiteitleiden.nl/en/honours-academy/education/student-at-your-desk">
+      <figure>
+        <img src="/binaries/content/gallery/ul2/main-images/honours-academy/ha/2017-05-12-capstone-conf-humlab---106-web-groot-bewerkt.jpg" alt="" />
+      <figcaption>
+          <strong>StudentAYD</strong>
+          <span class="meta">Students and lecturers innovate together</span>
+          </figcaption>
+      </figure>
+    </a>
+  </div>
+</div><div class="box figure ">
+  <div class="box-content">
+    <a href="https://www.universiteitleiden.nl/en/honours-academy/about-us/policy">
+      <figure>
+        <img src="/binaries/content/gallery/ul2/main-images/honours-academy/ha/avh_2497_resize.jpg" alt="" />
+      <figcaption>
+          <strong>Testing ground</strong>
+          <span class="meta">Improving education by doing</span>
+          </figcaption>
+      </figure>
+    </a>
+  </div>
+</div><div class="box">
+    <div class="box-header alt">
+        <h2>News</h2>
+      </div>
+    <div class="box-content">
+      <ul>
+        <li>
+            <a href="https://www.universiteitleiden.nl/en/news/2018/02/ten-nationalities-in-fifth-international-leiden-leadership-programme">
+    <img src="/binaries/content/gallery/ul2/main-images/honours-academy/nieuws/20170420-ebxt7813.jpg/20170420-ebxt7813.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <span class="meta">27 February 2018</span>
+      <strong>Ten nationalities in fifth International Leiden Leadership Programme</strong>
+    </div>
+</a>
+</li>
+        <li>
+            <a href="https://www.universiteitleiden.nl/en/news/2018/02/fgga-honours-course-wicked-problems-lab-has-started">
+    <img src="/binaries/content/gallery/ul2/main-images/campus-the-hague/honours-wpl-resized2.jpg/honours-wpl-resized2.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <span class="meta">06 February 2018</span>
+      <strong>FGGA Honours course &#039;Wicked Problems Lab&#039; has started</strong>
+    </div>
+</a>
+</li>
+        <li>
+            <a href="https://www.universiteitleiden.nl/en/news/2017/12/honours-students-of-the-%E2%80%98tackling-global-challenges%E2%80%99-track-present-their-impact-projects-as-part-of-the-competences-lab">
+    <img src="/binaries/content/gallery/ul2/main-images/campus-the-hague/img_5700.jpg/img_5700.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <span class="meta">08 December 2017</span>
+      <strong>Honours students of the ‘Tackling Global Challenges’ track present their impact projects</strong>
+    </div>
+</a>
+</li>
+        </ul>
+
+      <p class="more">
+        <a href="https://www.universiteitleiden.nl/en/news?interfaculty=honours-academy&interfacultyinstitute=pre-university-classes&interfacultyinstitute=honours-college&interfacultyinstitute=pre-university-college&interfacultyinstitute=international-leiden-leadership-programme&interfacultyinstitute=leiden-leadership-programme">More news</a>
+      </p>
+    </div>
+  </div>
+
+<div class="box events">
+    <div class="box-header alt">
+        <h2>Agenda</h2>
+      </div>
+    <div class="box-content">
+      <ul>
+        <li>
+            <a href="https://www.universiteitleiden.nl/en/events/2018/06/summer-celebration-honours-academy">
+
+  <span class="event-date one-day">
+      <time datetime="2018-06-01T16:30">
+        01<abbr title="June">
+          Jun</abbr>
+      </time>
+    </span>
+  <div>
+    <span class="meta alt"></span>
+    <strong>Summer Celebration Honours Academy</strong>
+    </div>
+
+</a></li>
+        <li>
+            <a href="https://www.universiteitleiden.nl/en/events/2018/11/certificate-ceremony-honours-college">
+
+  <span class="event-date one-day">
+      <time datetime="2018-11-15T15:45">
+        15<abbr title="November">
+          Nov</abbr>
+      </time>
+    </span>
+  <div>
+    <span class="meta alt">Certificate ceremony</span>
+    <strong>Certificate ceremony Honours College</strong>
+    </div>
+
+</a></li>
+        </ul>
+
+      <p class="more">
+        <a href="https://www.universiteitleiden.nl/en/events?interfaculty=honours-academy&interfacultyinstitute=pre-university-classes&interfacultyinstitute=honours-college&interfacultyinstitute=pre-university-college&interfacultyinstitute=international-leiden-leadership-programme&interfacultyinstitute=leiden-leadership-programme">More upcoming events</a>
+      </p>
+    </div> <!-- .box-content -->
+  </div>
+  <!-- .box.events -->
+
+<div class="box figure ">
+  <div class="box-content">
+    <a href="https://www.universiteitleiden.nl/en/honours-academy/honours-community">
+      <figure>
+        <img src="/binaries/content/gallery/ul2/main-images/honours-academy/ha/6234862_orig-bewerkt.jpg" alt="" />
+      <figcaption>
+          <strong>Honours Community</strong>
+          <span class="meta">Students who do more with honours</span>
+          </figcaption>
+      </figure>
+    </a>
+  </div>
+</div><div class="box banner bg-rood">
+  <div class="box-header">
+      <h2>Application Honours College</h2>
+    </div>
+  <div class="box-content">
+    <p>Do you want to apply for the Honours College? You can find all relevant information such as requirements, deadlines and application forms at the student website.</p>
+    <p class="more">
+        <a href="https://www.student.universiteitleiden.nl/en/study--studying/honours-education/honours-college/application">Go to the student website</a>
+      </p>
+    </div>
+</div>
+</div>
+
+</div></div>
+    </div>
+
+    <!-- googleoff: all-->
+<div class="footer-container">
+    <footer class="wrapper clearfix">
+      <section>
+          <h2>Study programmes</h2>
+              <ul>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/en/education/bachelors">Bachelor&#039;s programmes</a>
+                  </li>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/en/education/masters">Master&#039;s programmes</a>
+                  </li>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/en/research/studying-for-a-phd">PhD programmes</a>
+                  </li>
+                <li>
+                    <a href="http://summerschool.universiteitleiden.nl">Summer School</a>
+                  </li>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/en/education/other-modes-of-study">Other modes of study</a>
+                  </li>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/en/education/bachelors/information-activities/open-days">Bachelor&#039;s Open Days</a>
+                  </li>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/en/education/masters">Master&#039;s Open  Days</a>
+                  </li>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/en/education/admission-and-application">Admission &amp; Application</a>
+                  </li>
+                </ul>
+            </section>
+      <section>
+          <h2>Organisation</h2>
+              <ul>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/en/archaeology">Archaeology</a>
+                  </li>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/en/governance-and-global-affairs">Governance and Global Affairs</a>
+                  </li>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/en/humanities">Humanities</a>
+                  </li>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/en/law">Law</a>
+                  </li>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/en/medicine-lumc">Medicine/LUMC</a>
+                  </li>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/en/science">Science</a>
+                  </li>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/en/social-behavioural-sciences">Social and Behavioural Sciences</a>
+                  </li>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/en/african-studies-centre-leiden">African Studies Centre Leiden</a>
+                  </li>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/en/honours-academy">Honours Academy</a>
+                  </li>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/en/iclon">ICLON (Graduate School of Teaching)</a>
+                  </li>
+                </ul>
+            </section>
+      <section>
+          <h2>About us</h2>
+              <ul>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/en/working-at">Working at Leiden University</a>
+                  </li>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/en/alumni">Alumni</a>
+                  </li>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/en/about-us/impact">Impact</a>
+                  </li>
+                <li>
+                    <a href="http://www.leiden-delft-erasmus.nl/en/home">Leiden-Delft-Erasmus</a>
+                  </li>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/en/locations">Locations</a>
+                  </li>
+                <li>
+                    <a href="https://www.organisatiegids.universiteitleiden.nl/en/regulations/general/university-website-disclaimer">Disclaimer</a>
+                  </li>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/en/about-us/contact">Contact</a>
+                  </li>
+                </ul>
+            </section>
+      <section>
+          <h2>Connect with us</h2>
+              <ul>
+                  <li>
+                      <a href="http://www.leiden.edu/newsletter/address/">Sign up to receive our monthly newsletter</a>
+                    </li>
+                  </ul>
+              <div class="share">
+                <a href="https://www.facebook.com/UniversiteitLeiden" class="facebook"></a>
+                <a href="https://twitter.com/unileidennews" class="twitter"></a>
+                <a href="http://www.youtube.com/user/UniversiteitLeiden" class="youtube"></a>
+                <a href="http://www.linkedin.com/company/leiden-university" class="linkedin"></a>
+                <a href="https://instagram.com/universiteitleiden" class="instagram"></a>
+                <a href="https://plus.google.com/+UniversiteitLeiden" class="google-plus"></a>
+                </div>
+            </section>
+      </footer>
+  </div>
+<!-- googleon: all-->
+<script async defer src="/scripts/ul2.js" data-main="/scripts/ul2external/main.js"></script>
+<!-- this line enables the loading of asynchronous components (together with the headContributions at the top) -->
+    </body>
+</html>

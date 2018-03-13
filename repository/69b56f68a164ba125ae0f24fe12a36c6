@@ -1,0 +1,2581 @@
+<!DOCTYPE html>
+
+<html lang="en" data-version="1.69.03">
+
+  <head>
+
+    <!-- standard page html head -->
+<title>Staff - Leiden University</title>
+<meta name="google-site-verification" content="o8KYuFAiSZi6QWW1wxqKFvT1WQwN-BxruU42si9YjXw"/>
+<meta name="google-site-verification" content="hRUxrqIARMinLW2dRXrPpmtLtymnOTsg0Pl3WjHWQ4w"/>
+<link rel="canonical" href="https://www.universiteitleiden.nl/en/science/computer-science/staff"/>
+  <meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+<meta name="description" content="Find our staff members through one of the lists below."/>
+  <!-- icons -->
+<link rel="shortcut icon" href="https://www.universiteitleiden.nl/en/ul2common/icons/favicon.ico" />
+<link rel="icon" type="image/png" sizes="32x32" href="https://www.universiteitleiden.nl/en/ul2common/icons/icon-32px.png" />
+<link rel="icon" type="image/png" sizes="96x96" href="https://www.universiteitleiden.nl/en/ul2common/icons/icon-96px.png" />
+<link rel="icon" type="image/png" sizes="195x195" href="https://www.universiteitleiden.nl/en/ul2common/icons/icon-195px.png" />
+
+<link rel="apple-touch-icon" href="https://www.universiteitleiden.nl/en/ul2common/icons/icon-120px.png" /> <!-- iPhone retina -->
+<link rel="apple-touch-icon" sizes="180x180" href="https://www.universiteitleiden.nl/en/ul2common/icons/icon-180px.png" /> <!-- iPhone 6 plus -->
+<link rel="apple-touch-icon" sizes="152x152" href="https://www.universiteitleiden.nl/en/ul2common/icons/icon-152px.png" /> <!-- iPad retina -->
+<link rel="apple-touch-icon" sizes="167x167" href="https://www.universiteitleiden.nl/en/ul2common/icons/icon-167px.png" /> <!-- iPad pro -->
+<!-- twitter -->
+<meta property="twitter:card" content="summary"/>
+<meta property="twitter:site" content="@UniLeiden"/>
+<meta property="twitter:title" content="Staff"/>
+<meta property="twitter:description" content="Find our staff members through one of the lists below."/>
+<!-- Open Graph -->
+<meta property="og:title" content="Staff"/>
+<meta property="og:type" content="website"/>
+<meta property="og:description" content="Find our staff members through one of the lists below."/>
+<meta property="og:site_name" content="Leiden University"/>
+<meta property="og:locale" content="en_US"/>
+<meta property="og:image" content="https://www.universiteitleiden.nl/en/ul2common/icons/icon-195px.png"/>
+  <meta property="og:url" content="https://www.universiteitleiden.nl/en/science/computer-science/staff"/>
+  <meta name="application-name" content="search"
+       data-protected="false" data-language="en" data-last-modified-date="2017-01-20" data-publication-date="2017-01-20" data-uuid="3cccd74a-3c46-40bc-b312-d497e27545e1" data-website="external-site"><!-- Favicon and CSS -->
+<link rel='shortcut icon' href="https://www.universiteitleiden.nl/en/ul2common/icons/favicon.ico"/>
+<link rel="stylesheet" href="https://www.universiteitleiden.nl/en/ul2external/styles/screen.css?v=1.69.03"/>
+<!-- Google Tag Manager -->
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+      'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-MR67S7X');
+</script>
+<!-- End Google Tag Manager -->
+<!-- this line enables the loading of asynchronous components (together with the headContributions at the bottom) -->
+    <!-- Header Scripts -->
+    <!-- Please configure Google Analytics Account ID in the Channel Manager / Channel configuration to enable Google Analytics page tracking -->
+
+  </head>
+
+  <body class=" right science">
+    <!-- Google Tag Manager -->
+
+<!-- Google Tag Manager --><!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MR67S7X"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<!-- To enable JS-based styles: -->
+    <script> document.body.className += ' js'; </script>
+
+    <!-- googleoff: all-->
+<div class="header-container">
+  <header class="wrapper clearfix">
+
+    <h1 class="logo">
+      <a href="https://www.universiteitleiden.nl/en">
+        <img width="151" height="64" src="https://www.universiteitleiden.nl/en/ul2common/images/zegel.png" alt="Universiteit Leiden"/>
+      </a>
+    </h1>
+
+    <ul class="top-nav">
+
+  <li><a href="https://www.student.universiteitleiden.nl/en" >Current students</a></li>
+
+  <li><a href="https://www.universiteitleiden.nl/en/alumni" >Alumni</a></li>
+
+  <li><a href="https://www.staff.universiteitleiden.nl" >Staff members</a></li>
+
+  </ul><!-- Standard page searchbox -->
+<form id="search" method="get" action="https://www.universiteitleiden.nl/en/search">
+
+  <fieldset>
+    <input type="search" name="q" value="">
+    <button class="submit" type="submit">
+      <span>Search</span>
+    </button>
+  </fieldset>
+
+  <ul class="options">
+    <li>
+        <a href="https://www.universiteitleiden.nl/en/search" class="active" data-hidden='{"c":"all"}'>
+          All</a>
+      </li>
+    <li>
+        <a href="https://www.universiteitleiden.nl/en/search/persons"  data-hidden='{"c":"person"}'>
+          Persons</a>
+      </li>
+    <li>
+        <a href="https://www.universiteitleiden.nl/en/search/persons-by-expertise"  data-hidden='{"c":"personbyexpertise"}'>
+          Persons by expertise</a>
+      </li>
+    <li>
+        <a href="https://www.universiteitleiden.nl/en/search/subject"  data-hidden='{"c":"education","gsaentity_category":"Education"}'>
+          Education</a>
+      </li>
+    <li>
+        <a href="https://www.universiteitleiden.nl/en/search/subject"  data-hidden='{"c":"research","gsaentity_category":"Research"}'>
+          Research</a>
+      </li>
+    <li>
+        <a href="https://www.universiteitleiden.nl/en/search/subject"  data-hidden='{"c":"organization","gsaentity_category":"Organisation"}'>
+          Organisation</a>
+      </li>
+    <li>
+        <a href="https://www.universiteitleiden.nl/en/search/subject"  data-hidden='{"c":"subject","gsaentity_category":"Subject"}'>
+          Subject</a>
+      </li>
+    <li>
+        <a href="https://www.universiteitleiden.nl/en/search/subject"  data-hidden='{"c":"news","gsaentity_category":"News"}'>
+          News</a>
+      </li>
+    <li>
+        <a href="https://www.universiteitleiden.nl/en/search/subject"  data-hidden='{"c":"events","gsaentity_category":"Events"}'>
+          Events</a>
+      </li>
+    <li>
+        <a href="https://www.universiteitleiden.nl/en/search/subject"  data-hidden='{"c":"locations","gsaentity_category":"Location"}'>
+          Locations</a>
+      </li>
+    <li>
+        <a href="https://www.universiteitleiden.nl/en/search/subject"  data-hidden='{"c":"vacancies","gsaentity_category":"Vacancy"}'>
+          Vacancies</a>
+      </li>
+    <li>
+        <a href="https://www.universiteitleiden.nl/en/search/library"  data-hidden='{"c":"library"}'>
+          Library</a>
+      </li>
+    </ul>
+
+</form>
+
+<div class="language-btn-group">
+  <a href="https://www.universiteitleiden.nl/wiskunde-en-natuurwetenschappen/informatica/medewerkers?" class="btn">
+              <abbr title="Nederlands">nl</abbr>
+            </a>
+          <span class="btn active">
+          <abbr title="English">en</abbr>
+        </span>
+      </div></header>
+  <nav class="main-nav" data-menu-label="Menu">
+  <ul class="wrapper">
+
+    <li><a class="home" href="https://www.universiteitleiden.nl/en"><span>Home</span></a></li>
+    <li><a href="https://www.universiteitleiden.nl/en/research" >Research</a></li>
+
+  <li><a href="https://www.universiteitleiden.nl/en/education" >Education</a></li>
+
+  <li><a href="https://www.universiteitleiden.nl/en/academic-staff" >Academic staff</a></li>
+
+  <li><a href="https://www.universiteitleiden.nl/en/about-us" >About us</a></li>
+
+  <li><a href="https://www.universiteitleiden.nl/en/about-us/management-and-organisation/faculties" >Faculties</a></li>
+
+  <li><a href="https://www.universiteitleiden.nl/en/the-hague" >Campus The Hague</a></li>
+
+  <li><a href="http://www.library.universiteitleiden.nl/" >Library</a></li>
+
+  </ul>
+</nav></div>
+<!-- googleon: all-->
+<div class="main-container">
+      <div class="main wrapper clearfix">
+
+        <!-- googleoff: all-->
+<nav class="breadcrumb">
+    <ul>
+      <li><a href="https://www.universiteitleiden.nl/en">Home</a></li>
+
+      <li><a href="https://www.universiteitleiden.nl/en/science">Faculty of Science</a></li>
+            <li><a href="https://www.universiteitleiden.nl/en/science/computer-science">Artificial Intelligence &amp; Computer Science</a></li>
+            <li>Staff</li>
+            </ul>
+  </nav>
+<!-- googleon: all-->
+<div class="hero">
+  <figure >
+          <img src="/binaries/content/gallery/ul2/main-images/science/liacs.jpg/liacs.jpg/d1180x250" alt="" width="1180" height="250"/>
+          <figcaption class="credit">
+              </figcaption>
+          </figure>
+      </div><nav class="sub-nav" data-menu-label="Submenu">
+
+  <p class="parent">
+      <a href="https://www.universiteitleiden.nl/en/science/computer-science" class="active">Overview</a>
+    </p>
+
+  <ul>
+      <li class="has-children">
+
+          <a href="https://www.universiteitleiden.nl/en/science/computer-science/about-us" >About us</a>
+
+          </li>
+      <li class="has-children">
+
+          <a href="https://www.universiteitleiden.nl/en/science/computer-science/research" >Research</a>
+
+          </li>
+      <li class="">
+
+          <a href="https://www.universiteitleiden.nl/en/science/computer-science/education" >Education</a>
+
+          </li>
+      <li class="has-children open">
+
+          <a href="https://www.universiteitleiden.nl/en/science/computer-science/staff" class="active">Staff</a>
+
+          <ul>
+              <li class="">
+                  <a href="https://www.universiteitleiden.nl/en/science/computer-science/staff/prof.-g.-rozenberg" >Grzegorz Rozenberg</a>
+                </li>
+
+              </ul>
+          </li>
+      <li class="has-children">
+
+          <a href="https://www.universiteitleiden.nl/en/science/computer-science/collaboration" >Collaboration</a>
+
+          </li>
+      <li class="">
+
+          <a href="https://www.universiteitleiden.nl/en/science/computer-science/contact" >Contact</a>
+
+          </li>
+      <li class="">
+
+          <a href="http://liacs.leidenuniv.nl/organization" >Information for staff</a>
+
+          </li>
+      <li class="">
+
+          <a href="http://liacs.leidenuniv.nl/edu" >Information for students</a>
+
+          </li>
+      <li class="">
+
+          <a href="https://www.universiteitleiden.nl/en/science/computer-science/organisation-liacs" >Organisation LIACS</a>
+
+          </li>
+      </ul>
+
+  </nav>
+
+<div id="content">
+  <div class="sub-home">
+    <article>
+      <p class="context">Artificial Intelligence &amp; Computer Science</p>
+      <h1>Staff</h1>
+
+      <p class="intro">Find our staff members through one of the lists below.</p>
+    </article>
+  </div>
+
+  <section class="tab  active" data-tab-label="All Staffmembers">
+      <ul class="table-list">
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/wendy-aartsen">
+    <img src="/binaries/content/gallery/ul2/portraits/science/wendy-aartsen2.jpg/wendy-aartsen2.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Wendy Aartsen</strong>
+      <span class="meta">Postdoc / guest</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/amr-ali-eldin">
+    <img src="https://www.universiteitleiden.nl/en/ul2common/images/no-photo-small.jpg" alt="" width="50" height="50"/>
+      <div>
+      <strong>Amr Ali-Eldin</strong>
+      <span class="meta">Lecturer / guest</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/marie-anastacio">
+    <img src="/binaries/content/gallery/ul2/portraits/science/marie-anastacio2.jpg/marie-anastacio2.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Marie Anastacio</strong>
+      <span class="meta">PhD candidate</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/farhad-arbab">
+    <img src="/binaries/content/gallery/ul2/portraits/science/a/f-arbab-liacs.jpg/f-arbab-liacs.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Farhad Arbab</strong>
+      <span class="meta">Professor of Software composition</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/erwin-bakker">
+    <img src="/binaries/content/gallery/ul2/portraits/science/no-picture.png/no-picture.png/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Erwin Bakker</strong>
+      <span class="meta">Researcher</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/mitra-baratchi">
+    <img src="/binaries/content/gallery/ul2/portraits/science/mitra-baratchi3.jpg/mitra-baratchi3.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Mitra Baratchi</strong>
+      <span class="meta">Assistant professor</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/annemart-berendse">
+    <img src="/binaries/content/gallery/ul2/portraits/science/annemart-berendse2.jpg/annemart-berendse2.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Annemart Berendse</strong>
+      <span class="meta">PhD candidate / guest</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/arianna-bisazza">
+    <img src="/binaries/content/gallery/ul2/portraits/science/arianna-bisazza-2.jpg/arianna-bisazza-2.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Arianna Bisazza</strong>
+      <span class="meta">Assistant professor</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/koen-van-der-blom">
+    <img src="/binaries/content/gallery/ul2/portraits/science/b/k.-van-der-blom-liacs-200.jpg/k.-van-der-blom-liacs-200.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Koen van der Blom</strong>
+      <span class="meta">PhD candidate</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/frank-de-boer">
+    <img src="https://www.universiteitleiden.nl/en/ul2common/images/no-photo-small.jpg" alt="" width="50" height="50"/>
+      <div>
+      <strong>Frank de Boer</strong>
+      <span class="meta">Professor of Software correctness</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/marcello-bonsangue">
+    <img src="/binaries/content/gallery/ul2/portraits/science/b/m.-bonsangue-liacs-200.jpg/m.-bonsangue-liacs-200.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Marcello Bonsangue</strong>
+      <span class="meta">Director of education / associate professor</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/arienne-bruin">
+    <img src="/binaries/content/gallery/ul2/portraits/science/arienne-bruin2.jpg/arienne-bruin2.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Ariënne Bruin</strong>
+      <span class="meta">Education support officer</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/gerrit-jan-de-bruin">
+    <img src="/binaries/content/gallery/ul2/portraits/science/gerrit-jan---2.jpg/gerrit-jan---2.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Gerrit-Jan de Bruin</strong>
+      <span class="meta">PhD candidate</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/benjamin-van-der-burgh">
+    <img src="https://www.universiteitleiden.nl/en/ul2common/images/no-photo-small.jpg" alt="" width="50" height="50"/>
+      <div>
+      <strong>Benjamin van der Burgh</strong>
+      <span class="meta">Education an research staff member</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/thomas-back">
+    <img src="/binaries/content/gallery/ul2/portraits/science/b/thomas-back-liacs-200.jpg/thomas-back-liacs-200.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Thomas Bäck</strong>
+      <span class="meta">Professor of Natural computing</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/fuyu-cai">
+    <img src="/binaries/content/gallery/ul2/portraits/science/fuyu-cai-2.jpg/fuyu-cai-2.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Fuyu Cai</strong>
+      <span class="meta">Postdoc / guest</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/esme-caubo">
+    <img src="/binaries/content/gallery/ul2/portraits/science/c/e.-caubo-liacs-200.jpg/e.-caubo-liacs-200.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Esme Caubo</strong>
+      <span class="meta">Education coordinator</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/michel-chaudron">
+    <img src="/binaries/content/gallery/ul2/portraits/science/michel-chaudron.jpg/michel-chaudron.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Michel Chaudron</strong>
+      <span class="meta">Associate professor</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/wei-chen">
+    <img src="/binaries/content/gallery/ul2/portraits/science/wei-chen2.jpg/wei-chen2.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Wei Chen</strong>
+      <span class="meta">PhD candidate / guest</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/lucas-de-almeida-ribeiro">
+    <img src="https://www.universiteitleiden.nl/en/ul2common/images/no-photo-small.jpg" alt="" width="50" height="50"/>
+      <div>
+      <strong>Lucas De Almeida Ribeiro</strong>
+      <span class="meta">PhD candidate / guest</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/ricardo-de-gouveia-da-costa-cachucho">
+    <img src="/binaries/content/gallery/ul2/portraits/science/c/r.-cachucho-liacs-200.jpg/r.-cachucho-liacs-200.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Ricardo De Gouveia da Costa Cachucho</strong>
+      <span class="meta">PhD candidate</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/ed-deprettere">
+    <img src="https://www.universiteitleiden.nl/en/ul2common/images/no-photo-small.jpg" alt="" width="50" height="50"/>
+      <div>
+      <strong>Ed Deprettere</strong>
+      <span class="meta">Professor emeritus of Information technology</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/riet-derogee">
+    <img src="/binaries/content/gallery/ul2/portraits/science/riet-derogee-2.jpg/riet-derogee-2.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Riet Derogee</strong>
+      <span class="meta">Education coordinator / study adviser</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/andre-deutz">
+    <img src="/binaries/content/gallery/ul2/portraits/science/d/andre-deutz.jpg/andre-deutz.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Andre Deutz</strong>
+      <span class="meta">Lecturer / guest</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/feibo-duan">
+    <img src="/binaries/content/gallery/ul2/portraits/science/feibo-duan--2.jpg/feibo-duan--2.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Feibo Duan</strong>
+      <span class="meta">PhD candidate / guest</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/max-van-duijn">
+    <img src="/binaries/content/gallery/ul2/portraits/science/d/max-van-duijn.jpg/max-van-duijn.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Max van Duijn</strong>
+      <span class="meta">Assistant professor</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/wim-van-eck">
+    <img src="/binaries/content/gallery/ul2/portraits/science/no-picture.png/no-picture.png/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Wim van Eck</strong>
+      <span class="meta">PhD candidate / guest</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/abdeljalil-el-boujadayni">
+    <img src="/binaries/content/gallery/ul2/portraits/science/b/abdel-el-boujadayni.jpg/abdel-el-boujadayni.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Abdeljalil El Boujadayni</strong>
+      <span class="meta">Front office staff member</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/michael-emmerich">
+    <img src="/binaries/content/gallery/ul2/portraits/science/e/m-emmerich-liacs.jpg/m-emmerich-liacs.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Michael Emmerich</strong>
+      <span class="meta">Associate professor</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/joost-engelfriet">
+    <img src="/binaries/content/gallery/ul2/portraits/science/e/j-engelfriet-liacs.jpg/j-engelfriet-liacs.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Joost Engelfriet</strong>
+      <span class="meta">Associate professor / guest</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/hui-feng">
+    <img src="/binaries/content/gallery/ul2/portraits/science/f/h.-feng-liacs-200.jpg/h.-feng-liacs-200.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Hui Feng</strong>
+      <span class="meta">PhD candidate / guest</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/christian-fuchs">
+    <img src="https://www.universiteitleiden.nl/en/ul2common/images/no-photo-small.jpg" alt="" width="50" height="50"/>
+      <div>
+      <strong>Christian Fuchs</strong>
+      <span class="meta">PhD candidate</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/theodoros-georgiou">
+    <img src="/binaries/content/gallery/ul2/portraits/science/theodoris-georgiou-2.jpg/theodoris-georgiou-2.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Theodoros Georgiou</strong>
+      <span class="meta">PhD candidate</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/alexandre-goultiaev">
+    <img src="/binaries/content/gallery/ul2/portraits/science/g/alexander-goultiaev.jpg/alexander-goultiaev.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Alexandre Goultiaev</strong>
+      <span class="meta">Assistant professor</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/vian-govers">
+    <img src="/binaries/content/gallery/ul2/portraits/science/no-picture.png/no-picture.png/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Vian Govers</strong>
+      <span class="meta">ICT manager</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/jeannette-de-graaf">
+    <img src="/binaries/content/gallery/ul2/portraits/science/jeannette-de-graaf2.jpg/jeannette-de-graaf2.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Jeannette de Graaf</strong>
+      <span class="meta">Assistant professor</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/lucas-groenewegen">
+    <img src="/binaries/content/gallery/ul2/portraits/science/luuk-groenewegen.jpg/luuk-groenewegen.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Lucas Groenewegen</strong>
+      <span class="meta">Lecturer / guest</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/marcello-gomez-maureira">
+    <img src="/binaries/content/gallery/ul2/portraits/science/marcello-gomez2.jpg/marcello-gomez2.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Marcello Gómez Maureira</strong>
+      <span class="meta">Education and research staff member</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/bas-haring">
+    <img src="/binaries/content/gallery/ul2/portraits/science/h/bas-haring.jpg/bas-haring.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Bas Haring</strong>
+      <span class="meta">Professor Public understanding of science</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/edwin-van-der-heide">
+    <img src="/binaries/content/gallery/ul2/portraits/science/h/e-van-der-heide-liacs.jpg/e-van-der-heide-liacs.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Edwin van der Heide</strong>
+      <span class="meta">Lecturer</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/leon-helwerda">
+    <img src="/binaries/content/gallery/ul2/portraits/science/leon-helwerda2.jpg/leon-helwerda2.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Leon Helwerda</strong>
+      <span class="meta">PhD candidate</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/jaap-van-den-herik">
+    <img src="/binaries/content/gallery/ul2/portraits/science/h/jaap-van-den-herik-web.jpg/jaap-van-den-herik-web.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Jaap van den Herik</strong>
+      <span class="meta">Professor of Law and Computer Science</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/hendrik-jan-hoogeboom">
+    <img src="/binaries/content/gallery/ul2/portraits/science/h/hj-hoogeboom-liacs.jpg/hj-hoogeboom-liacs.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Hendrik Jan Hoogeboom</strong>
+      <span class="meta">Assistant professor</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/holger-hoos">
+    <img src="/binaries/content/gallery/ul2/main-images/science/liacs/holger-hoos-pasfoto.jpg/holger-hoos-pasfoto.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Holger Hoos</strong>
+      <span class="meta">Professor of Machine learning</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/mariska-huijnen">
+    <img src="/binaries/content/gallery/ul2/portraits/science/h/mariska-huijnen-liacs-200.jpg/mariska-huijnen-liacs-200.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Mariska Huijnen</strong>
+      <span class="meta">Secretary</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/eline-huisjes">
+    <img src="/binaries/content/gallery/ul2/portraits/science/h/youdid-lu--eline-huisjes.jpg/youdid-lu--eline-huisjes.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Eline Huisjes</strong>
+      <span class="meta">Institute manager</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/simcha-jong-kon-chin">
+    <img src="/binaries/content/gallery/ul2/portraits/science/j/jong_simcha-1-2.jpg/jong_simcha-1-2.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Simcha Jong Kon Chin</strong>
+      <span class="meta">Professor of Science-based business</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/catholijn-jonker">
+    <img src="https://www.universiteitleiden.nl/en/ul2common/images/no-photo-small.jpg" alt="" width="50" height="50"/>
+      <div>
+      <strong>Catholijn Jonker</strong>
+      <span class="meta">Professor of Explainable artificial intellegence</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/harmen-jousma">
+    <img src="/binaries/content/gallery/ul2/portraits/science/h/harmen-jousma-200-x-250.jpg/harmen-jousma-200-x-250.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Harmen Jousma</strong>
+      <span class="meta">Programme manager</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/bart-kienhuis">
+    <img src="/binaries/content/gallery/ul2/portraits/science/k/b-kienhuis-liacs.jpg/b-kienhuis-liacs.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Bart Kienhuis</strong>
+      <span class="meta">Assistant professor / guest</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/jetty-kleijn">
+    <img src="/binaries/content/gallery/ul2/portraits/science/k/j-kleijn-liacs.jpg/j-kleijn-liacs.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Jetty Kleijn</strong>
+      <span class="meta">Associate professor</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/arno-knobbe">
+    <img src="/binaries/content/gallery/ul2/portraits/science/k/a-knobbe-liacs.jpg/a-knobbe-liacs.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Arno Knobbe</strong>
+      <span class="meta">Assistant professor</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/nuray-koc">
+    <img src="/binaries/content/gallery/ul2/portraits/science/nuray-koc-4.jpg/nuray-koc-4.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Nuray Koc</strong>
+      <span class="meta">Administrator</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/joost-kok">
+    <img src="/binaries/content/gallery/ul2/portraits/science/k/j.n.-kok-liacs-200.jpg/j.n.-kok-liacs-200.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Joost Kok</strong>
+      <span class="meta"></span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/walter-kosters">
+    <img src="/binaries/content/gallery/ul2/portraits/science/k/walter-kosters-liacs.jpg/walter-kosters-liacs.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Walter Kosters</strong>
+      <span class="meta">Associate professor</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/erik-van-der-kouwe">
+    <img src="/binaries/content/gallery/ul2/portraits/science/erik-van-der-kouwe-2.jpg/erik-van-der-kouwe-2.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Erik van der Kouwe</strong>
+      <span class="meta">Assistant professor</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/wojtek-kowalczyk">
+    <img src="/binaries/content/gallery/ul2/portraits/science/wojtek-kowalczyk.jpg/wojtek-kowalczyk.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Wojtek Kowalczyk</strong>
+      <span class="meta">Assistant professor</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/wessel-kraaij">
+    <img src="/binaries/content/gallery/ul2/main-images/science/liacs/wessel_02-crop-small.jpg/wessel_02-crop-small.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Wessel Kraaij</strong>
+      <span class="meta">Professor of Applied data analytics</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/pieter-kwantes">
+    <img src="/binaries/content/gallery/ul2/portraits/science/k/pieter-kwantes-liacs.jpg/pieter-kwantes-liacs.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Pieter Kwantes</strong>
+      <span class="meta">PhD candidate</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/alfons-laarman">
+    <img src="/binaries/content/gallery/ul2/portraits/science/alfons-laarman-2.jpg/alfons-laarman-2.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Alfons Laarman</strong>
+      <span class="meta">Assistant professor</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/maarten-lamers">
+    <img src="/binaries/content/gallery/ul2/portraits/science/l/maarten-lamers-liacs.jpg/maarten-lamers-liacs.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Maarten Lamers</strong>
+      <span class="meta">Lecturer</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/robin-de-lange">
+    <img src="/binaries/content/gallery/ul2/portraits/science/robin-de-lange.jpg/robin-de-lange.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Robin de Lange</strong>
+      <span class="meta">PhD candidate / guest</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/anna-latour">
+    <img src="/binaries/content/gallery/ul2/portraits/science/l/anna-latour-liacs.jpg/anna-latour-liacs.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Anna Latour</strong>
+      <span class="meta">PhD candidate</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/arie-willem-de-leeuw">
+    <img src="/binaries/content/gallery/ul2/portraits/science/arie-willem-de-leeuw2.jpg/arie-willem-de-leeuw2.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Arie-Willem de Leeuw</strong>
+      <span class="meta">Postdoc</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/matthijs-van-leeuwen">
+    <img src="/binaries/content/gallery/ul2/portraits/science/matthijs-van-leeuwen.jpg/matthijs-van-leeuwen.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Matthijs van Leeuwen</strong>
+      <span class="meta">Assistant professor</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/jeroen-van-der-leije">
+    <img src="/binaries/content/gallery/ul2/portraits/science/jeroen-van-der-leije2.jpg/jeroen-van-der-leije2.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Jeroen van der Leijé</strong>
+      <span class="meta">Business liaison / guest</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/michael-lew">
+    <img src="/binaries/content/gallery/ul2/portraits/science/l/michael-lew-liacs.jpg/michael-lew-liacs.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Michael Lew</strong>
+      <span class="meta">Associate professor</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/jun-li">
+    <img src="https://www.universiteitleiden.nl/en/ul2common/images/no-photo-small.jpg" alt="" width="50" height="50"/>
+      <div>
+      <strong>Jun Li</strong>
+      <span class="meta">Postdoc / guest</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/xishu-li">
+    <img src="/binaries/content/gallery/ul2/portraits/science/l/wuta_2017-10-25_14-41-48_mr1508935440873_mh1508935522875.jpg/wuta_2017-10-25_14-41-48_mr1508935440873_mh1508935522875.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Xishu Li</strong>
+      <span class="meta">Assistant professor</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/danyi-liu">
+    <img src="/binaries/content/gallery/ul2/portraits/science/danyi.jpg/danyi.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Danyi Liu</strong>
+      <span class="meta">PhD candidate / guest</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/yu-liu">
+    <img src="/binaries/content/gallery/ul2/portraits/science/l/y-liu-liacs.jpg/y-liu-liacs.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Yu Liu</strong>
+      <span class="meta">PhD candidate / guest</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/peter-lucas">
+    <img src="/binaries/content/gallery/ul2/portraits/science/peter-lucas.jpg/peter-lucas.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Peter Lucas</strong>
+      <span class="meta">Extraordinary professor of Artificial intelligence</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/chuan-luo">
+    <img src="https://www.universiteitleiden.nl/en/ul2common/images/no-photo-small.jpg" alt="" width="50" height="50"/>
+      <div>
+      <strong>Chuan Luo</strong>
+      <span class="meta">Postdoc</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/stefan-manegold">
+    <img src="/binaries/content/gallery/ul2/portraits/science/m/s-manegold-liacs.jpg/s-manegold-liacs.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Stefan Manegold</strong>
+      <span class="meta">Professor of Computer science</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/hugo-manuel-proenca">
+    <img src="/binaries/content/gallery/ul2/portraits/science/p/h.-proenca-liacs-200.jpg/h.-proenca-liacs-200.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Hugo Manuel Proença</strong>
+      <span class="meta">PhD candidate</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/irene-martorelli">
+    <img src="/binaries/content/gallery/ul2/portraits/science/irene-marterelli-2.jpg/irene-marterelli-2.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Irene Martorelli</strong>
+      <span class="meta">Research staff member</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/marvin-meeng">
+    <img src="/binaries/content/gallery/ul2/portraits/science/m/m-meeng-liacs.jpg/m-meeng-liacs.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Marvin Meeng</strong>
+      <span class="meta">PhD candidate</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/rens-meerhoff">
+    <img src="/binaries/content/gallery/ul2/portraits/science/rens-meerhoff.2jpg.jpg/rens-meerhoff.2jpg.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Rens Meerhoff</strong>
+      <span class="meta">Postdoc</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/quinten-meertens">
+    <img src="/binaries/content/gallery/ul2/portraits/science/quinten-meertens-3.jpg/quinten-meertens-3.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Quinten Meertens</strong>
+      <span class="meta">PhD candidate / guest</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/dirk-meijer">
+    <img src="/binaries/content/gallery/ul2/portraits/science/dirk-meijer2.jpg/dirk-meijer2.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Dirk Meijer</strong>
+      <span class="meta">PhD candidate</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/nanda-milbreta">
+    <img src="/binaries/content/gallery/ul2/portraits/science/nanda-milbreta-2.jpg/nanda-milbreta-2.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Nanda Milbreta</strong>
+      <span class="meta">Education coordinator / study advisor</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/svetlana-minakova">
+    <img src="/binaries/content/gallery/ul2/portraits/science/svetlana-minakova2.jpg/svetlana-minakova2.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Svetlana Minakova</strong>
+      <span class="meta">PhD candidate</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/jose-miotto">
+    <img src="/binaries/content/gallery/ul2/portraits/science/m/j.m.-miotto-liacs-200.jpg/j.m.-miotto-liacs-200.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Jose Miotto</strong>
+      <span class="meta">Postdoc</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/ali-mirsoleimani">
+    <img src="/binaries/content/gallery/ul2/portraits/science/m/ali-mirsoleimani-liacs-200.jpg/ali-mirsoleimani-liacs-200.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Ali Mirsoleimani</strong>
+      <span class="meta">PhD candidate / gast</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/marloes-van-der-nat">
+    <img src="/binaries/content/gallery/ul2/portraits/science/marloes-van-der-nat2.jpg/marloes-van-der-nat2.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Marloes van der Nat</strong>
+      <span class="meta">Management assistant</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/florian-neukart">
+    <img src="/binaries/content/gallery/ul2/portraits/science/florian-neukart.jpg/florian-neukart.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Florian Neukart</strong>
+      <span class="meta">Postdoc  / guest</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/duc-nguyen">
+    <img src="/binaries/content/gallery/ul2/portraits/science/duc-nguyen-2.jpg/duc-nguyen-2.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Duc Nguyen</strong>
+      <span class="meta">Postdoc</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/siegfried-nijssen">
+    <img src="/binaries/content/gallery/ul2/portraits/science/n/siegfried-nijssen-liacs.jpg/siegfried-nijssen-liacs.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Siegfried Nijssen</strong>
+      <span class="meta">Postdoc / guest</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/sobhan-niknam">
+    <img src="/binaries/content/gallery/ul2/portraits/science/sobhan-niknam.jpg/sobhan-niknam.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Sobhan Niknam</strong>
+      <span class="meta">PhD candidate</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/angela-noble">
+    <img src="/binaries/content/gallery/ul2/portraits/luris/angela-noble.jpg/angela-noble.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Angela Noble</strong>
+      <span class="meta">Senior Grant Advisor</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/alexander-ollongren">
+    <img src="/binaries/content/gallery/ul2/portraits/science/a.-ollongren.jpg/a.-ollongren.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Alexander Ollongren</strong>
+      <span class="meta">Professor emeritus of Computer science</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/cong-peng">
+    <img src="/binaries/content/gallery/ul2/portraits/science/cong-peng--2.jpg/cong-peng--2.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Cong Peng</strong>
+      <span class="meta">PhD candidate / guest</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/antonio-pereira-barata">
+    <img src="/binaries/content/gallery/ul2/portraits/science/antonio-barata--2.jpg/antonio-barata--2.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>António Pereira Barata</strong>
+      <span class="meta">PhD candidate</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/stefan-pickl">
+    <img src="https://www.universiteitleiden.nl/en/ul2common/images/no-photo-small.jpg" alt="" width="50" height="50"/>
+      <div>
+      <strong>Stefan Pickl</strong>
+      <span class="meta">Lecturer / guest</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/mark-pijnenburg">
+    <img src="/binaries/content/gallery/ul2/portraits/science/mark-pijnenburg.jpg/mark-pijnenburg.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Mark Pijnenburg</strong>
+      <span class="meta">PhD candidate / guest</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/claudio-pinho-rebelo-de-sa">
+    <img src="/binaries/content/gallery/ul2/portraits/science/claudio-pinho-rebelo-de-sa2.jpg/claudio-pinho-rebelo-de-sa2.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>claudio Pinho Rebelo de Sá</strong>
+      <span class="meta">Postdoc</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/alexandra-piet">
+    <img src="/binaries/content/gallery/ul2/portraits/science/alexandra-piet---2.jpg/alexandra-piet---2.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Alexandra Piët</strong>
+      <span class="meta">Administrative staff member</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/aske-plaat">
+    <img src="/binaries/content/gallery/ul2/portraits/science/p/aske-plaat.jpg/aske-plaat.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Aske Plaat</strong>
+      <span class="meta">Scientific director / professor of Data science</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/peter-van-der-putten">
+    <img src="/binaries/content/gallery/ul2/portraits/science/peter-van-der-putten-2.jpg/peter-van-der-putten-2.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Peter van der Putten</strong>
+      <span class="meta">Assistant Professor</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/mirjam-van-reisen">
+    <img src="/binaries/content/gallery/ul2/portraits/science/r/mirjam-van-reisen-portret.jpg/mirjam-van-reisen-portret.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Mirjam van Reisen</strong>
+      <span class="meta">Professor of Computing for society</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/kristian-rietveld">
+    <img src="/binaries/content/gallery/ul2/portraits/science/r/2017-11-23-liacs---kristian-rietveld---07a-200x250.jpg/2017-11-23-liacs---kristian-rietveld---07a-200x250.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Kristian Rietveld</strong>
+      <span class="meta">Assistant professor</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/sander-van-rijn">
+    <img src="/binaries/content/gallery/ul2/portraits/science/r/sander-van-rijn-liacs-200.jpg/sander-van-rijn-liacs-200.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Sander van Rijn</strong>
+      <span class="meta">PhD candidate</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/grzegorz-rozenberg">
+    <img src="/binaries/content/gallery/ul2/portraits/science/r/g-rozenberg-liacs.jpg/g-rozenberg-liacs.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Grzegorz Rozenberg</strong>
+      <span class="meta">Professor emeritus of Theoretical computer science</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/ben-ruijl">
+    <img src="/binaries/content/gallery/ul2/portraits/science/r/bjg-ruijl-liacs.jpg/bjg-ruijl-liacs.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Ben Ruijl</strong>
+      <span class="meta">PhD candidate / guest</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/negin-samaeemofrad">
+    <img src="/binaries/content/gallery/ul2/portraits/science/negin-samaeemofrad-2.jpg/negin-samaeemofrad-2.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Negin Samaeemofrad</strong>
+      <span class="meta">PhD candidate / guest</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/stephan-scherpe">
+    <img src="https://www.universiteitleiden.nl/en/ul2common/images/no-photo-small.jpg" alt="" width="50" height="50"/>
+      <div>
+      <strong>Stephan Scherpe</strong>
+      <span class="meta">PhD candidate / guest</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/hongchang-shan">
+    <img src="/binaries/content/gallery/ul2/portraits/science/hongchang-shan-2-.jpg/hongchang-shan-2-.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Hongchang Shan</strong>
+      <span class="meta">PhD candidate / guest</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/jelena-spasic">
+    <img src="/binaries/content/gallery/ul2/portraits/science/s/jelena-spasic-liacs.jpg/jelena-spasic-liacs.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Jelena Spasic</strong>
+      <span class="meta">PhD candidate / guest</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/todor-stefanov">
+    <img src="/binaries/content/gallery/ul2/portraits/science/s/t-stefanov-liacs.jpg/t-stefanov-liacs.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Todor Stefanov</strong>
+      <span class="meta">Associate professor</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/bas-van-stein">
+    <img src="/binaries/content/gallery/ul2/portraits/science/s/b-van-stein-liacs.jpg/b-van-stein-liacs.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Bas van Stein</strong>
+      <span class="meta">Phd candidate</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/dave-stikkolorum">
+    <img src="/binaries/content/gallery/ul2/portraits/campus-the-hague/dave2.jpg/dave2.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Dave Stikkolorum</strong>
+      <span class="meta">PhD candidate / guest</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/lise-stork">
+    <img src="/binaries/content/gallery/ul2/portraits/science/lise-stork.jpg/lise-stork.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Lise Stork</strong>
+      <span class="meta">PhD candidate</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/frank-takes">
+    <img src="/binaries/content/gallery/ul2/portraits/science/f/franktakes2016-512square.jpg/franktakes2016-512square.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Frank Takes</strong>
+      <span class="meta">Assistant professor</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/erqian-tang">
+    <img src="/binaries/content/gallery/ul2/portraits/science/erqian-tang2.jpg/erqian-tang2.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Erqian Tang</strong>
+      <span class="meta">PhD candidate / guest</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/xiaoqin-tang">
+    <img src="/binaries/content/gallery/ul2/portraits/science/xiaoqin-tang2.jpg/xiaoqin-tang2.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Xiaoqin Tang</strong>
+      <span class="meta">PhD candidate / guest</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/armon-toubman">
+    <img src="/binaries/content/gallery/ul2/portraits/science/armon-taubman--2.jpg/armon-taubman--2.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Armon Toubman</strong>
+      <span class="meta">PhD candidate</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/heike-trautmann">
+    <img src="/binaries/content/gallery/ul2/main-images/science/liacs/heike-trautmann-crop1.jpg/heike-trautmann-crop1.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Heike Trautmann</strong>
+      <span class="meta">Professor / guest</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/cor-veenman">
+    <img src="/binaries/content/gallery/ul2/portraits/science/cor-veenman-3.jpg/cor-veenman-3.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Cor Veenman</strong>
+      <span class="meta">Postdoc / guest</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/fons-verbeek">
+    <img src="/binaries/content/gallery/ul2/portraits/science/fons-verbeek.jpg/fons-verbeek.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Fons Verbeek</strong>
+      <span class="meta">Professor of Computational Bio-imaging</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/suzan-verberne">
+    <img src="/binaries/content/gallery/ul2/portraits/science/v/2017-11-21-liacs---suzan-verbeme---04a-200x250.jpg/2017-11-21-liacs---suzan-verbeme---04a-200x250.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Suzan Verberne</strong>
+      <span class="meta">Assistant professor</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/tessa-verhoef">
+    <img src="/binaries/content/gallery/ul2/portraits/science/tessa-verhoef-2.jpg/tessa-verhoef-2.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Tessa Verhoef</strong>
+      <span class="meta">Assistant professor</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/lieuwe-vinkhuijzen">
+    <img src="/binaries/content/gallery/ul2/portraits/science/lieuwe-vinkhuijzen2.jpg/lieuwe-vinkhuijzen2.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Lieuwe Vinkhuijzen</strong>
+      <span class="meta">PhD candidate</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/barbara-visscher-van-grinsven">
+    <img src="/binaries/content/gallery/ul2/portraits/science/barbara-visscher2.jpg/barbara-visscher2.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Barbara Visscher-van Grinsven</strong>
+      <span class="meta">Communication staff member</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/jose-visser">
+    <img src="/binaries/content/gallery/ul2/portraits/science/v/j.-visser-liacs-200.jpg/j.-visser-liacs-200.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>José Visser</strong>
+      <span class="meta">Education coordinator / study advisor</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/rudy-van-vliet">
+    <img src="/binaries/content/gallery/ul2/portraits/science/v/rudy.jpg/rudy.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Rudy van Vliet</strong>
+      <span class="meta">Lecturer</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/roos-van-de-voordt">
+    <img src="/binaries/content/gallery/ul2/portraits/science/roos-van-der-voordt-2.jpg/roos-van-der-voordt-2.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Roos van de Voordt</strong>
+      <span class="meta">Secretary</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/can-wang">
+    <img src="/binaries/content/gallery/ul2/portraits/science/can-wang-2.jpg/can-wang-2.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Can Wang</strong>
+      <span class="meta">PhD candidate</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/hao-wang">
+    <img src="/binaries/content/gallery/ul2/portraits/science/w/hao-wang.jpg/hao-wang.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Hao Wang</strong>
+      <span class="meta">PhD candidate</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/hui-wang">
+    <img src="/binaries/content/gallery/ul2/portraits/science/w/h.-wang-liacs-200.jpg/h.-wang-liacs-200.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Hui Wang</strong>
+      <span class="meta">PhD candidate / guest</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/jian-wang">
+    <img src="/binaries/content/gallery/ul2/portraits/science/jian-wang-2.jpg/jian-wang-2.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Jian Wang</strong>
+      <span class="meta">Assistant professor</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/peng-wang">
+    <img src="/binaries/content/gallery/ul2/portraits/science/peng-wang-2.jpg/peng-wang-2.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Peng Wang</strong>
+      <span class="meta">PhD candidate / guest</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/yali-wang">
+    <img src="/binaries/content/gallery/ul2/portraits/science/yali-wang2.jpg/yali-wang2.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Yali Wang</strong>
+      <span class="meta">PhD candidate</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/andreas-weber">
+    <img src="https://www.universiteitleiden.nl/en/ul2common/images/no-photo-small.jpg" alt="" width="50" height="50"/>
+      <div>
+      <strong>Andreas Weber</strong>
+      <span class="meta">Postdoc / guest</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/harry-wijshoff">
+    <img src="/binaries/content/gallery/ul2/portraits/science/harry-wijshoff-3.jpg/harry-wijshoff-3.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Harry Wijshoff</strong>
+      <span class="meta">Professor of Applied computer science</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/katy-wolstencroft">
+    <img src="/binaries/content/gallery/ul2/portraits/science/w/k-wolstenkroft-liacs.jpg/k-wolstenkroft-liacs.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Katy Wolstencroft</strong>
+      <span class="meta">Assistant professor</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/zhan-xiong">
+    <img src="/binaries/content/gallery/ul2/portraits/science/zhan-xiong-2.jpg/zhan-xiong-2.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Zhan Xiong</strong>
+      <span class="meta">PhD candidate</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/kaifeng-yang">
+    <img src="/binaries/content/gallery/ul2/portraits/science/kaifeng-yang.jpg/kaifeng-yang.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Kaifeng Yang</strong>
+      <span class="meta">Postdoc</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/furong-ye">
+    <img src="/binaries/content/gallery/ul2/portraits/science/furong-ye--2.jpg/furong-ye--2.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Furong Ye</strong>
+      <span class="meta">Phd candidate / guest</span>
+    </div>
+  </a>
+</li>
+        </ul>
+    </section>
+  <section class="tab " data-tab-label="Academic Staff">
+      <ul class="table-list">
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/amr-ali-eldin">
+    <img src="https://www.universiteitleiden.nl/en/ul2common/images/no-photo-small.jpg" alt="" width="50" height="50"/>
+      <div>
+      <strong>Amr Ali-Eldin</strong>
+      <span class="meta">Lecturer / guest</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/farhad-arbab">
+    <img src="/binaries/content/gallery/ul2/portraits/science/a/f-arbab-liacs.jpg/f-arbab-liacs.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Farhad Arbab</strong>
+      <span class="meta">Professor of Software composition</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/erwin-bakker">
+    <img src="/binaries/content/gallery/ul2/portraits/science/no-picture.png/no-picture.png/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Erwin Bakker</strong>
+      <span class="meta">Researcher</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/mitra-baratchi">
+    <img src="/binaries/content/gallery/ul2/portraits/science/mitra-baratchi3.jpg/mitra-baratchi3.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Mitra Baratchi</strong>
+      <span class="meta">Assistant professor</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/arianna-bisazza">
+    <img src="/binaries/content/gallery/ul2/portraits/science/arianna-bisazza-2.jpg/arianna-bisazza-2.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Arianna Bisazza</strong>
+      <span class="meta">Assistant professor</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/frank-de-boer">
+    <img src="https://www.universiteitleiden.nl/en/ul2common/images/no-photo-small.jpg" alt="" width="50" height="50"/>
+      <div>
+      <strong>Frank de Boer</strong>
+      <span class="meta">Professor of Software correctness</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/marcello-bonsangue">
+    <img src="/binaries/content/gallery/ul2/portraits/science/b/m.-bonsangue-liacs-200.jpg/m.-bonsangue-liacs-200.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Marcello Bonsangue</strong>
+      <span class="meta">Director of education / associate professor</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/benjamin-van-der-burgh">
+    <img src="https://www.universiteitleiden.nl/en/ul2common/images/no-photo-small.jpg" alt="" width="50" height="50"/>
+      <div>
+      <strong>Benjamin van der Burgh</strong>
+      <span class="meta">Education an research staff member</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/thomas-back">
+    <img src="/binaries/content/gallery/ul2/portraits/science/b/thomas-back-liacs-200.jpg/thomas-back-liacs-200.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Thomas Bäck</strong>
+      <span class="meta">Professor of Natural computing</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/michel-chaudron">
+    <img src="/binaries/content/gallery/ul2/portraits/science/michel-chaudron.jpg/michel-chaudron.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Michel Chaudron</strong>
+      <span class="meta">Associate professor</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/ed-deprettere">
+    <img src="https://www.universiteitleiden.nl/en/ul2common/images/no-photo-small.jpg" alt="" width="50" height="50"/>
+      <div>
+      <strong>Ed Deprettere</strong>
+      <span class="meta">Professor emeritus of Information technology</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/andre-deutz">
+    <img src="/binaries/content/gallery/ul2/portraits/science/d/andre-deutz.jpg/andre-deutz.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Andre Deutz</strong>
+      <span class="meta">Lecturer / guest</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/michael-emmerich">
+    <img src="/binaries/content/gallery/ul2/portraits/science/e/m-emmerich-liacs.jpg/m-emmerich-liacs.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Michael Emmerich</strong>
+      <span class="meta">Associate professor</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/joost-engelfriet">
+    <img src="/binaries/content/gallery/ul2/portraits/science/e/j-engelfriet-liacs.jpg/j-engelfriet-liacs.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Joost Engelfriet</strong>
+      <span class="meta">Associate professor / guest</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/alexandre-goultiaev">
+    <img src="/binaries/content/gallery/ul2/portraits/science/g/alexander-goultiaev.jpg/alexander-goultiaev.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Alexandre Goultiaev</strong>
+      <span class="meta">Assistant professor</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/jeannette-de-graaf">
+    <img src="/binaries/content/gallery/ul2/portraits/science/jeannette-de-graaf2.jpg/jeannette-de-graaf2.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Jeannette de Graaf</strong>
+      <span class="meta">Assistant professor</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/lucas-groenewegen">
+    <img src="/binaries/content/gallery/ul2/portraits/science/luuk-groenewegen.jpg/luuk-groenewegen.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Lucas Groenewegen</strong>
+      <span class="meta">Lecturer / guest</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/bas-haring">
+    <img src="/binaries/content/gallery/ul2/portraits/science/h/bas-haring.jpg/bas-haring.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Bas Haring</strong>
+      <span class="meta">Professor Public understanding of science</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/edwin-van-der-heide">
+    <img src="/binaries/content/gallery/ul2/portraits/science/h/e-van-der-heide-liacs.jpg/e-van-der-heide-liacs.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Edwin van der Heide</strong>
+      <span class="meta">Lecturer</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/jaap-van-den-herik">
+    <img src="/binaries/content/gallery/ul2/portraits/science/h/jaap-van-den-herik-web.jpg/jaap-van-den-herik-web.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Jaap van den Herik</strong>
+      <span class="meta">Professor of Law and Computer Science</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/hendrik-jan-hoogeboom">
+    <img src="/binaries/content/gallery/ul2/portraits/science/h/hj-hoogeboom-liacs.jpg/hj-hoogeboom-liacs.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Hendrik Jan Hoogeboom</strong>
+      <span class="meta">Assistant professor</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/holger-hoos">
+    <img src="/binaries/content/gallery/ul2/main-images/science/liacs/holger-hoos-pasfoto.jpg/holger-hoos-pasfoto.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Holger Hoos</strong>
+      <span class="meta">Professor of Machine learning</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/simcha-jong-kon-chin">
+    <img src="/binaries/content/gallery/ul2/portraits/science/j/jong_simcha-1-2.jpg/jong_simcha-1-2.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Simcha Jong Kon Chin</strong>
+      <span class="meta">Professor of Science-based business</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/catholijn-jonker">
+    <img src="https://www.universiteitleiden.nl/en/ul2common/images/no-photo-small.jpg" alt="" width="50" height="50"/>
+      <div>
+      <strong>Catholijn Jonker</strong>
+      <span class="meta">Professor of Explainable artificial intellegence</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/harmen-jousma">
+    <img src="/binaries/content/gallery/ul2/portraits/science/h/harmen-jousma-200-x-250.jpg/harmen-jousma-200-x-250.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Harmen Jousma</strong>
+      <span class="meta">Programme manager</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/bart-kienhuis">
+    <img src="/binaries/content/gallery/ul2/portraits/science/k/b-kienhuis-liacs.jpg/b-kienhuis-liacs.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Bart Kienhuis</strong>
+      <span class="meta">Assistant professor / guest</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/jetty-kleijn">
+    <img src="/binaries/content/gallery/ul2/portraits/science/k/j-kleijn-liacs.jpg/j-kleijn-liacs.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Jetty Kleijn</strong>
+      <span class="meta">Associate professor</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/arno-knobbe">
+    <img src="/binaries/content/gallery/ul2/portraits/science/k/a-knobbe-liacs.jpg/a-knobbe-liacs.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Arno Knobbe</strong>
+      <span class="meta">Assistant professor</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/joost-kok">
+    <img src="/binaries/content/gallery/ul2/portraits/science/k/j.n.-kok-liacs-200.jpg/j.n.-kok-liacs-200.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Joost Kok</strong>
+      <span class="meta"></span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/walter-kosters">
+    <img src="/binaries/content/gallery/ul2/portraits/science/k/walter-kosters-liacs.jpg/walter-kosters-liacs.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Walter Kosters</strong>
+      <span class="meta">Associate professor</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/erik-van-der-kouwe">
+    <img src="/binaries/content/gallery/ul2/portraits/science/erik-van-der-kouwe-2.jpg/erik-van-der-kouwe-2.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Erik van der Kouwe</strong>
+      <span class="meta">Assistant professor</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/wojtek-kowalczyk">
+    <img src="/binaries/content/gallery/ul2/portraits/science/wojtek-kowalczyk.jpg/wojtek-kowalczyk.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Wojtek Kowalczyk</strong>
+      <span class="meta">Assistant professor</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/wessel-kraaij">
+    <img src="/binaries/content/gallery/ul2/main-images/science/liacs/wessel_02-crop-small.jpg/wessel_02-crop-small.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Wessel Kraaij</strong>
+      <span class="meta">Professor of Applied data analytics</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/pieter-kwantes">
+    <img src="/binaries/content/gallery/ul2/portraits/science/k/pieter-kwantes-liacs.jpg/pieter-kwantes-liacs.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Pieter Kwantes</strong>
+      <span class="meta">PhD candidate</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/alfons-laarman">
+    <img src="/binaries/content/gallery/ul2/portraits/science/alfons-laarman-2.jpg/alfons-laarman-2.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Alfons Laarman</strong>
+      <span class="meta">Assistant professor</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/maarten-lamers">
+    <img src="/binaries/content/gallery/ul2/portraits/science/l/maarten-lamers-liacs.jpg/maarten-lamers-liacs.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Maarten Lamers</strong>
+      <span class="meta">Lecturer</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/matthijs-van-leeuwen">
+    <img src="/binaries/content/gallery/ul2/portraits/science/matthijs-van-leeuwen.jpg/matthijs-van-leeuwen.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Matthijs van Leeuwen</strong>
+      <span class="meta">Assistant professor</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/michael-lew">
+    <img src="/binaries/content/gallery/ul2/portraits/science/l/michael-lew-liacs.jpg/michael-lew-liacs.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Michael Lew</strong>
+      <span class="meta">Associate professor</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/jun-li">
+    <img src="https://www.universiteitleiden.nl/en/ul2common/images/no-photo-small.jpg" alt="" width="50" height="50"/>
+      <div>
+      <strong>Jun Li</strong>
+      <span class="meta">Postdoc / guest</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/xishu-li">
+    <img src="/binaries/content/gallery/ul2/portraits/science/l/wuta_2017-10-25_14-41-48_mr1508935440873_mh1508935522875.jpg/wuta_2017-10-25_14-41-48_mr1508935440873_mh1508935522875.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Xishu Li</strong>
+      <span class="meta">Assistant professor</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/peter-lucas">
+    <img src="/binaries/content/gallery/ul2/portraits/science/peter-lucas.jpg/peter-lucas.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Peter Lucas</strong>
+      <span class="meta">Extraordinary professor of Artificial intelligence</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/chuan-luo">
+    <img src="https://www.universiteitleiden.nl/en/ul2common/images/no-photo-small.jpg" alt="" width="50" height="50"/>
+      <div>
+      <strong>Chuan Luo</strong>
+      <span class="meta">Postdoc</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/stefan-manegold">
+    <img src="/binaries/content/gallery/ul2/portraits/science/m/s-manegold-liacs.jpg/s-manegold-liacs.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Stefan Manegold</strong>
+      <span class="meta">Professor of Computer science</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/rens-meerhoff">
+    <img src="/binaries/content/gallery/ul2/portraits/science/rens-meerhoff.2jpg.jpg/rens-meerhoff.2jpg.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Rens Meerhoff</strong>
+      <span class="meta">Postdoc</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/jose-miotto">
+    <img src="/binaries/content/gallery/ul2/portraits/science/m/j.m.-miotto-liacs-200.jpg/j.m.-miotto-liacs-200.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Jose Miotto</strong>
+      <span class="meta">Postdoc</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/florian-neukart">
+    <img src="/binaries/content/gallery/ul2/portraits/science/florian-neukart.jpg/florian-neukart.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Florian Neukart</strong>
+      <span class="meta">Postdoc  / guest</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/siegfried-nijssen">
+    <img src="/binaries/content/gallery/ul2/portraits/science/n/siegfried-nijssen-liacs.jpg/siegfried-nijssen-liacs.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Siegfried Nijssen</strong>
+      <span class="meta">Postdoc / guest</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/stefan-pickl">
+    <img src="https://www.universiteitleiden.nl/en/ul2common/images/no-photo-small.jpg" alt="" width="50" height="50"/>
+      <div>
+      <strong>Stefan Pickl</strong>
+      <span class="meta">Lecturer / guest</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/claudio-pinho-rebelo-de-sa">
+    <img src="/binaries/content/gallery/ul2/portraits/science/claudio-pinho-rebelo-de-sa2.jpg/claudio-pinho-rebelo-de-sa2.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>claudio Pinho Rebelo de Sá</strong>
+      <span class="meta">Postdoc</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/aske-plaat">
+    <img src="/binaries/content/gallery/ul2/portraits/science/p/aske-plaat.jpg/aske-plaat.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Aske Plaat</strong>
+      <span class="meta">Scientific director / professor of Data science</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/peter-van-der-putten">
+    <img src="/binaries/content/gallery/ul2/portraits/science/peter-van-der-putten-2.jpg/peter-van-der-putten-2.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Peter van der Putten</strong>
+      <span class="meta">Assistant Professor</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/mirjam-van-reisen">
+    <img src="/binaries/content/gallery/ul2/portraits/science/r/mirjam-van-reisen-portret.jpg/mirjam-van-reisen-portret.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Mirjam van Reisen</strong>
+      <span class="meta">Professor of Computing for society</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/grzegorz-rozenberg">
+    <img src="/binaries/content/gallery/ul2/portraits/science/r/g-rozenberg-liacs.jpg/g-rozenberg-liacs.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Grzegorz Rozenberg</strong>
+      <span class="meta">Professor emeritus of Theoretical computer science</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/todor-stefanov">
+    <img src="/binaries/content/gallery/ul2/portraits/science/s/t-stefanov-liacs.jpg/t-stefanov-liacs.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Todor Stefanov</strong>
+      <span class="meta">Associate professor</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/frank-takes">
+    <img src="/binaries/content/gallery/ul2/portraits/science/f/franktakes2016-512square.jpg/franktakes2016-512square.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Frank Takes</strong>
+      <span class="meta">Assistant professor</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/fons-verbeek">
+    <img src="/binaries/content/gallery/ul2/portraits/science/fons-verbeek.jpg/fons-verbeek.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Fons Verbeek</strong>
+      <span class="meta">Professor of Computational Bio-imaging</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/suzan-verberne">
+    <img src="/binaries/content/gallery/ul2/portraits/science/v/2017-11-21-liacs---suzan-verbeme---04a-200x250.jpg/2017-11-21-liacs---suzan-verbeme---04a-200x250.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Suzan Verberne</strong>
+      <span class="meta">Assistant professor</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/tessa-verhoef">
+    <img src="/binaries/content/gallery/ul2/portraits/science/tessa-verhoef-2.jpg/tessa-verhoef-2.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Tessa Verhoef</strong>
+      <span class="meta">Assistant professor</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/rudy-van-vliet">
+    <img src="/binaries/content/gallery/ul2/portraits/science/v/rudy.jpg/rudy.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Rudy van Vliet</strong>
+      <span class="meta">Lecturer</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/jian-wang">
+    <img src="/binaries/content/gallery/ul2/portraits/science/jian-wang-2.jpg/jian-wang-2.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Jian Wang</strong>
+      <span class="meta">Assistant professor</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/harry-wijshoff">
+    <img src="/binaries/content/gallery/ul2/portraits/science/harry-wijshoff-3.jpg/harry-wijshoff-3.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Harry Wijshoff</strong>
+      <span class="meta">Professor of Applied computer science</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/katy-wolstencroft">
+    <img src="/binaries/content/gallery/ul2/portraits/science/w/k-wolstenkroft-liacs.jpg/k-wolstenkroft-liacs.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Katy Wolstencroft</strong>
+      <span class="meta">Assistant professor</span>
+    </div>
+  </a>
+</li>
+        </ul>
+    </section>
+  <section class="tab " data-tab-label="PhD Students">
+      <ul class="table-list">
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/marie-anastacio">
+    <img src="/binaries/content/gallery/ul2/portraits/science/marie-anastacio2.jpg/marie-anastacio2.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Marie Anastacio</strong>
+      <span class="meta">PhD candidate</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/annemart-berendse">
+    <img src="/binaries/content/gallery/ul2/portraits/science/annemart-berendse2.jpg/annemart-berendse2.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Annemart Berendse</strong>
+      <span class="meta">PhD candidate / guest</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/koen-van-der-blom">
+    <img src="/binaries/content/gallery/ul2/portraits/science/b/k.-van-der-blom-liacs-200.jpg/k.-van-der-blom-liacs-200.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Koen van der Blom</strong>
+      <span class="meta">PhD candidate</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/gerrit-jan-de-bruin">
+    <img src="/binaries/content/gallery/ul2/portraits/science/gerrit-jan---2.jpg/gerrit-jan---2.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Gerrit-Jan de Bruin</strong>
+      <span class="meta">PhD candidate</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/fuyu-cai">
+    <img src="/binaries/content/gallery/ul2/portraits/science/fuyu-cai-2.jpg/fuyu-cai-2.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Fuyu Cai</strong>
+      <span class="meta">Postdoc / guest</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/wei-chen">
+    <img src="/binaries/content/gallery/ul2/portraits/science/wei-chen2.jpg/wei-chen2.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Wei Chen</strong>
+      <span class="meta">PhD candidate / guest</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/lucas-de-almeida-ribeiro">
+    <img src="https://www.universiteitleiden.nl/en/ul2common/images/no-photo-small.jpg" alt="" width="50" height="50"/>
+      <div>
+      <strong>Lucas De Almeida Ribeiro</strong>
+      <span class="meta">PhD candidate / guest</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/ricardo-de-gouveia-da-costa-cachucho">
+    <img src="/binaries/content/gallery/ul2/portraits/science/c/r.-cachucho-liacs-200.jpg/r.-cachucho-liacs-200.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Ricardo De Gouveia da Costa Cachucho</strong>
+      <span class="meta">PhD candidate</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/feibo-duan">
+    <img src="/binaries/content/gallery/ul2/portraits/science/feibo-duan--2.jpg/feibo-duan--2.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Feibo Duan</strong>
+      <span class="meta">PhD candidate / guest</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/wim-van-eck">
+    <img src="/binaries/content/gallery/ul2/portraits/science/no-picture.png/no-picture.png/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Wim van Eck</strong>
+      <span class="meta">PhD candidate / guest</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/hui-feng">
+    <img src="/binaries/content/gallery/ul2/portraits/science/f/h.-feng-liacs-200.jpg/h.-feng-liacs-200.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Hui Feng</strong>
+      <span class="meta">PhD candidate / guest</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/christian-fuchs">
+    <img src="https://www.universiteitleiden.nl/en/ul2common/images/no-photo-small.jpg" alt="" width="50" height="50"/>
+      <div>
+      <strong>Christian Fuchs</strong>
+      <span class="meta">PhD candidate</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/theodoros-georgiou">
+    <img src="/binaries/content/gallery/ul2/portraits/science/theodoris-georgiou-2.jpg/theodoris-georgiou-2.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Theodoros Georgiou</strong>
+      <span class="meta">PhD candidate</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/marcello-gomez-maureira">
+    <img src="/binaries/content/gallery/ul2/portraits/science/marcello-gomez2.jpg/marcello-gomez2.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Marcello Gómez Maureira</strong>
+      <span class="meta">Education and research staff member</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/edwin-van-der-heide">
+    <img src="/binaries/content/gallery/ul2/portraits/science/h/e-van-der-heide-liacs.jpg/e-van-der-heide-liacs.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Edwin van der Heide</strong>
+      <span class="meta">Lecturer</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/leon-helwerda">
+    <img src="/binaries/content/gallery/ul2/portraits/science/leon-helwerda2.jpg/leon-helwerda2.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Leon Helwerda</strong>
+      <span class="meta">PhD candidate</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/pieter-kwantes">
+    <img src="/binaries/content/gallery/ul2/portraits/science/k/pieter-kwantes-liacs.jpg/pieter-kwantes-liacs.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Pieter Kwantes</strong>
+      <span class="meta">PhD candidate</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/robin-de-lange">
+    <img src="/binaries/content/gallery/ul2/portraits/science/robin-de-lange.jpg/robin-de-lange.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Robin de Lange</strong>
+      <span class="meta">PhD candidate / guest</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/anna-latour">
+    <img src="/binaries/content/gallery/ul2/portraits/science/l/anna-latour-liacs.jpg/anna-latour-liacs.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Anna Latour</strong>
+      <span class="meta">PhD candidate</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/arie-willem-de-leeuw">
+    <img src="/binaries/content/gallery/ul2/portraits/science/arie-willem-de-leeuw2.jpg/arie-willem-de-leeuw2.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Arie-Willem de Leeuw</strong>
+      <span class="meta">Postdoc</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/danyi-liu">
+    <img src="/binaries/content/gallery/ul2/portraits/science/danyi.jpg/danyi.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Danyi Liu</strong>
+      <span class="meta">PhD candidate / guest</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/yu-liu">
+    <img src="/binaries/content/gallery/ul2/portraits/science/l/y-liu-liacs.jpg/y-liu-liacs.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Yu Liu</strong>
+      <span class="meta">PhD candidate / guest</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/irene-martorelli">
+    <img src="/binaries/content/gallery/ul2/portraits/science/irene-marterelli-2.jpg/irene-marterelli-2.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Irene Martorelli</strong>
+      <span class="meta">Research staff member</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/marvin-meeng">
+    <img src="/binaries/content/gallery/ul2/portraits/science/m/m-meeng-liacs.jpg/m-meeng-liacs.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Marvin Meeng</strong>
+      <span class="meta">PhD candidate</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/quinten-meertens">
+    <img src="/binaries/content/gallery/ul2/portraits/science/quinten-meertens-3.jpg/quinten-meertens-3.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Quinten Meertens</strong>
+      <span class="meta">PhD candidate / guest</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/dirk-meijer">
+    <img src="/binaries/content/gallery/ul2/portraits/science/dirk-meijer2.jpg/dirk-meijer2.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Dirk Meijer</strong>
+      <span class="meta">PhD candidate</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/svetlana-minakova">
+    <img src="/binaries/content/gallery/ul2/portraits/science/svetlana-minakova2.jpg/svetlana-minakova2.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Svetlana Minakova</strong>
+      <span class="meta">PhD candidate</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/ali-mirsoleimani">
+    <img src="/binaries/content/gallery/ul2/portraits/science/m/ali-mirsoleimani-liacs-200.jpg/ali-mirsoleimani-liacs-200.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Ali Mirsoleimani</strong>
+      <span class="meta">PhD candidate / gast</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/duc-nguyen">
+    <img src="/binaries/content/gallery/ul2/portraits/science/duc-nguyen-2.jpg/duc-nguyen-2.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Duc Nguyen</strong>
+      <span class="meta">Postdoc</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/sobhan-niknam">
+    <img src="/binaries/content/gallery/ul2/portraits/science/sobhan-niknam.jpg/sobhan-niknam.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Sobhan Niknam</strong>
+      <span class="meta">PhD candidate</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/cong-peng">
+    <img src="/binaries/content/gallery/ul2/portraits/science/cong-peng--2.jpg/cong-peng--2.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Cong Peng</strong>
+      <span class="meta">PhD candidate / guest</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/antonio-pereira-barata">
+    <img src="/binaries/content/gallery/ul2/portraits/science/antonio-barata--2.jpg/antonio-barata--2.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>António Pereira Barata</strong>
+      <span class="meta">PhD candidate</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/mark-pijnenburg">
+    <img src="/binaries/content/gallery/ul2/portraits/science/mark-pijnenburg.jpg/mark-pijnenburg.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Mark Pijnenburg</strong>
+      <span class="meta">PhD candidate / guest</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/sander-van-rijn">
+    <img src="/binaries/content/gallery/ul2/portraits/science/r/sander-van-rijn-liacs-200.jpg/sander-van-rijn-liacs-200.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Sander van Rijn</strong>
+      <span class="meta">PhD candidate</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/ben-ruijl">
+    <img src="/binaries/content/gallery/ul2/portraits/science/r/bjg-ruijl-liacs.jpg/bjg-ruijl-liacs.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Ben Ruijl</strong>
+      <span class="meta">PhD candidate / guest</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/negin-samaeemofrad">
+    <img src="/binaries/content/gallery/ul2/portraits/science/negin-samaeemofrad-2.jpg/negin-samaeemofrad-2.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Negin Samaeemofrad</strong>
+      <span class="meta">PhD candidate / guest</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/stephan-scherpe">
+    <img src="https://www.universiteitleiden.nl/en/ul2common/images/no-photo-small.jpg" alt="" width="50" height="50"/>
+      <div>
+      <strong>Stephan Scherpe</strong>
+      <span class="meta">PhD candidate / guest</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/hongchang-shan">
+    <img src="/binaries/content/gallery/ul2/portraits/science/hongchang-shan-2-.jpg/hongchang-shan-2-.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Hongchang Shan</strong>
+      <span class="meta">PhD candidate / guest</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/jelena-spasic">
+    <img src="/binaries/content/gallery/ul2/portraits/science/s/jelena-spasic-liacs.jpg/jelena-spasic-liacs.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Jelena Spasic</strong>
+      <span class="meta">PhD candidate / guest</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/bas-van-stein">
+    <img src="/binaries/content/gallery/ul2/portraits/science/s/b-van-stein-liacs.jpg/b-van-stein-liacs.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Bas van Stein</strong>
+      <span class="meta">Phd candidate</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/dave-stikkolorum">
+    <img src="/binaries/content/gallery/ul2/portraits/campus-the-hague/dave2.jpg/dave2.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Dave Stikkolorum</strong>
+      <span class="meta">PhD candidate / guest</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/lise-stork">
+    <img src="/binaries/content/gallery/ul2/portraits/science/lise-stork.jpg/lise-stork.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Lise Stork</strong>
+      <span class="meta">PhD candidate</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/erqian-tang">
+    <img src="/binaries/content/gallery/ul2/portraits/science/erqian-tang2.jpg/erqian-tang2.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Erqian Tang</strong>
+      <span class="meta">PhD candidate / guest</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/xiaoqin-tang">
+    <img src="/binaries/content/gallery/ul2/portraits/science/xiaoqin-tang2.jpg/xiaoqin-tang2.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Xiaoqin Tang</strong>
+      <span class="meta">PhD candidate / guest</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/armon-toubman">
+    <img src="/binaries/content/gallery/ul2/portraits/science/armon-taubman--2.jpg/armon-taubman--2.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Armon Toubman</strong>
+      <span class="meta">PhD candidate</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/lieuwe-vinkhuijzen">
+    <img src="/binaries/content/gallery/ul2/portraits/science/lieuwe-vinkhuijzen2.jpg/lieuwe-vinkhuijzen2.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Lieuwe Vinkhuijzen</strong>
+      <span class="meta">PhD candidate</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/can-wang">
+    <img src="/binaries/content/gallery/ul2/portraits/science/can-wang-2.jpg/can-wang-2.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Can Wang</strong>
+      <span class="meta">PhD candidate</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/hao-wang">
+    <img src="/binaries/content/gallery/ul2/portraits/science/w/hao-wang.jpg/hao-wang.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Hao Wang</strong>
+      <span class="meta">PhD candidate</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/hui-wang">
+    <img src="/binaries/content/gallery/ul2/portraits/science/w/h.-wang-liacs-200.jpg/h.-wang-liacs-200.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Hui Wang</strong>
+      <span class="meta">PhD candidate / guest</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/peng-wang">
+    <img src="/binaries/content/gallery/ul2/portraits/science/peng-wang-2.jpg/peng-wang-2.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Peng Wang</strong>
+      <span class="meta">PhD candidate / guest</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/yali-wang">
+    <img src="/binaries/content/gallery/ul2/portraits/science/yali-wang2.jpg/yali-wang2.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Yali Wang</strong>
+      <span class="meta">PhD candidate</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/andreas-weber">
+    <img src="https://www.universiteitleiden.nl/en/ul2common/images/no-photo-small.jpg" alt="" width="50" height="50"/>
+      <div>
+      <strong>Andreas Weber</strong>
+      <span class="meta">Postdoc / guest</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/zhan-xiong">
+    <img src="/binaries/content/gallery/ul2/portraits/science/zhan-xiong-2.jpg/zhan-xiong-2.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Zhan Xiong</strong>
+      <span class="meta">PhD candidate</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/kaifeng-yang">
+    <img src="/binaries/content/gallery/ul2/portraits/science/kaifeng-yang.jpg/kaifeng-yang.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Kaifeng Yang</strong>
+      <span class="meta">Postdoc</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/furong-ye">
+    <img src="/binaries/content/gallery/ul2/portraits/science/furong-ye--2.jpg/furong-ye--2.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Furong Ye</strong>
+      <span class="meta">Phd candidate / guest</span>
+    </div>
+  </a>
+</li>
+        </ul>
+    </section>
+  <section class="tab " data-tab-label="Support">
+      <ul class="table-list">
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/wendy-aartsen">
+    <img src="/binaries/content/gallery/ul2/portraits/science/wendy-aartsen2.jpg/wendy-aartsen2.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Wendy Aartsen</strong>
+      <span class="meta">Postdoc / guest</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/arienne-bruin">
+    <img src="/binaries/content/gallery/ul2/portraits/science/arienne-bruin2.jpg/arienne-bruin2.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Ariënne Bruin</strong>
+      <span class="meta">Education support officer</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/esme-caubo">
+    <img src="/binaries/content/gallery/ul2/portraits/science/c/e.-caubo-liacs-200.jpg/e.-caubo-liacs-200.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Esme Caubo</strong>
+      <span class="meta">Education coordinator</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/riet-derogee">
+    <img src="/binaries/content/gallery/ul2/portraits/science/riet-derogee-2.jpg/riet-derogee-2.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Riet Derogee</strong>
+      <span class="meta">Education coordinator / study adviser</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/abdeljalil-el-boujadayni">
+    <img src="/binaries/content/gallery/ul2/portraits/science/b/abdel-el-boujadayni.jpg/abdel-el-boujadayni.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Abdeljalil El Boujadayni</strong>
+      <span class="meta">Front office staff member</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/vian-govers">
+    <img src="/binaries/content/gallery/ul2/portraits/science/no-picture.png/no-picture.png/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Vian Govers</strong>
+      <span class="meta">ICT manager</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/mariska-huijnen">
+    <img src="/binaries/content/gallery/ul2/portraits/science/h/mariska-huijnen-liacs-200.jpg/mariska-huijnen-liacs-200.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Mariska Huijnen</strong>
+      <span class="meta">Secretary</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/eline-huisjes">
+    <img src="/binaries/content/gallery/ul2/portraits/science/h/youdid-lu--eline-huisjes.jpg/youdid-lu--eline-huisjes.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Eline Huisjes</strong>
+      <span class="meta">Institute manager</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/nuray-koc">
+    <img src="/binaries/content/gallery/ul2/portraits/science/nuray-koc-4.jpg/nuray-koc-4.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Nuray Koc</strong>
+      <span class="meta">Administrator</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/jeroen-van-der-leije">
+    <img src="/binaries/content/gallery/ul2/portraits/science/jeroen-van-der-leije2.jpg/jeroen-van-der-leije2.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Jeroen van der Leijé</strong>
+      <span class="meta">Business liaison / guest</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/nanda-milbreta">
+    <img src="/binaries/content/gallery/ul2/portraits/science/nanda-milbreta-2.jpg/nanda-milbreta-2.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Nanda Milbreta</strong>
+      <span class="meta">Education coordinator / study advisor</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/marloes-van-der-nat">
+    <img src="/binaries/content/gallery/ul2/portraits/science/marloes-van-der-nat2.jpg/marloes-van-der-nat2.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Marloes van der Nat</strong>
+      <span class="meta">Management assistant</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/angela-noble">
+    <img src="/binaries/content/gallery/ul2/portraits/luris/angela-noble.jpg/angela-noble.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Angela Noble</strong>
+      <span class="meta">Senior Grant Advisor</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/alexandra-piet">
+    <img src="/binaries/content/gallery/ul2/portraits/science/alexandra-piet---2.jpg/alexandra-piet---2.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Alexandra Piët</strong>
+      <span class="meta">Administrative staff member</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/barbara-visscher-van-grinsven">
+    <img src="/binaries/content/gallery/ul2/portraits/science/barbara-visscher2.jpg/barbara-visscher2.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Barbara Visscher-van Grinsven</strong>
+      <span class="meta">Communication staff member</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/jose-visser">
+    <img src="/binaries/content/gallery/ul2/portraits/science/v/j.-visser-liacs-200.jpg/j.-visser-liacs-200.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>José Visser</strong>
+      <span class="meta">Education coordinator / study advisor</span>
+    </div>
+  </a>
+</li>
+        <li><a href="https://www.universiteitleiden.nl/en/staffmembers/roos-van-de-voordt">
+    <img src="/binaries/content/gallery/ul2/portraits/science/roos-van-der-voordt-2.jpg/roos-van-der-voordt-2.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <strong>Roos van de Voordt</strong>
+      <span class="meta">Secretary</span>
+    </div>
+  </a>
+</li>
+        </ul>
+    </section>
+  </div></div>
+    </div>
+
+    <!-- googleoff: all-->
+<div class="footer-container">
+    <footer class="wrapper clearfix">
+      <section>
+          <h2>Study programmes</h2>
+              <ul>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/en/education/bachelors">Bachelor&#039;s programmes</a>
+                  </li>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/en/education/masters">Master&#039;s programmes</a>
+                  </li>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/en/research/studying-for-a-phd">PhD programmes</a>
+                  </li>
+                <li>
+                    <a href="http://summerschool.universiteitleiden.nl">Summer School</a>
+                  </li>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/en/education/other-modes-of-study">Other modes of study</a>
+                  </li>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/en/education/bachelors/information-activities/open-days">Bachelor&#039;s Open Days</a>
+                  </li>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/en/education/masters">Master&#039;s Open  Days</a>
+                  </li>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/en/education/admission-and-application">Admission &amp; Application</a>
+                  </li>
+                </ul>
+            </section>
+      <section>
+          <h2>Organisation</h2>
+              <ul>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/en/archaeology">Archaeology</a>
+                  </li>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/en/governance-and-global-affairs">Governance and Global Affairs</a>
+                  </li>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/en/humanities">Humanities</a>
+                  </li>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/en/law">Law</a>
+                  </li>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/en/medicine-lumc">Medicine/LUMC</a>
+                  </li>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/en/science">Science</a>
+                  </li>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/en/social-behavioural-sciences">Social and Behavioural Sciences</a>
+                  </li>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/en/african-studies-centre-leiden">African Studies Centre Leiden</a>
+                  </li>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/en/honours-academy">Honours Academy</a>
+                  </li>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/en/iclon">ICLON (Graduate School of Teaching)</a>
+                  </li>
+                </ul>
+            </section>
+      <section>
+          <h2>About us</h2>
+              <ul>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/en/working-at">Working at Leiden University</a>
+                  </li>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/en/alumni">Alumni</a>
+                  </li>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/en/about-us/impact">Impact</a>
+                  </li>
+                <li>
+                    <a href="http://www.leiden-delft-erasmus.nl/en/home">Leiden-Delft-Erasmus</a>
+                  </li>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/en/locations">Locations</a>
+                  </li>
+                <li>
+                    <a href="https://www.organisatiegids.universiteitleiden.nl/en/regulations/general/university-website-disclaimer">Disclaimer</a>
+                  </li>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/en/about-us/contact">Contact</a>
+                  </li>
+                </ul>
+            </section>
+      <section>
+          <h2>Connect with us</h2>
+              <ul>
+                  <li>
+                      <a href="http://www.leiden.edu/newsletter/address/">Sign up to receive our monthly newsletter</a>
+                    </li>
+                  </ul>
+              <div class="share">
+                <a href="https://www.facebook.com/UniversiteitLeiden" class="facebook"></a>
+                <a href="https://twitter.com/unileidennews" class="twitter"></a>
+                <a href="http://www.youtube.com/user/UniversiteitLeiden" class="youtube"></a>
+                <a href="http://www.linkedin.com/company/leiden-university" class="linkedin"></a>
+                <a href="https://instagram.com/universiteitleiden" class="instagram"></a>
+                <a href="https://plus.google.com/+UniversiteitLeiden" class="google-plus"></a>
+                </div>
+            </section>
+      </footer>
+  </div>
+<!-- googleon: all-->
+<script async defer src="/scripts/ul2.js" data-main="/scripts/ul2external/main.js"></script>
+<!-- this line enables the loading of asynchronous components (together with the headContributions at the top) -->
+    </body>
+</html>

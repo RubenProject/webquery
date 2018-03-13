@@ -1,0 +1,607 @@
+<!DOCTYPE html>
+
+<html lang="en" data-version="1.69.03">
+
+  <head>
+
+    <!-- standard page html head -->
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<title>Masters</title>
+<meta name="contentsource" content="hippocms"/>
+
+  <meta name="description" content="Are you looking for a master&#039;s degree at a world-class university where high-quality education, the best lecturers and leading researchers are all part of the package? Leiden University offers almost 80 English taught master&#039;s programmes: you’re certain to find one that suits you."/>
+  <meta name="application-name" content="search"
+      data-content-type="landingpage" data-content-category="general" data-protected="false" data-language="en" data-last-modified-date="2017-12-06" data-publication-date="2017-12-06" data-uuid="d4c31489-ef5f-48f7-ad8f-efecbd242f12" data-website="recruitment-site"><!-- Favicon and CSS -->
+<link rel='shortcut icon' href="https://www.universiteitleiden.nl/en/education/ul2common/icons/favicon.ico"/>
+<link rel="stylesheet" href="https://www.universiteitleiden.nl/en/education/ul2recruitment/styles/screen.css?v=1.69.03"/>
+
+<!-- Google Tag Manager -->
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+      'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-MR67S7X');
+</script>
+<!-- End Google Tag Manager -->
+<!-- this line enables the loading of asynchronous components (together with the headContributions at the bottom) -->
+    <!-- Header Scripts -->
+    <!-- Please configure Google Analytics Account ID in the Channel Manager / Channel configuration to enable Google Analytics page tracking -->
+
+  </head>
+
+  <body class="recruitment right">
+    <!-- Google Tag Manager -->
+
+<!-- Google Tag Manager --><!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MR67S7X"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<!-- To enable JS-based styles: -->
+    <script> document.body.className += ' js'; </script>
+
+    <div class="header-container">
+  <header class="wrapper clearfix">
+
+    <h1 class="logo">
+      <a href="https://www.universiteitleiden.nl/en"><img width="151" height="64" src="https://www.universiteitleiden.nl/en/education/ul2common/images/zegel.png" alt="Universiteit Leiden"/></a>
+    </h1>
+
+    <ul class="top-nav">
+
+  <li><a href="https://www.student.universiteitleiden.nl/en" >Current students</a></li>
+
+  <li><a href="https://www.universiteitleiden.nl/en/alumni" >Alumni</a></li>
+
+  <li><a href="https://www.staff.universiteitleiden.nl" >Staff members</a></li>
+
+  </ul><form id="search" method="get" action="https://www.universiteitleiden.nl/en/search">
+
+  <fieldset>
+    <input type="search" name="q">
+    <button class="submit" type="submit">
+      <span>Search</span>
+    </button>
+  </fieldset>
+
+  <ul class="options">
+    <li>
+        <a href="https://www.universiteitleiden.nl/en/search" class="active" data-hidden='{"c":"all"}'>
+          All</a>
+      </li>
+    <li>
+        <a href="https://www.universiteitleiden.nl/en/search/persons"  data-hidden='{"c":"person"}'>
+          Persons</a>
+      </li>
+    <li>
+        <a href="https://www.universiteitleiden.nl/en/search/persons-by-expertise"  data-hidden='{"c":"personbyexpertise"}'>
+          Persons by expertise</a>
+      </li>
+    <li>
+        <a href="https://www.universiteitleiden.nl/en/search/subject"  data-hidden='{"c":"education","gsaentity_category":"Education"}'>
+          Education</a>
+      </li>
+    <li>
+        <a href="https://www.universiteitleiden.nl/en/search/subject"  data-hidden='{"c":"research","gsaentity_category":"Research"}'>
+          Research</a>
+      </li>
+    <li>
+        <a href="https://www.universiteitleiden.nl/en/search/subject"  data-hidden='{"c":"organization","gsaentity_category":"Organisation"}'>
+          Organisation</a>
+      </li>
+    <li>
+        <a href="https://www.universiteitleiden.nl/en/search/subject"  data-hidden='{"c":"subject","gsaentity_category":"Subject"}'>
+          Subject</a>
+      </li>
+    <li>
+        <a href="https://www.universiteitleiden.nl/en/search/subject"  data-hidden='{"c":"news","gsaentity_category":"News"}'>
+          News</a>
+      </li>
+    <li>
+        <a href="https://www.universiteitleiden.nl/en/search/subject"  data-hidden='{"c":"events","gsaentity_category":"Events"}'>
+          Events</a>
+      </li>
+    <li>
+        <a href="https://www.universiteitleiden.nl/en/search/subject"  data-hidden='{"c":"locations","gsaentity_category":"Location"}'>
+          Locations</a>
+      </li>
+    <li>
+        <a href="https://www.universiteitleiden.nl/en/search/subject"  data-hidden='{"c":"vacancies","gsaentity_category":"Vacancy"}'>
+          Vacancies</a>
+      </li>
+    <li>
+        <a href="https://www.universiteitleiden.nl/en/search/library"  data-hidden='{"c":"library"}'>
+          Library</a>
+      </li>
+    </ul>
+
+</form>
+
+<div class="language-btn-group">
+  <a href="https://www.universiteitleiden.nl/onderwijs/masters?" class="btn">
+              <abbr title="Nederlands">nl</abbr>
+            </a>
+          <span class="btn active">
+          <abbr title="English">en</abbr>
+        </span>
+      </div></header>
+
+  <nav class="main-nav" data-menu-label="Menu">
+  <ul class="wrapper">
+
+    <li><a class="home" href="https://www.universiteitleiden.nl/en"><span>Home</span></a></li>
+
+    <li><a href="https://www.universiteitleiden.nl/en/research" >Research</a></li>
+
+  <li><a href="https://www.universiteitleiden.nl/en/education" >Education</a></li>
+
+  <li><a href="https://www.universiteitleiden.nl/en/academic-staff" >Academic staff</a></li>
+
+  <li><a href="https://www.universiteitleiden.nl/en/about-us" >About us</a></li>
+
+  <li><a href="https://www.universiteitleiden.nl/en/about-us/management-and-organisation/faculties" >Faculties</a></li>
+
+  <li><a href="https://www.universiteitleiden.nl/en/the-hague" >Campus The Hague</a></li>
+
+  <li><a href="http://www.library.universiteitleiden.nl/" >Library</a></li>
+
+  </ul>
+</nav></div>
+<div class="main-container">
+      <div class="main wrapper clearfix">
+        <!-- googleoff: all-->
+<nav class="breadcrumb">
+  <ul>
+    <li><a href="https://www.universiteitleiden.nl/en">Home</a></li>
+
+    <li><a href="https://www.universiteitleiden.nl/en/education">Education</a></li>
+          <li>Masters</li>
+          </ul>
+</nav>
+<!-- googleon: all-->
+<div class="hero">
+  <img src="/binaries/content/gallery/student-recruitment-sites/scm/master-en/uni-leiden-website-dag-1ldf_0681_2.jpg-header.jpg/uni-leiden-website-dag-1ldf_0681_2.jpg-header.jpg/d1180x400" alt="">
+</div>
+<nav class="sub-nav" data-menu-label="Submenu">
+
+  <p class="parent">
+      <a href="https://www.universiteitleiden.nl/en/education" >Education</a>
+    </p>
+
+  <ul>
+      <li class="has-children open">
+
+          <a href="https://www.universiteitleiden.nl/en/education/masters" class="active">Masters</a>
+
+          <ul>
+              <li class="">
+                  <a href="https://www.universiteitleiden.nl/en/education/study-programmes?pageNumber=1&amp;type=master" >All master&#039;s programmes</a>
+                </li>
+
+              <li class="has-children">
+                  <a href="https://www.universiteitleiden.nl/en/education/masters/why-leiden-university" >Why Leiden University?</a>
+                </li>
+
+              <li class="has-children">
+                  <a href="https://www.universiteitleiden.nl/en/education/masters/student-life" >Student life</a>
+                </li>
+
+              <li class="">
+                  <a href="https://www.universiteitleiden.nl/en/education/admission-and-application/masters" >Admission and application</a>
+                </li>
+
+              <li class="has-children">
+                  <a href="https://www.universiteitleiden.nl/en/education/masters/information-activities" >Information activities</a>
+                </li>
+
+              </ul>
+          </li>
+      </ul>
+
+  </nav>
+
+<div id="content">
+  <div class="sub-home">
+    <article>
+      <h1>Masters</h1>
+
+      <p class="intro">
+        Are you looking for a master&#039;s degree at a world-class university where high-quality education, the best lecturers and leading researchers are all part of the package? Leiden University offers almost 80 English taught master&#039;s programmes: you’re certain to find one that suits you.</p>
+      </article>
+    <div class="aside raised">
+      <div class="box-row full">
+        <div class="box cta">
+    <div class="box-header">
+        <h2>Find a master</h2>
+      </div>
+    <div class="box-content">
+      <a class="action" href="https://www.universiteitleiden.nl/en/education/study-programmes?pageNumber=1&type=master">All programmes</a>
+      </div>
+  </div>
+  <!-- .box -->
+</div>
+    </div>
+  </div>
+  <!-- .sub-home -->
+  <div class="box-row threes">
+    <div class="box figure ">
+  <div class="box-content">
+    <a href="https://www.universiteitleiden.nl/en/education/masters/information-activities/masters-open-day">
+      <figure>
+        <img src="/binaries/content/gallery/student-recruitment-sites/scm/master-nl/spotlights/spotlight-bezoek-de-masterdag.jpg" alt="" />
+      <figcaption>
+          <strong>Master&#039;s Open Day</strong>
+          <span class="meta">Explore our master’s programmes, city &amp; university</span>
+          </figcaption>
+      </figure>
+    </a>
+  </div>
+</div><div class="box figure ">
+  <div class="box-content">
+    <a href="https://www.universiteitleiden.nl/en/education/masters/why-leiden-university">
+      <figure>
+        <img src="/binaries/content/gallery/student-recruitment-sites/scm/master-en/spotlights/collegezaal-masters.jpg" alt="" />
+      <figcaption>
+          <strong>Why Leiden University?</strong>
+          <span class="meta">8 reasons to choose Leiden University</span>
+          </figcaption>
+      </figure>
+    </a>
+  </div>
+</div><div class="box figure ">
+  <div class="box-content">
+    <a href="https://www.universiteitleiden.nl/en/education/admission-and-application/masters">
+      <figure>
+        <img src="/binaries/content/gallery/student-recruitment-sites/scm/master-en/spotlights/spotlight-apply-now.jpg" alt="" />
+      <figcaption>
+          <strong>Apply now</strong>
+          <span class="meta">Made your choice? Start with your application!</span>
+          </figcaption>
+      </figure>
+    </a>
+  </div>
+</div><div class="box figure ">
+  <div class="box-content">
+    <a href="https://www.universiteitleiden.nl/en/education/international-students">
+      <figure>
+        <img src="/binaries/content/gallery/student-recruitment-sites/scm/master-en/spotlights/spotlight-international-students-2.jpg" alt="" />
+      <figcaption>
+          <strong>International student?</strong>
+          <span class="meta">Read our information for international students</span>
+          </figcaption>
+      </figure>
+    </a>
+  </div>
+</div><div class="box figure ">
+  <div class="box-content">
+    <a href="https://theleidener.com/">
+      <figure>
+        <img src="/binaries/content/gallery/student-recruitment-sites/scm/master-en/spotlights/spotlight-holland.jpg" alt="" />
+      <figcaption>
+          <strong>Follow our students</strong>
+          <span class="meta">Read the experiences of international students</span>
+          </figcaption>
+      </figure>
+    </a>
+  </div>
+</div><div class="box figure ">
+  <div class="box-content">
+    <a href="https://www.universiteitleiden.nl/en/education/masters/why-leiden-university/extra-challenges/leiden-leadership-programme">
+      <figure>
+        <img src="/binaries/content/gallery/student-recruitment-sites/scm/master-en/spotlights/spotlight-extra-challenge.jpg" alt="" />
+      <figcaption>
+          <strong>Need extra challenge?</strong>
+          <span class="meta">Learn more about our Leiden Leadership Programme</span>
+          </figcaption>
+      </figure>
+    </a>
+  </div>
+</div><div class="box events">
+    <div class="box-header alt">
+        <h2>Get to know us</h2>
+      </div>
+    <div class="box-content">
+      <ul>
+        <li>
+            <a href="https://www.universiteitleiden.nl/en/events/extra/2018/03/student-for-a-day-crisis-and-security-management-13-march-2018">
+
+  <span class="event-date one-day">
+      <time datetime="2018-03-13T11:00">
+        13<abbr title="March">
+          Mar</abbr>
+      </time>
+    </span>
+  <div>
+    <span class="meta alt">Study Information</span>
+    <strong>Student for a Day at MSc Crisis and Security Management</strong>
+    </div>
+
+</a></li>
+        <li>
+            <a href="https://www.universiteitleiden.nl/en/events/extra/2018/03/student-for-day-economic--consumer-psychology-14-maart-2018">
+
+  <span class="event-date one-day">
+      <time datetime="2018-03-14T10:00">
+        14<abbr title="March">
+          Mar</abbr>
+      </time>
+    </span>
+  <div>
+    <span class="meta alt">Study Information</span>
+    <strong>Student for a Day - Economic &amp; Consumer Psychology</strong>
+    </div>
+
+</a></li>
+        <li>
+            <a href="https://www.universiteitleiden.nl/en/events/extra/2018/03/masters-open-day">
+
+  <span class="event-date one-day">
+      <time datetime="2018-03-16T09:00">
+        16<abbr title="March">
+          Mar</abbr>
+      </time>
+    </span>
+  <div>
+    <span class="meta alt">Study Information</span>
+    <strong>Master&#039;s Open Day</strong>
+    </div>
+
+</a></li>
+        </ul>
+
+      <p class="more">
+        <a href="https://www.universiteitleiden.nl/en/education/master/events?activity=masterday&activity=master-student-for-a-day&activity=online-experience">More events</a>
+      </p>
+    </div> <!-- .box-content -->
+  </div>
+  <!-- .box.events -->
+
+<div class="box">
+    <div class="box-header alt">
+        <h2>Leiden University News</h2>
+      </div>
+    <div class="box-content">
+      <ul>
+        <li>
+            <a href="https://www.universiteitleiden.nl/en/news/2018/03/computer-science-in-leiden-offers-highest-quality-education">
+    <img src="/binaries/content/gallery/student-recruitment-sites/fwn/computer-science/computer-science.png/computer-science.png/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <span class="meta">09 March 2018</span>
+      <strong>Computer Science in Leiden offers highest quality education</strong>
+    </div>
+</a>
+</li>
+        <li>
+            <a href="https://www.universiteitleiden.nl/en/news/2018/03/how-alumnua-romana-found-work-at-the-dutch-ambassy-in-amman">
+    <img src="/binaries/content/gallery/ul2/main-images/humanities/romana-osman-header.jpg/romana-osman-header.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <span class="meta">08 March 2018</span>
+      <strong>How Romana became a trainee at the Dutch Embassy in Amman</strong>
+    </div>
+</a>
+</li>
+        <li>
+            <a href="https://www.universiteitleiden.nl/en/news/2018/03/student-laura-in-peyong-chang">
+    <img src="/binaries/content/gallery/ul2/main-images/general/banner-afbeeldingen/180301-student-zuid-korea.jpg/180301-student-zuid-korea.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <span class="meta">01 March 2018</span>
+      <strong>Student Laura in Pyeongchang: ‘The best start to my exchange!’</strong>
+    </div>
+</a>
+</li>
+        <li>
+            <a href="https://www.universiteitleiden.nl/en/news/2018/02/history-and-classics-rank-high-in-qs-rankings-by-subject">
+    <img src="/binaries/content/gallery/ul2/main-images/humanities/thumbnail-world-university-ranking-qs.jpg/thumbnail-world-university-ranking-qs.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <span class="meta">28 February 2018</span>
+      <strong>History and Classics rank high in QS Rankings by Subject</strong>
+    </div>
+</a>
+</li>
+        </ul>
+
+      <p class="more">
+        <a href="https://www.universiteitleiden.nl/en/news?category=Education&category=Students">More news</a>
+      </p>
+    </div>
+  </div>
+
+<div class="box events">
+    <div class="box-header alt">
+        <h2>Upcoming events</h2>
+      </div>
+    <div class="box-content">
+      <ul>
+        <li>
+            <a href="https://www.universiteitleiden.nl/en/events/2018/04/lacg-willemijn-heeren">
+
+  <span class="event-date one-day">
+      <time datetime="2018-04-05T11:00">
+        05<abbr title="April">
+          Apr</abbr>
+      </time>
+    </span>
+  <div>
+    <span class="meta alt">Lecture</span>
+    <strong>LACG: Willemijn Heeren</strong>
+    <span class="meta">Willemijn Heeren</span>
+      </div>
+
+</a></li>
+        <li>
+            <a href="https://www.universiteitleiden.nl/en/events/2018/04/jurian-langer-professor-in-european-law-and-the-dutch-legal-order">
+
+  <span class="event-date one-day">
+      <time datetime="2018-04-05T15:00">
+        05<abbr title="April">
+          Apr</abbr>
+      </time>
+    </span>
+  <div>
+    <span class="meta alt">Lecture</span>
+    <strong>Jurian Langer, professor in European law and the Dutch legal order</strong>
+    <span class="meta">Jurian Langer</span>
+      </div>
+
+</a></li>
+        <li>
+            <a href="https://www.universiteitleiden.nl/en/events/2018/05/lacg-gerrit-jan-kootstra">
+
+  <span class="event-date one-day">
+      <time datetime="2018-05-17T11:00">
+        17<abbr title="May">
+          May</abbr>
+      </time>
+    </span>
+  <div>
+    <span class="meta alt">Lecture</span>
+    <strong>LACG: Gerrit Jan Kootstra</strong>
+    <span class="meta">Gerrit Jan Kootstra</span>
+      </div>
+
+</a></li>
+        </ul>
+
+      <p class="more">
+        <a href="https://www.universiteitleiden.nl/en/events?activity=Festival&activity=Lecture&activity=exhibition">More events</a>
+      </p>
+    </div> <!-- .box-content -->
+  </div>
+  <!-- .box.events -->
+
+</div>
+  <!-- .box-row -->
+</div>
+<footer class="sub-footer clearfix">
+  <section>
+  </section><section>
+  </section><section>
+  </section><section>
+  </section></footer></div>
+    </div>
+
+    <!-- googleoff: all-->
+<div class="footer-container">
+    <footer class="wrapper clearfix">
+      <section>
+          <h2>Study programmes</h2>
+              <ul>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/en/education/bachelors">Bachelor&#039;s programmes</a>
+                  </li>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/en/education/masters">Master&#039;s programmes</a>
+                  </li>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/en/research/studying-for-a-phd">PhD programmes</a>
+                  </li>
+                <li>
+                    <a href="http://summerschool.universiteitleiden.nl">Summer School</a>
+                  </li>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/en/education/other-modes-of-study">Other modes of study</a>
+                  </li>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/en/education/bachelors/information-activities/open-days">Bachelor&#039;s Open Days</a>
+                  </li>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/en/education/masters">Master&#039;s Open  Days</a>
+                  </li>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/en/education/admission-and-application">Admission &amp; Application</a>
+                  </li>
+                </ul>
+
+            </section>
+      <section>
+          <h2>Organisation</h2>
+              <ul>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/en/archaeology">Archaeology</a>
+                  </li>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/en/governance-and-global-affairs">Governance and Global Affairs</a>
+                  </li>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/en/humanities">Humanities</a>
+                  </li>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/en/law">Law</a>
+                  </li>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/en/medicine-lumc">Medicine/LUMC</a>
+                  </li>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/en/science">Science</a>
+                  </li>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/en/social-behavioural-sciences">Social and Behavioural Sciences</a>
+                  </li>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/en/african-studies-centre-leiden">African Studies Centre Leiden</a>
+                  </li>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/en/honours-academy">Honours Academy</a>
+                  </li>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/en/iclon">ICLON (Graduate School of Teaching)</a>
+                  </li>
+                </ul>
+
+            </section>
+      <section>
+          <h2>About us</h2>
+              <ul>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/en/working-at">Working at Leiden University</a>
+                  </li>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/en/alumni">Alumni</a>
+                  </li>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/en/about-us/impact">Impact</a>
+                  </li>
+                <li>
+                    <a href="http://www.leiden-delft-erasmus.nl/en/home">Leiden-Delft-Erasmus</a>
+                  </li>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/en/locations">Locations</a>
+                  </li>
+                <li>
+                    <a href="https://www.organisatiegids.universiteitleiden.nl/en/regulations/general/university-website-disclaimer">Disclaimer</a>
+                  </li>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/en/about-us/contact">Contact</a>
+                  </li>
+                </ul>
+
+            </section>
+      <section>
+          <h2>Connect with us</h2>
+              <ul>
+                  <li>
+                      <a href="http://www.leiden.edu/newsletter/address/">Sign up to receive our monthly newsletter</a>
+                    </li>
+                  </ul>
+              <div class="share">
+                <a href="https://www.facebook.com/UniversiteitLeiden" class="facebook"></a>
+                <a href="https://twitter.com/unileidennews" class="twitter"></a>
+                <a href="http://www.youtube.com/user/UniversiteitLeiden" class="youtube"></a>
+                <a href="http://www.linkedin.com/company/leiden-university" class="linkedin"></a>
+                <a href="https://instagram.com/universiteitleiden" class="instagram"></a>
+                <a href="https://plus.google.com/+UniversiteitLeiden" class="google-plus"></a>
+                </div>
+
+            </section>
+      </footer>
+  </div>
+<!-- googleon: all-->
+<script async defer src="/scripts/ul2.js" data-main="/scripts/ul2recruitment/main.js"></script>
+<!-- this line enables the loading of asynchronous components (together with the headContributions at the top) -->
+    </body>
+
+</html>

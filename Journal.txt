@@ -1,0 +1,13 @@
+This is a simple example of extracting the title
+from a webpage
+
+
+Compile
+
+gcc -std=gnu89 title.c htmlstreamparser.c -lcurl -o title
+
+Run
+
+./title www.leidenuniv.nl
+
+

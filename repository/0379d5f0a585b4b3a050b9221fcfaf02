@@ -1,0 +1,765 @@
+<!DOCTYPE html>
+
+<html lang="en" data-version="1.69.03">
+
+  <head>
+
+    <!-- standard page html head -->
+<title>Campus The Hague - Leiden University</title>
+<meta name="google-site-verification" content="o8KYuFAiSZi6QWW1wxqKFvT1WQwN-BxruU42si9YjXw"/>
+<meta name="google-site-verification" content="hRUxrqIARMinLW2dRXrPpmtLtymnOTsg0Pl3WjHWQ4w"/>
+<link rel="canonical" href="https://www.universiteitleiden.nl/en/the-hague"/>
+  <meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+<meta name="description" content="Since the late 1990s Leiden University has had locations in two cities: Leiden and The Hague. Six of the University&#039;s seven faculties are now active at Campus The Hague. The Faculty of Governance and Global Affairs is located fully and exclusively in The Hague, as are our Leiden University College and International Studies, the biggest programme taught by the Faculty of Humanities."/>
+  <!-- icons -->
+<link rel="shortcut icon" href="https://www.universiteitleiden.nl/en/ul2common/icons/favicon.ico" />
+<link rel="icon" type="image/png" sizes="32x32" href="https://www.universiteitleiden.nl/en/ul2common/icons/icon-32px.png" />
+<link rel="icon" type="image/png" sizes="96x96" href="https://www.universiteitleiden.nl/en/ul2common/icons/icon-96px.png" />
+<link rel="icon" type="image/png" sizes="195x195" href="https://www.universiteitleiden.nl/en/ul2common/icons/icon-195px.png" />
+
+<link rel="apple-touch-icon" href="https://www.universiteitleiden.nl/en/ul2common/icons/icon-120px.png" /> <!-- iPhone retina -->
+<link rel="apple-touch-icon" sizes="180x180" href="https://www.universiteitleiden.nl/en/ul2common/icons/icon-180px.png" /> <!-- iPhone 6 plus -->
+<link rel="apple-touch-icon" sizes="152x152" href="https://www.universiteitleiden.nl/en/ul2common/icons/icon-152px.png" /> <!-- iPad retina -->
+<link rel="apple-touch-icon" sizes="167x167" href="https://www.universiteitleiden.nl/en/ul2common/icons/icon-167px.png" /> <!-- iPad pro -->
+<!-- twitter -->
+<meta property="twitter:card" content="summary"/>
+<meta property="twitter:site" content="@UniLeiden"/>
+<meta property="twitter:title" content="Campus The Hague"/>
+<meta property="twitter:description" content="Since the late 1990s Leiden University has had locations in two cities: Leiden and The Hague. Six of the University&#039;s seven faculties are now active at Campus The Hague. The Faculty of Governance and Global Affairs is located fully and exclusively in The Hague, as are our Leiden University College and International Studies, the biggest programme taught by the Faculty of Humanities."/>
+<!-- Open Graph -->
+<meta property="og:title" content="Campus The Hague"/>
+<meta property="og:type" content="website"/>
+<meta property="og:description" content="Since the late 1990s Leiden University has had locations in two cities: Leiden and The Hague. Six of the University&#039;s seven faculties are now active at Campus The Hague. The Faculty of Governance and Global Affairs is located fully and exclusively in The Hague, as are our Leiden University College and International Studies, the biggest programme taught by the Faculty of Humanities."/>
+<meta property="og:site_name" content="Leiden University"/>
+<meta property="og:locale" content="en_US"/>
+<meta property="og:image" content="https://www.universiteitleiden.nl/en/ul2common/icons/icon-195px.png"/>
+  <meta property="og:url" content="https://www.universiteitleiden.nl/en/the-hague"/>
+  <meta name="application-name" content="search"
+       data-protected="false" data-language="en" data-last-modified-date="2018-03-09" data-publication-date="2018-03-09" data-uuid="7a58f2ee-a596-44c6-9b6a-fa521034b7c7" data-website="external-site"><!-- Favicon and CSS -->
+<link rel='shortcut icon' href="https://www.universiteitleiden.nl/en/ul2common/icons/favicon.ico"/>
+<link rel="stylesheet" href="https://www.universiteitleiden.nl/en/ul2external/styles/screen.css?v=1.69.03"/>
+<!-- Google Tag Manager -->
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+      'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-MR67S7X');
+</script>
+<!-- End Google Tag Manager -->
+<!-- this line enables the loading of asynchronous components (together with the headContributions at the bottom) -->
+    <script type="text/javascript">
+//<![CDATA[
+if (typeof c1255490129 === 'undefined') {
+    c1255490129 = {};
+}
+if (typeof c1255490129.d1255490129 === 'undefined') {
+    c1255490129.d1255490129 = {};
+}
+
+c1255490129.d1255490129.AsyncPage = {
+
+    load : function() {
+        var result, divs, i, length;
+        result = [];
+
+        if (document.getElementsByClassName) {
+            result = document.getElementsByClassName('e1255490129Async');
+        } else {
+            divs = document.getElementsByTagName('div');
+            for (i = 0, length = divs.length; i < length; i++) {
+                if (divs[i].className === 'e1255490129Async') {
+                    result.push(divs[i]);
+                }
+            }
+        }
+
+        /**
+         * Identify if the <code>script</code> node contains executable scripts.
+         * @param script
+         * @returns {boolean}
+         */
+        function isExecutableScript(script) {
+            var TEXT_JAVASCRIPT = "text/javascript",
+                APP_JAVASCRIPT = "application/javascript",
+                supportedScripts = [TEXT_JAVASCRIPT, APP_JAVASCRIPT],
+                scriptType = TEXT_JAVASCRIPT;
+
+            // default script type is text/javascript in HTML5
+            if (script.hasAttribute('type')) {
+                scriptType = script.getAttribute('type').toLowerCase();
+            }
+            // find the script type in the list (case insensitive)
+            if (Array.prototype.indexOf){
+                return supportedScripts.indexOf(scriptType) > -1;
+            } else { // IE8 or less
+                for (var i = 0, length = supportedScripts.length; i < length; i++) {
+                    if (scriptType === supportedScripts[i]){
+                        return true;
+                    }
+                }
+                return false;
+            }
+        }
+
+        // Find all script elements, extract them from the fragment and store
+        // them into a new array. Cloning the nodes does not work as the script
+        // will not be executed that way, so we have to clone them manually.
+        function extractScriptNodes(fragment) {
+            var i, j, length, node, nodes, script, scripts, atts;
+
+            atts = ['async', 'charset', 'defer', 'src', 'type'];
+            scripts = fragment.querySelectorAll('script');
+            nodes = [];
+
+            for (i = 0, length = scripts.length; i < length; i++) {
+                script = scripts[i];
+                // Only extract executable scripts, i.e "text/javascript"
+                if (isExecutableScript(script)) {
+                    node = document.createElement('script');
+                    if (window.addEventListener) {
+                        node.appendChild(document.createTextNode(script.innerHTML));
+                    } else { // IE8 or less
+                        node.text = script.innerHTML;
+                    }
+                    for (j = 0; j < atts.length; j++) {
+                        if (script.hasAttribute(atts[j])) {
+                            node.setAttribute(atts[j], script.getAttribute(atts[j]));
+                        }
+                    }
+                    script.parentNode.removeChild(script);
+                    nodes.push(node);
+                }
+            }
+            return nodes;
+        }
+
+        // If next is undefined, simply append the nodes to the parent,
+        // otherwise insert the nodes before the reference node
+        function insertScriptNodes(nodes, parent, reference) {
+            var i, length;
+            for (i = 0, length = nodes.length; i < length; i++) {
+                if (reference) {
+                    parent.insertBefore(nodes[i], reference);
+                } else {
+                    parent.appendChild(nodes[i]);
+                }
+            }
+        }
+
+        for (i = 0, length = result.length; i < length; i++) {
+            (function(element) {
+                this.sendRequest(element.id, function(xmlHttp) {
+                    var fragment, tmpDiv, parent, scriptNodes, next;
+
+                    // Convert the responseText into HTML nodes
+                    tmpDiv = document.createElement('div');
+                    if (window.addEventListener) {
+                        tmpDiv.innerHTML = xmlHttp.responseText;
+                    } else { // IE8 or less
+                        // If firstChild is a script/style element IE will
+                        // ignore it, so we add a textNode first, then 
+                        // immediately remove it again and IE will show the 
+                        // script/style elements 
+                        tmpDiv.innerHTML = '<span>&#160;</span>' + xmlHttp.responseText;
+                        tmpDiv.removeChild(tmpDiv.firstChild);
+                    }
+
+                    // Move the nodes into a fragment
+                    fragment = document.createDocumentFragment();
+                    while (tmpDiv.firstChild) {
+                        fragment.appendChild(tmpDiv.firstChild);
+                    }
+
+                    // Extract the script nodes so we can re-insert and execute
+                    // them after the DOM has been updated with the new HTML
+                    scriptNodes = extractScriptNodes(fragment);
+
+                    // Save a reference to the parent and the next sibling
+                    parent = element.parentNode;
+                    next = element.nextSibling;
+
+                    // Update the DOM
+                    parent.replaceChild(fragment, element);
+
+                    // Insert the script nodes
+                    insertScriptNodes(scriptNodes, parent, next);
+                });
+            }).call(this, result[i]);
+        }
+    },
+
+    sendRequest : function(url, callback) {
+        var xmlHttpRequest;
+        try {
+            xmlHttpRequest = window.XMLHttpRequest ? new XMLHttpRequest() : new ActiveXObject("Microsoft.XMLHTTP");
+            xmlHttpRequest.open("GET", url, true);
+            xmlHttpRequest.onreadystatechange = function () {
+                if (xmlHttpRequest.readyState !== 4) {
+                    return;
+                }
+                if (xmlHttpRequest.status !== 200 && xmlHttpRequest.status !== 304) {
+                    return;
+                }
+                callback(xmlHttpRequest);
+            };
+
+            xmlHttpRequest.send();
+        } catch (e) {
+            if (typeof window.console !== 'undefined') {
+                if (typeof console.error !== 'undefined') {
+                    console.error(e.name + ": " + e.message);
+                } else if (typeof console.log !== 'undefined') {
+                    console.log(e.name + ": " + e.message);
+                }
+            }
+        }
+    }
+};
+
+//]]>
+</script>
+<!-- Header Scripts -->
+    <!-- Please configure Google Analytics Account ID in the Channel Manager / Channel configuration to enable Google Analytics page tracking -->
+
+  </head>
+
+  <body class=" right">
+    <!-- Google Tag Manager -->
+
+<!-- Google Tag Manager --><!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MR67S7X"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<!-- To enable JS-based styles: -->
+    <script> document.body.className += ' js'; </script>
+
+    <!-- googleoff: all-->
+<div class="header-container">
+  <header class="wrapper clearfix">
+
+    <h1 class="logo">
+      <a href="https://www.universiteitleiden.nl/en">
+        <img width="151" height="64" src="https://www.universiteitleiden.nl/en/ul2common/images/zegel.png" alt="Universiteit Leiden"/>
+      </a>
+    </h1>
+
+    <ul class="top-nav">
+
+  <li><a href="https://www.student.universiteitleiden.nl/en" >Current students</a></li>
+
+  <li><a href="https://www.universiteitleiden.nl/en/alumni" >Alumni</a></li>
+
+  <li><a href="https://www.staff.universiteitleiden.nl" >Staff members</a></li>
+
+  </ul><!-- Standard page searchbox -->
+<form id="search" method="get" action="https://www.universiteitleiden.nl/en/search">
+
+  <fieldset>
+    <input type="search" name="q" value="">
+    <button class="submit" type="submit">
+      <span>Search</span>
+    </button>
+  </fieldset>
+
+  <ul class="options">
+    <li>
+        <a href="https://www.universiteitleiden.nl/en/search" class="active" data-hidden='{"c":"all"}'>
+          All</a>
+      </li>
+    <li>
+        <a href="https://www.universiteitleiden.nl/en/search/persons"  data-hidden='{"c":"person"}'>
+          Persons</a>
+      </li>
+    <li>
+        <a href="https://www.universiteitleiden.nl/en/search/persons-by-expertise"  data-hidden='{"c":"personbyexpertise"}'>
+          Persons by expertise</a>
+      </li>
+    <li>
+        <a href="https://www.universiteitleiden.nl/en/search/subject"  data-hidden='{"c":"education","gsaentity_category":"Education"}'>
+          Education</a>
+      </li>
+    <li>
+        <a href="https://www.universiteitleiden.nl/en/search/subject"  data-hidden='{"c":"research","gsaentity_category":"Research"}'>
+          Research</a>
+      </li>
+    <li>
+        <a href="https://www.universiteitleiden.nl/en/search/subject"  data-hidden='{"c":"organization","gsaentity_category":"Organisation"}'>
+          Organisation</a>
+      </li>
+    <li>
+        <a href="https://www.universiteitleiden.nl/en/search/subject"  data-hidden='{"c":"subject","gsaentity_category":"Subject"}'>
+          Subject</a>
+      </li>
+    <li>
+        <a href="https://www.universiteitleiden.nl/en/search/subject"  data-hidden='{"c":"news","gsaentity_category":"News"}'>
+          News</a>
+      </li>
+    <li>
+        <a href="https://www.universiteitleiden.nl/en/search/subject"  data-hidden='{"c":"events","gsaentity_category":"Events"}'>
+          Events</a>
+      </li>
+    <li>
+        <a href="https://www.universiteitleiden.nl/en/search/subject"  data-hidden='{"c":"locations","gsaentity_category":"Location"}'>
+          Locations</a>
+      </li>
+    <li>
+        <a href="https://www.universiteitleiden.nl/en/search/subject"  data-hidden='{"c":"vacancies","gsaentity_category":"Vacancy"}'>
+          Vacancies</a>
+      </li>
+    <li>
+        <a href="https://www.universiteitleiden.nl/en/search/library"  data-hidden='{"c":"library"}'>
+          Library</a>
+      </li>
+    </ul>
+
+</form>
+
+<div class="language-btn-group">
+  <a href="https://www.universiteitleiden.nl/den-haag?" class="btn">
+              <abbr title="Nederlands">nl</abbr>
+            </a>
+          <span class="btn active">
+          <abbr title="English">en</abbr>
+        </span>
+      </div></header>
+  <nav class="main-nav" data-menu-label="Menu">
+  <ul class="wrapper">
+
+    <li><a class="home" href="https://www.universiteitleiden.nl/en"><span>Home</span></a></li>
+    <li><a href="https://www.universiteitleiden.nl/en/research" >Research</a></li>
+
+  <li><a href="https://www.universiteitleiden.nl/en/education" >Education</a></li>
+
+  <li><a href="https://www.universiteitleiden.nl/en/academic-staff" >Academic staff</a></li>
+
+  <li><a href="https://www.universiteitleiden.nl/en/about-us" >About us</a></li>
+
+  <li><a href="https://www.universiteitleiden.nl/en/about-us/management-and-organisation/faculties" >Faculties</a></li>
+
+  <li><a href="https://www.universiteitleiden.nl/en/the-hague" class="active">Campus The Hague</a></li>
+
+  <li><a href="http://www.library.universiteitleiden.nl/" >Library</a></li>
+
+  </ul>
+</nav></div>
+<!-- googleon: all-->
+<div class="main-container">
+      <div class="main wrapper clearfix">
+
+        <!-- googleoff: all-->
+<nav class="breadcrumb">
+    <ul>
+      <li><a href="https://www.universiteitleiden.nl/en">Home</a></li>
+
+      <li>Campus The Hague</li>
+            </ul>
+  </nav>
+<!-- googleon: all-->
+<ul class="hero-team">
+  <li>
+    <img src="/binaries/content/gallery/ul2/main-images/about-us/den-haag.jpg/den-haag.jpg/d780x400" alt="">
+<span>City of peace, security and justice</span>
+</li>
+  <div style="display:none;" id="/en/the-hague?_hn:type=component-rendering&amp;_hn:ref=r48_r1_r1_r1" class="e1255490129Async"></div></ul>
+
+
+<nav class="sub-nav" data-menu-label="Submenu">
+
+  <p class="parent">
+      <a href="https://www.universiteitleiden.nl/en/the-hague" class="active">Campus The Hague</a>
+    </p>
+
+  <ul>
+      <li class="">
+
+          <a href="https://www.universiteitleiden.nl/en/the-hague/about-us" >About us</a>
+
+          </li>
+      <li class="">
+
+          <a href="https://www.universiteitleiden.nl/en/the-hague/research" >Research</a>
+
+          </li>
+      <li class="">
+
+          <a href="https://www.universiteitleiden.nl/en/the-hague/teaching" >Teaching</a>
+
+          </li>
+      <li class="">
+
+          <a href="https://www.universiteitleiden.nl/en/the-hague/impact--innovation" >Impact &amp; Innovation</a>
+
+          </li>
+      <li class="">
+
+          <a href="https://www.universiteitleiden.nl/en/the-hague/partnerships" >Partnerships</a>
+
+          </li>
+      <li class="">
+
+          <a href="https://www.universiteitleiden.nl/en/the-hague/alumni" >Alumni</a>
+
+          </li>
+      <li class="">
+
+          <a href="https://www.universiteitleiden.nl/en/the-hague/studying-in-the-hague" >Studying in The Hague</a>
+
+          </li>
+      <li class="">
+
+          <a href="https://www.universiteitleiden.nl/en/the-hague/working-at-leiden-university" >Working in The Hague</a>
+
+          </li>
+      <li class="">
+
+          <a href="https://www.universiteitleiden.nl/en/the-hague/contact" >Contact</a>
+
+          </li>
+      </ul>
+
+  </nav>
+
+<div id="content">
+  <div class="sub-home">
+    <article>
+      <h1>Campus The Hague</h1>
+      <p class="intro">
+        Since the late 1990s Leiden University has had locations in two cities: Leiden and The Hague. Six of the University&#039;s seven faculties are now active at Campus The Hague. The Faculty of Governance and Global Affairs is located fully and exclusively in The Hague, as are our Leiden University College and International Studies, the biggest programme taught by the Faculty of Humanities.</p>
+
+      <p>Teaching and research in The Hague closely reflect the profile of the city – City of Peace, Security and Justice – and the many other opportunities offered by the city. Our teaching and research at Campus The Hague centre on four key themes:</p>
+
+<ol>
+ <li>International law, peace and security</li>
+ <li>Politics and public administration</li>
+ <li>Urban issues</li>
+ <li>Health and patient care</li>
+</ol></article>
+
+    <div class="aside">
+      <div class="box-row full">
+        <div class="box facts-figures nolink">
+    <div class="box-header  alt ">
+      <h2>Facts &amp; Figures The Hague</h2>
+    </div>
+    <div class="box-content">
+      <ul>
+        <li class="academic">
+            <strong>6</strong>
+            <span>Faculties</span>
+          </li>
+        <li class="rating">
+            <strong>13</strong>
+            <span>Study programmes</span>
+          </li>
+        <li class="firstyears">
+            <strong>4500</strong>
+            <span>Students</span>
+          </li>
+        <li class="earth">
+            <strong>91</strong>
+            <span>Nationalities</span>
+          </li>
+        </ul>
+    </div> <!-- .box-content -->
+  </div>
+  <!-- .box -->
+</div>
+    </div> <!-- .aside -->
+  </div>
+
+  <div class="box-row threes">
+    <div class="box">
+    <div class="box-header alt">
+        <h2>News</h2>
+      </div>
+    <div class="box-content">
+      <ul>
+        <li>
+            <a href="https://www.universiteitleiden.nl/en/news/2018/02/pandor">
+    <img src="/binaries/content/gallery/ul2/portraits/science/p/pandor.jpg/pandor.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <span class="meta">20 February 2018</span>
+      <strong>Distinguished South African Minister visits Leiden as Honorary Professor</strong>
+    </div>
+</a>
+</li>
+        <li>
+            <a href="https://www.universiteitleiden.nl/en/news/2018/02/graduation-second-cohort-cyber-security">
+    <img src="/binaries/content/gallery/ul2/main-images/campus-the-hague/news/csa_master.jpg/csa_master.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <span class="meta">05 February 2018</span>
+      <strong>Graduation Second Cohort Cyber Security</strong>
+    </div>
+</a>
+</li>
+        <li>
+            <a href="https://www.universiteitleiden.nl/en/news/2018/01/working-visit-minister-van-engelshoven-in-context-of-digitisation-of-education">
+    <img src="/binaries/content/gallery/ul2/main-images/general/homepage-headers/header_vanengelshoven_hololens.jpg/header_vanengelshoven_hololens.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <span class="meta">30 January 2018</span>
+      <strong>Working visit by Minister Van Engelshoven focuses on digitisation of education</strong>
+    </div>
+</a>
+</li>
+        </ul>
+
+      <p class="more">
+          <a href="https://www.universiteitleiden.nl/en/search/tag/subject?q=the+hague&gsaentity_category=News&gsaentity_language=English">More news about The Hague</a>
+        </p>
+      </div> <!-- .box-content -->
+  </div>
+  <!-- .box -->
+
+<div class="box">
+    <div class="box-header alt">
+        <h2>Coming events</h2>
+      </div>
+    <div class="box-content">
+      <ul>
+        <li>
+            <a href="https://www.universiteitleiden.nl/en/events/2018/03/universal-jurisdiction-bridging-the-accountability-gap-and-providing-justice-to-victims">
+
+  <span class="event-date one-day">
+      <time datetime="2018-03-19T17:00">
+        19<abbr title="March">
+          Mar</abbr>
+      </time>
+    </span>
+  <div>
+    <span class="meta alt">Conference</span>
+    <strong>Universal Jurisdiction: Bridging the Accountability Gap and Providing Justice to Victims</strong>
+    <span class="meta">Giulia Pinzauti</span>
+      </div>
+
+</a></li>
+        <li>
+            <a href="https://www.universiteitleiden.nl/en/events/2018/05/telders-international-law-moot-court-competition-2018">
+
+  <span class="event-date multiple-days">
+      <time datetime="2018-05-24T00:00">
+        24<abbr title="May">
+          May</abbr>
+      </time>
+      <time datetime="2018-05-26T00:00">
+        26<abbr title="May">
+          May</abbr>
+      </time>
+    </span>
+  <div>
+    <span class="meta alt">Moot Court</span>
+    <strong>Telders International Law Moot Court Competition 2018</strong>
+    </div>
+
+</a></li>
+        <li>
+            <a href="https://www.universiteitleiden.nl/en/events/2018/05/international-criminal-court-moot-court-competition-copy-kopie">
+
+  <span class="event-date multiple-days">
+      <time datetime="2018-05-27T00:00">
+        27<abbr title="May">
+          May</abbr>
+      </time>
+      <time datetime="2018-06-01T00:00">
+        01<abbr title="June">
+          Jun</abbr>
+      </time>
+    </span>
+  <div>
+    <span class="meta alt">Moot Court</span>
+    <strong>International Criminal Court Moot Court Competition 2018</strong>
+    </div>
+
+</a></li>
+        </ul>
+
+      <p class="more">
+          <a href="https://www.universiteitleiden.nl/en/events?location=the-hague">More events</a>
+        </p>
+      </div> <!-- .box-content -->
+  </div>
+  <!-- .box -->
+
+<div class="box figure ">
+  <div class="box-content">
+    <a href="https://www.universiteitleiden.nl/en/locations/map?pageNumber=1&city=Den+Haag">
+      <figure>
+        <img src="/binaries/content/gallery/ul2/main-images/campus-the-hague/news/den_haag_plein_skyline_2.jpg" alt="" />
+      <figcaption>
+          <strong>Locations in The Hague</strong>
+          </figcaption>
+      </figure>
+    </a>
+  </div>
+</div><div class="box figure ">
+  <div class="box-content">
+    <a href="https://www.youtube.com/watch?v=V4Ts_SBwFZA">
+      <figure>
+        <img src="/binaries/content/gallery/ul2/main-images/campus-the-hague/spotlight-video-campus-in-den-haag.jpg" alt="" />
+      <figcaption>
+          <strong>Campus The Hague</strong>
+          </figcaption>
+      </figure>
+    </a>
+  </div>
+</div><div class="box figure ">
+  <div class="box-content">
+    <a href="http://www.studyinthehague.com">
+      <figure>
+        <img src="/binaries/content/gallery/ul2/main-images/studeren-in-dh.jpg" alt="" />
+      <figcaption>
+          <strong>(Student) life in The Hague</strong>
+          </figcaption>
+      </figure>
+    </a>
+  </div>
+</div><div class="box figure ">
+  <div class="box-content">
+    <a href="https://www.universiteitleiden.nl/en/research-dossiers">
+      <figure>
+        <img src="/binaries/content/gallery/ul2/spotlight-fotos/180306-binnenhof-hofvijver.jpg" alt="" />
+      <figcaption>
+          <strong>Research in the spotlight</strong>
+          </figcaption>
+      </figure>
+    </a>
+  </div>
+</div><div class="box figure ">
+  <div class="box-content">
+    <a href="https://www.universiteitleiden.nl/en/the-hague/teaching">
+      <figure>
+        <img src="/binaries/content/gallery/ul2/main-images/campus-the-hague/bsk/campus-den-haag.jpg" alt="" />
+      <figcaption>
+          <strong>Teaching in The Hague</strong>
+          </figcaption>
+      </figure>
+    </a>
+  </div>
+</div></div>
+</div></div>
+    </div>
+
+    <!-- googleoff: all-->
+<div class="footer-container">
+    <footer class="wrapper clearfix">
+      <section>
+          <h2>Study programmes</h2>
+              <ul>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/en/education/bachelors">Bachelor&#039;s programmes</a>
+                  </li>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/en/education/masters">Master&#039;s programmes</a>
+                  </li>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/en/research/studying-for-a-phd">PhD programmes</a>
+                  </li>
+                <li>
+                    <a href="http://summerschool.universiteitleiden.nl">Summer School</a>
+                  </li>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/en/education/other-modes-of-study">Other modes of study</a>
+                  </li>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/en/education/bachelors/information-activities/open-days">Bachelor&#039;s Open Days</a>
+                  </li>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/en/education/masters">Master&#039;s Open  Days</a>
+                  </li>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/en/education/admission-and-application">Admission &amp; Application</a>
+                  </li>
+                </ul>
+            </section>
+      <section>
+          <h2>Organisation</h2>
+              <ul>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/en/archaeology">Archaeology</a>
+                  </li>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/en/governance-and-global-affairs">Governance and Global Affairs</a>
+                  </li>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/en/humanities">Humanities</a>
+                  </li>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/en/law">Law</a>
+                  </li>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/en/medicine-lumc">Medicine/LUMC</a>
+                  </li>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/en/science">Science</a>
+                  </li>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/en/social-behavioural-sciences">Social and Behavioural Sciences</a>
+                  </li>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/en/african-studies-centre-leiden">African Studies Centre Leiden</a>
+                  </li>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/en/honours-academy">Honours Academy</a>
+                  </li>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/en/iclon">ICLON (Graduate School of Teaching)</a>
+                  </li>
+                </ul>
+            </section>
+      <section>
+          <h2>About us</h2>
+              <ul>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/en/working-at">Working at Leiden University</a>
+                  </li>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/en/alumni">Alumni</a>
+                  </li>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/en/about-us/impact">Impact</a>
+                  </li>
+                <li>
+                    <a href="http://www.leiden-delft-erasmus.nl/en/home">Leiden-Delft-Erasmus</a>
+                  </li>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/en/locations">Locations</a>
+                  </li>
+                <li>
+                    <a href="https://www.organisatiegids.universiteitleiden.nl/en/regulations/general/university-website-disclaimer">Disclaimer</a>
+                  </li>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/en/about-us/contact">Contact</a>
+                  </li>
+                </ul>
+            </section>
+      <section>
+          <h2>Connect with us</h2>
+              <ul>
+                  <li>
+                      <a href="http://www.leiden.edu/newsletter/address/">Sign up to receive our monthly newsletter</a>
+                    </li>
+                  </ul>
+              <div class="share">
+                <a href="https://www.facebook.com/UniversiteitLeiden" class="facebook"></a>
+                <a href="https://twitter.com/unileidennews" class="twitter"></a>
+                <a href="http://www.youtube.com/user/UniversiteitLeiden" class="youtube"></a>
+                <a href="http://www.linkedin.com/company/leiden-university" class="linkedin"></a>
+                <a href="https://instagram.com/universiteitleiden" class="instagram"></a>
+                <a href="https://plus.google.com/+UniversiteitLeiden" class="google-plus"></a>
+                </div>
+            </section>
+      </footer>
+  </div>
+<!-- googleon: all-->
+<script async defer src="/scripts/ul2.js" data-main="/scripts/ul2external/main.js"></script>
+<!-- this line enables the loading of asynchronous components (together with the headContributions at the top) -->
+    <script type="text/javascript">
+//<![CDATA[
+c1255490129.d1255490129.AsyncPage.load();
+//]]>
+</script>
+</body>
+</html>

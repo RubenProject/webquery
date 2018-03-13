@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+
+<html lang="en" data-version="1.69.03">
+
+  <head>
+
+    <!-- standard page html head -->
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<title>University website - Disclaimer</title>
+<meta name="contentsource" content="hippocms"/>
+
+  <meta name="application-name" content="search"
+      data-content-type="regulationpage" data-content-category="general" data-protected="false" data-language="en" data-last-modified-date="2017-06-29" data-publication-date="2017-06-29" data-uuid="63daf067-e2db-4fd4-ac80-6a15bf489788" data-website="org-site"><!-- Favicon and CSS -->
+<link rel='shortcut icon' href="https://www.organisatiegids.universiteitleiden.nl/en/ul2common/icons/favicon.ico"/>
+<link rel="stylesheet" href="https://www.organisatiegids.universiteitleiden.nl/en/ul2org/styles/screen.css?v=1.69.03"/>
+
+<!-- this line enables the loading of asynchronous components (together with the headContributions at the bottom) -->
+    <!-- Header Scripts -->
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-65023507-5', 'auto');
+      ga('send', 'pageview');
+
+    </script>
+  </head>
+
+  <body class="organisation left" data-ajax-class='{}'>
+
+    <!-- To enable JS-based styles: -->
+    <script> document.body.className += ' js'; </script>
+
+    <!-- googleoff: all-->
+<div class="header-container">
+  <header class="wrapper clearfix">
+
+    <h1 class="logo">
+      <a href="https://www.universiteitleiden.nl/en">
+        <img width="151" height="64" src="https://www.organisatiegids.universiteitleiden.nl/en/ul2common/images/zegel.png" alt="Universiteit Leiden"/>
+      </a>
+    </h1>
+
+    <ul class="top-nav">
+
+  <li><a href="https://www.universiteitleiden.nl/en" >University</a></li>
+
+  <li><a href="https://www.student.universiteitleiden.nl/en" >Current students</a></li>
+
+  <li><a href="https://universiteitleiden.nl/en/alumni" >Alumni</a></li>
+
+  <li><a href="https://www.staff.universiteitleiden.nl" >Staff members</a></li>
+
+  </ul><!-- Standard page searchbox -->
+<form id="search" method="get" action="https://www.organisatiegids.universiteitleiden.nl/en/search">
+
+  <fieldset>
+    <input type="search" name="q" value="">
+    <button class="submit" type="submit">
+      <span>???searchbox.search.button.title???</span>
+    </button>
+  </fieldset>
+
+  <ul class="options">
+    <li>
+        <a href="https://www.organisatiegids.universiteitleiden.nl/en/search" class="active" data-hidden='{"c":"all"}'>
+          All</a>
+      </li>
+    <li>
+        <a href="https://www.organisatiegids.universiteitleiden.nl/en/search/persons"  data-hidden='{"c":"person"}'>
+          Persons</a>
+      </li>
+    <li>
+        <a href="https://www.organisatiegids.universiteitleiden.nl/en/search/persons-by-expertise"  data-hidden='{"c":"personbyexpertise"}'>
+          Persons by expertise</a>
+      </li>
+    <li>
+        <a href="https://www.organisatiegids.universiteitleiden.nl/en/search/regulations"  data-hidden='{"c":"regulation","gsaentity_category":"Regulation"}'>
+          Regulations</a>
+      </li>
+    </ul>
+
+</form>
+
+<div class="language-btn-group">
+  <a href="https://www.organisatiegids.universiteitleiden.nl/reglementen/algemeen/universitaire-website-disclaimer?" class="btn">
+              <abbr title="Nederlands">nl</abbr>
+            </a>
+          <span class="btn active">
+          <abbr title="English">en</abbr>
+        </span>
+      </div></header>
+</div>
+<!-- googleon: all-->
+<div class="main-container">
+      <div class="main wrapper clearfix">
+
+        <!-- googleoff: all-->
+<nav class="breadcrumb">
+    <ul>
+      <li><a href="https://www.organisatiegids.universiteitleiden.nl/en">Organisational structure</a></li>
+
+      <li><a href="https://www.organisatiegids.universiteitleiden.nl/en/regulations">Regulations</a></li>
+            <li>University website - Disclaimer</li>
+            </ul>
+  </nav>
+<!-- googleon: all-->
+<div id="content">
+
+  <article>
+
+    <h1>University website - Disclaimer</h1>
+
+    <dl class="facts">
+
+      <dt>Organization</dt>
+        <dd>
+          Leiden University</dd>
+      </dl>
+
+    <div class="indent">
+      <h3>Disclaimer</h3>
+
+<p>Leiden University regularly monitors and updates the information on this website. Whilst we endeavour to ensure that the information on this website is correct, we do not warrant its completeness or accuracy. Should you identify any inaccuracies on this website, please notify the web editors using the <a href="https://www.universiteitleiden.nl/en/about-us/contact/questions-about-the-website">contact form</a>.&nbsp;</p>
+
+<p>No rights can be derived from the information contained in the Leiden University website. The website may contain links to websites of third party organisations. Leiden University cannot be held responsible for any consequences arising from the use of information obtained from these websites.</p>
+
+<p>The information on this website, text as well as images, is and remains the property of Leiden University, unless otherwise stated.</p>
+
+<h3>Cookies</h3>
+
+<p>The Leiden University website uses so-called ‘cookies’, small text files that are stored on your computer. These cookies enable us to monitor visitor statistics via Google Analytics, Google’s web analysis service. Leiden University does not use this data to track individual visitors, but to gain a general impression of the number of visitors to the website, the pages most frequently visited, the kind of search requests, etc. With this information we are then able to make improvements to our website where necessary.</p>
+
+<p>If you do not wish to accept any cookies, you have the option of blocking them in the settings for your internet browser.</p>
+
+<p>&nbsp;</p></div>
+    
+  </article>
+</div>
+<aside>
+  </aside></div>
+    </div>
+
+    <!-- googleoff: all-->
+<div class="footer-container">
+    <footer class="wrapper clearfix">
+      <section>
+          <h2>Faculties</h2>
+              <ul>
+                <li>
+                    <a href="https://www.organisatiegids.universiteitleiden.nl/en/faculties-and-institutes/archaeology">Archeology</a>
+                  </li>
+                <li>
+                    <a href="https://www.organisatiegids.universiteitleiden.nl/en/faculties-and-institutes/governance-and-global-affairs">Governance and Global Affairs</a>
+                  </li>
+                <li>
+                    <a href="https://www.organisatiegids.universiteitleiden.nl/en/faculties-and-institutes/humanities">Humanities</a>
+                  </li>
+                <li>
+                    <a href="https://www.organisatiegids.universiteitleiden.nl/en/faculties-and-institutes/law">Law</a>
+                  </li>
+                <li>
+                    <a href="https://www.organisatiegids.universiteitleiden.nl/en/faculties-and-institutes/medicine-leiden-university-medical-center">Medicine-LUMC</a>
+                  </li>
+                <li>
+                    <a href="https://www.organisatiegids.universiteitleiden.nl/en/faculties-and-institutes/science">Science</a>
+                  </li>
+                <li>
+                    <a href="https://www.organisatiegids.universiteitleiden.nl/en/faculties-and-institutes/social-and-behavioural-sciences">Social and Behavioural Sciences</a>
+                  </li>
+                </ul>
+            </section>
+      <section>
+          <h2>Interfaculty Institutes</h2>
+              <ul>
+                <li>
+                    <a href="https://www.organisatiegids.universiteitleiden.nl/en/faculties-and-institutes/african-studies-centre-leiden">African Studies Center Leiden</a>
+                  </li>
+                <li>
+                    <a href="https://www.organisatiegids.universiteitleiden.nl/en/faculties-and-institutes/iclon">ICLON</a>
+                  </li>
+                <li>
+                    <a href="https://www.organisatiegids.universiteitleiden.nl/en/faculties-and-institutes/international-institute-for-asian-studies">International Institute for Asian Studies</a>
+                  </li>
+                <li>
+                    <a href="https://www.organisatiegids.universiteitleiden.nl/en/faculties-and-institutes/honours-academy">Honours Academy</a>
+                  </li>
+                </ul>
+            </section>
+      <section>
+          <h2>About us</h2>
+              <ul>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/en/about-us">About us</a>
+                  </li>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/en/about-us/contact">Contact</a>
+                  </li>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/en/locations">Locations</a>
+                  </li>
+                <li>
+                    <a href="http://workingat.leiden.edu/">Vacancies</a>
+                  </li>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/en/events">Events</a>
+                  </li>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/en/dossiers/news">News</a>
+                  </li>
+                </ul>
+            </section>
+      <section>
+          <h2>Stay Informed</h2>
+              <ul>
+                  <li>
+                      <a href="http://www.leiden.edu/newsletter/address/">Subscribe to our Newsletter</a>
+                    </li>
+                  </ul>
+              <div class="share">
+                <a href="https://nl-nl.facebook.com/UniversiteitLeiden" class="facebook"></a>
+                <a href="http://twitter.com/UniLeiden" class="twitter"></a>
+                <a href="http://www.youtube.com/user/UniversiteitLeiden" class="youtube"></a>
+                <a href="https://www.linkedin.com/company/leiden-university" class="linkedin"></a>
+                <a href="https://instagram.com/universiteitleiden" class="instagram"></a>
+                <a href="https://plus.google.com/+UniversiteitLeiden" class="google-plus"></a>
+                </div>
+            </section>
+      </footer>
+  </div>
+<!-- googleon: all-->
+<script async defer src="/scripts/ul2.js" data-main="/scripts/ul2org/main.js"></script>
+<!-- this line enables the loading of asynchronous components (together with the headContributions at the top) -->
+    </body>
+</html>

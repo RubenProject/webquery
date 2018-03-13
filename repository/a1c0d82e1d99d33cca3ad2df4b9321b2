@@ -1,0 +1,659 @@
+<!DOCTYPE html>
+
+<html lang="nl" data-version="1.69.03">
+
+  <head>
+
+    <!-- standard page html head -->
+<title>Instituut voor Informatica aan de Universiteit Leiden - Universiteit Leiden</title>
+<meta name="google-site-verification" content="o8KYuFAiSZi6QWW1wxqKFvT1WQwN-BxruU42si9YjXw"/>
+<meta name="google-site-verification" content="hRUxrqIARMinLW2dRXrPpmtLtymnOTsg0Pl3WjHWQ4w"/>
+<link rel="canonical" href="https://www.universiteitleiden.nl/wiskunde-en-natuurwetenschappen/informatica"/>
+  <meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+<meta name="description" content="Leiden Institute of Advanced Computer Science (LIACS)"/>
+  <!-- icons -->
+<link rel="shortcut icon" href="https://www.universiteitleiden.nl/ul2common/icons/favicon.ico" />
+<link rel="icon" type="image/png" sizes="32x32" href="https://www.universiteitleiden.nl/ul2common/icons/icon-32px.png" />
+<link rel="icon" type="image/png" sizes="96x96" href="https://www.universiteitleiden.nl/ul2common/icons/icon-96px.png" />
+<link rel="icon" type="image/png" sizes="195x195" href="https://www.universiteitleiden.nl/ul2common/icons/icon-195px.png" />
+
+<link rel="apple-touch-icon" href="https://www.universiteitleiden.nl/ul2common/icons/icon-120px.png" /> <!-- iPhone retina -->
+<link rel="apple-touch-icon" sizes="180x180" href="https://www.universiteitleiden.nl/ul2common/icons/icon-180px.png" /> <!-- iPhone 6 plus -->
+<link rel="apple-touch-icon" sizes="152x152" href="https://www.universiteitleiden.nl/ul2common/icons/icon-152px.png" /> <!-- iPad retina -->
+<link rel="apple-touch-icon" sizes="167x167" href="https://www.universiteitleiden.nl/ul2common/icons/icon-167px.png" /> <!-- iPad pro -->
+<!-- twitter -->
+<meta property="twitter:card" content="summary"/>
+<meta property="twitter:site" content="@UniLeiden"/>
+<meta property="twitter:title" content="Instituut voor Informatica aan de Universiteit Leiden"/>
+<meta property="twitter:description" content="Leiden Institute of Advanced Computer Science (LIACS)"/>
+<!-- Open Graph -->
+<meta property="og:title" content="Instituut voor Informatica aan de Universiteit Leiden"/>
+<meta property="og:type" content="website"/>
+<meta property="og:description" content="Leiden Institute of Advanced Computer Science (LIACS)"/>
+<meta property="og:site_name" content="Universiteit Leiden"/>
+<meta property="og:locale" content="nl_NL"/>
+<meta property="og:image" content="http://www.universiteitleiden.nl/binaries/content/gallery/ul2/main-images/science/liacs.jpg/liacs.jpg/d600x315"/>
+  <meta property="og:url" content="https://www.universiteitleiden.nl/wiskunde-en-natuurwetenschappen/informatica"/>
+  <meta name="application-name" content="search"
+      data-content-type="organizationlanding" data-content-category="general" data-protected="false" data-language="nl" data-last-modified-date="2018-03-02" data-publication-date="2018-03-02" data-organization="leiden-institute-of-advanced-computer-science" data-faculties="leiden-institute-of-advanced-computer-science" data-uuid="15b03f5c-7802-4043-8889-20a167305362" data-website="external-site"><!-- Favicon and CSS -->
+<link rel='shortcut icon' href="https://www.universiteitleiden.nl/ul2common/icons/favicon.ico"/>
+<link rel="stylesheet" href="https://www.universiteitleiden.nl/ul2external/styles/screen.css?v=1.69.03"/>
+<!-- Google Tag Manager -->
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+      'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-MR67S7X');
+</script>
+<!-- End Google Tag Manager -->
+<!-- this line enables the loading of asynchronous components (together with the headContributions at the bottom) -->
+    <!-- Header Scripts -->
+    <!-- Please configure Google Analytics Account ID in the Channel Manager / Channel configuration to enable Google Analytics page tracking -->
+
+  </head>
+
+  <body class=" right science">
+    <!-- Google Tag Manager -->
+
+<!-- Google Tag Manager --><!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MR67S7X"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<!-- To enable JS-based styles: -->
+    <script> document.body.className += ' js'; </script>
+
+    <!-- googleoff: all-->
+<div class="header-container">
+  <header class="wrapper clearfix">
+
+    <h1 class="logo">
+      <a href="https://www.universiteitleiden.nl/">
+        <img width="151" height="64" src="https://www.universiteitleiden.nl/ul2common/images/zegel.png" alt="Universiteit Leiden"/>
+      </a>
+    </h1>
+
+    <ul class="top-nav">
+
+  <li><a href="https://www.student.universiteitleiden.nl/" >Studenten</a></li>
+
+  <li><a href="https://www.universiteitleiden.nl/alumni" >Alumni</a></li>
+
+  <li><a href="https://www.medewerkers.universiteitleiden.nl" >Medewerkers</a></li>
+
+  </ul><!-- Standard page searchbox -->
+<form id="search" method="get" action="https://www.universiteitleiden.nl/zoeken">
+
+  <fieldset>
+    <input type="search" name="q" value="">
+    <button class="submit" type="submit">
+      <span>Zoeken</span>
+    </button>
+  </fieldset>
+
+  <ul class="options">
+    <li>
+        <a href="https://www.universiteitleiden.nl/zoeken" class="active" data-hidden='{"c":"all"}'>
+          Alle</a>
+      </li>
+    <li>
+        <a href="https://www.universiteitleiden.nl/zoeken/personen"  data-hidden='{"c":"person"}'>
+          Personen</a>
+      </li>
+    <li>
+        <a href="https://www.universiteitleiden.nl/zoeken/personen-op-expertise"  data-hidden='{"c":"personbyexpertise"}'>
+          Personen op expertise</a>
+      </li>
+    <li>
+        <a href="https://www.universiteitleiden.nl/zoeken/onderwerp"  data-hidden='{"c":"education","gsaentity_categorie":"Onderwijs"}'>
+          Onderwijs</a>
+      </li>
+    <li>
+        <a href="https://www.universiteitleiden.nl/zoeken/onderwerp"  data-hidden='{"c":"research","gsaentity_categorie":"Onderzoek"}'>
+          Onderzoek</a>
+      </li>
+    <li>
+        <a href="https://www.universiteitleiden.nl/zoeken/onderwerp"  data-hidden='{"c":"organization","gsaentity_categorie":"Organisatie"}'>
+          Organisatie</a>
+      </li>
+    <li>
+        <a href="https://www.universiteitleiden.nl/zoeken/onderwerp"  data-hidden='{"c":"subject","gsaentity_categorie":"Onderwerp"}'>
+          Onderwerp</a>
+      </li>
+    <li>
+        <a href="https://www.universiteitleiden.nl/zoeken/onderwerp"  data-hidden='{"c":"news","gsaentity_categorie":"Nieuws"}'>
+          Nieuws</a>
+      </li>
+    <li>
+        <a href="https://www.universiteitleiden.nl/zoeken/onderwerp"  data-hidden='{"c":"events","gsaentity_categorie":"Agenda"}'>
+          Agenda</a>
+      </li>
+    <li>
+        <a href="https://www.universiteitleiden.nl/zoeken/onderwerp"  data-hidden='{"c":"locations","gsaentity_categorie":"Locatie"}'>
+          Locaties</a>
+      </li>
+    <li>
+        <a href="https://www.universiteitleiden.nl/zoeken/onderwerp"  data-hidden='{"c":"vacancies","gsaentity_categorie":"Vacature"}'>
+          Vacatures</a>
+      </li>
+    <li>
+        <a href="https://www.universiteitleiden.nl/zoeken/bibliotheek"  data-hidden='{"c":"library"}'>
+          Bibliotheek</a>
+      </li>
+    </ul>
+
+</form>
+
+<div class="language-btn-group">
+  <span class="btn active">
+          <abbr title="Nederlands">nl</abbr>
+        </span>
+      <a href="https://www.universiteitleiden.nl/en/science/computer-science?" class="btn">
+              <abbr title="English">en</abbr>
+            </a>
+          </div></header>
+  <nav class="main-nav" data-menu-label="Menu">
+  <ul class="wrapper">
+
+    <li><a class="home" href="https://www.universiteitleiden.nl/"><span>Home</span></a></li>
+    <li><a href="https://www.universiteitleiden.nl/onderzoek" >Onderzoek</a></li>
+
+  <li><a href="https://www.universiteitleiden.nl/onderwijs" >Onderwijs</a></li>
+
+  <li><a href="https://www.universiteitleiden.nl/wetenschappers" >Wetenschappers</a></li>
+
+  <li><a href="https://www.universiteitleiden.nl/over-ons" >Over ons</a></li>
+
+  <li><a href="https://www.universiteitleiden.nl/over-ons/bestuur/faculteiten" >Faculteiten</a></li>
+
+  <li><a href="https://www.universiteitleiden.nl/den-haag" >Campus Den Haag</a></li>
+
+  <li><a href="http://www.bibliotheek.universiteitleiden.nl/" >Bibliotheek</a></li>
+
+  </ul>
+</nav></div>
+<!-- googleon: all-->
+<div class="main-container">
+      <div class="main wrapper clearfix">
+
+        <!-- googleoff: all-->
+<nav class="breadcrumb">
+    <ul>
+      <li><a href="https://www.universiteitleiden.nl/">Home</a></li>
+
+      <li><a href="https://www.universiteitleiden.nl/wiskunde-en-natuurwetenschappen">Wiskunde en Natuurwetenschappen</a></li>
+            <li>Informatica &amp; Kunstmatige Intelligentie</li>
+            </ul>
+  </nav>
+<!-- googleon: all-->
+<div class="hero">
+  <figure >
+          <img src="/binaries/content/gallery/ul2/main-images/science/liacs.jpg/liacs.jpg/d1180x250" alt="" width="1180" height="250"/>
+          <figcaption class="credit">
+              </figcaption>
+          </figure>
+      </div><nav class="sub-nav" data-menu-label="Submenu">
+
+  <p class="parent">
+      <a href="https://www.universiteitleiden.nl/wiskunde-en-natuurwetenschappen/informatica" class="active">Overzicht</a>
+    </p>
+
+  <ul>
+      <li class="has-children">
+
+          <a href="https://www.universiteitleiden.nl/wiskunde-en-natuurwetenschappen/informatica/over-het-instituut" >Over het instituut</a>
+
+          </li>
+      <li class="has-children">
+
+          <a href="https://www.universiteitleiden.nl/wiskunde-en-natuurwetenschappen/informatica/onderzoek" >Onderzoek</a>
+
+          </li>
+      <li class="">
+
+          <a href="https://www.universiteitleiden.nl/wiskunde-en-natuurwetenschappen/informatica/onderwijs" >Onderwijs</a>
+
+          </li>
+      <li class="">
+
+          <a href="https://www.universiteitleiden.nl/wiskunde-en-natuurwetenschappen/informatica/medewerkers" >Medewerkers</a>
+
+          </li>
+      <li class="has-children">
+
+          <a href="https://www.universiteitleiden.nl/wiskunde-en-natuurwetenschappen/informatica/samenwerking" >Samenwerking</a>
+
+          </li>
+      <li class="">
+
+          <a href="https://www.universiteitleiden.nl/wiskunde-en-natuurwetenschappen/informatica/contact" >Contact</a>
+
+          </li>
+      <li class="">
+
+          <a href="http://liacs.leidenuniv.nl/organization" >Informatie voor medewerkers</a>
+
+          </li>
+      <li class="">
+
+          <a href="http://liacs.leidenuniv.nl/edu" >Informatie voor studenten</a>
+
+          </li>
+      <li class="">
+
+          <a href="https://www.universiteitleiden.nl/wiskunde-en-natuurwetenschappen/informatica/organisatie" >Organisatie LIACS</a>
+
+          </li>
+      </ul>
+
+  </nav>
+
+<div id="content">
+  <div class="sub-home">
+    <article>
+      <h1>Informatica &amp; Kunstmatige Intelligentie</h1>
+
+      <p class="intro">Het Leiden Institute of Advanced Computer Science (LIACS) is het instituut voor onderzoek en onderwijs op het gebied van informatica en kunstmatige intelligentie aan de Universiteit Leiden.</p>
+
+      <p>Artificial intelligence, data science en fundamental computer science. LIACS doet uiteenlopend <a href="https://www.universiteitleiden.nl/wiskunde-en-natuurwetenschappen/informatica/onderzoek">onderzoek</a> in&nbsp;een aantal thema's. We <a href="https://www.universiteitleiden.nl/wiskunde-en-natuurwetenschappen/informatica/samenwerking">werken samen</a> met kennisinstellingen, overheden en bedrijven. Door ons brede&nbsp;werkveld kunnen wij aantrekkelijk en volledig <a href="https://www.universiteitleiden.nl/wiskunde-en-natuurwetenschappen/informatica/onderwijs">onderwijs</a> aanbieden.</p></article>
+
+    <div class="aside">
+      <ul class="tree">
+  <li >
+      <a href="https://www.universiteitleiden.nl/wiskunde-en-natuurwetenschappen">Wiskunde en Natuurwetenschappen</a>
+  </li>
+
+  <li class="active">
+      <a href="https://www.universiteitleiden.nl/wiskunde-en-natuurwetenschappen/informatica">Leiden Institute of Advanced Computer Science (LIACS)</a>
+  <ul>
+      <li>
+          <a href="https://www.universiteitleiden.nl/en/science/computer-science/algorithms-and-software-technology">Algorithms and Software Technology</a>
+  </li>
+      <li>
+          <a href="https://www.universiteitleiden.nl/en/science/computer-science/computer-systems-imagery--media">Computer Systems, Imagery &amp; Media</a>
+  </li>
+      <li>
+          <a href="https://www.universiteitleiden.nl/en/science/computer-science/data-science">Data Science</a>
+  </li>
+      </ul>
+  </li>
+
+  </ul>
+
+</div>
+
+  </div>
+
+  <div class="box-row threes">
+    <div class="box">
+    <div class="box-header alt">
+        <h2>Nieuws</h2>
+      </div>
+    <div class="box-content">
+      <ul>
+        <li>
+            <a href="https://www.universiteitleiden.nl/nieuws/2018/03/fwn-vrouwelijk-wetenschapstalent-uitgelicht">
+    <img src="/binaries/content/gallery/ul2/main-images/science/vrouwelijke-hoogleraren-fwn-blauw3.jpg/vrouwelijke-hoogleraren-fwn-blauw3.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <span class="meta">08 maart 2018</span>
+      <strong>Vrouwelijk wetenschapstalent uitgelicht</strong>
+    </div>
+</a>
+</li>
+        <li>
+            <a href="https://www.universiteitleiden.nl/nieuws/2018/02/wessel-kraaij-directeur-dso">
+    <img src="/binaries/content/gallery/ul2/main-images/science/liacs/wessel-kraaij2.jpg/wessel-kraaij2.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <span class="meta">27 februari 2018</span>
+      <strong>Wessel Kraaij directeur Data Science Onderzoeksprogramma</strong>
+    </div>
+</a>
+</li>
+        <li>
+            <a href="https://www.universiteitleiden.nl/nieuws/2018/02/mediateck-gastredacteurs">
+    <img src="/binaries/content/gallery/ul2/main-images/science/liacs/terugkoppeling2.jpg/terugkoppeling2.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <span class="meta">22 februari 2018</span>
+      <strong>Docenten Media Technology in NVON&#039;s tijdschrift Terugkoppeling</strong>
+    </div>
+</a>
+</li>
+        </ul>
+
+      <p class="more">
+        <a href="https://www.universiteitleiden.nl/nieuws?facultyinstitute=leiden-institute-of-advanced-computer-science">Meer nieuws</a>
+      </p>
+    </div>
+  </div>
+
+<div class="box events">
+    <div class="box-header alt">
+        <h2>Agenda</h2>
+      </div>
+    <div class="box-content">
+      <ul>
+        <li>
+            <a href="https://www.universiteitleiden.nl/agenda/2018/03/this-week%E2%80%99s-discoveries---13-march-2018">
+
+  <span class="event-date one-day">
+      <time datetime="2018-03-13T12:15">
+        13<abbr title="maart">
+          mrt</abbr>
+      </time>
+    </span>
+  <div>
+    <span class="meta alt">Lezing</span>
+    <strong>This Week’s Discoveries | 13 March 2018</strong>
+    <span class="meta">Anne van der Meij</span>
+      </div>
+
+</a></li>
+        <li>
+            <a href="https://www.universiteitleiden.nl/agenda/2018/03/lcn2-seminar-segregation-in-social-networks">
+
+  <span class="event-date one-day">
+      <time datetime="2018-03-23T16:00">
+        23<abbr title="maart">
+          mrt</abbr>
+      </time>
+    </span>
+  <div>
+    <span class="meta alt">Lezing</span>
+    <strong>LCN2 Seminar: Segregation in Social Networks</strong>
+    <span class="meta">Rense Corten</span>
+      </div>
+
+</a></li>
+        <li>
+            <a href="https://www.universiteitleiden.nl/agenda/2018/04/ada-lovelace-anne-condon-nl">
+
+  <span class="event-date one-day">
+      <time datetime="2018-04-13T14:00">
+        13<abbr title="april">
+          apr</abbr>
+      </time>
+    </span>
+  <div>
+    <span class="meta alt">Lezing</span>
+    <strong>Ada Lovelace Distinguished Lecture Series</strong>
+    <span class="meta">Prof. Anne Condon</span>
+      </div>
+
+</a></li>
+        </ul>
+
+      <p class="more">
+        <a href="https://www.universiteitleiden.nl/agenda?facultyinstitute=leiden-institute-of-advanced-computer-science">Meer agendaberichten</a>
+      </p>
+    </div> <!-- .box-content -->
+  </div>
+  <!-- .box.events -->
+
+<div class="box">
+    <div class="box-header  alt ">
+      <h2>Vacatures</h2>
+    </div>
+    <div class="box-content">
+      <ul>
+        <li>
+              <a href="https://www.universiteitleiden.nl/vacatures?pageNumber=1&amp;functioncategory=academic-function&amp;faculty=science&amp;facultyinstitute=leiden-institute-of-advanced-computer-science&amp;facultysubinstitute=algorithms-and-software-technology&amp;facultysubinstitute=computer-systems-imagery-and-media&amp;facultysubinstitute=data-science">Wetenschappelijke functies</a>
+            </li>
+          <li>
+              <a href="https://www.universiteitleiden.nl/vacatures?pageNumber=1&amp;functioncategory=phd-function&amp;faculty=science&amp;facultyinstitute=leiden-institute-of-advanced-computer-science&amp;facultysubinstitute=algorithms-and-software-technology&amp;facultysubinstitute=computer-systems-imagery-and-media&amp;facultysubinstitute=data-science">PhD-posities</a>
+            </li>
+          <li>
+              <a href="https://www.universiteitleiden.nl/vacatures?pageNumber=1&amp;functioncategory=staff-function&amp;faculty=science&amp;facultyinstitute=leiden-institute-of-advanced-computer-science&amp;facultysubinstitute=algorithms-and-software-technology&amp;facultysubinstitute=computer-systems-imagery-and-media&amp;facultysubinstitute=data-science">Niet-wetenschappelijke functies</a>
+            </li>
+          </ul>
+      </div>
+  </div>
+<div class="box figure ">
+  <div class="box-content">
+    <a href="http://onderzoeksgebieden.leidenuniv.nl/data-science/">
+      <figure>
+        <img src="/binaries/content/gallery/ul2/spotlight-fotos/wetenschapsdossiers-engels/spotlight-data-science-354x155.jpg" alt="" />
+      <figcaption>
+          <strong>Wetenschapsdossier</strong>
+          <span class="meta">Slim speuren naar gegevens</span>
+          </figcaption>
+      </figure>
+    </a>
+  </div>
+</div><div class="box">
+    <div class="box-header  alt ">
+      <h2>In de media</h2>
+    </div>
+    <div class="box-content">
+      <ul>
+        <li >
+              <a href="https://www.universiteitleiden.nl/nieuws/2018/02/mediateck-gastredacteurs">
+    <img src="/binaries/content/gallery/ul2/main-images/science/liacs/terugkoppeling2.jpg/terugkoppeling2.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <span class="meta">22 februari 2018</span>
+      <strong>Docenten Media Technology in NVON&#039;s tijdschrift Terugkoppeling</strong>
+    </div>
+</a>
+</li>
+          <li>
+              <a href="https://www.leidschdagblad.nl/playlist/kennis/artikel/moderne-microscoop-ziet-heel-diep?items_per_page=20">Fons Verbeek in Leidsch Dagblad over het belang van moderne microscopen voor medische en biologische wetenschappen</a>
+            </li>
+          <li>
+              <a href="https://www.leidschdagblad.nl/playlist/leiden-uitgelicht/artikel/overwinning-nuis-ook-heel-klein-beetje-goud-voor-leidse?items_per_page=20">Leidsch Dagblad kijkt met datawetenschapper Arno Knobbe naar gouden rit Kjeld Nuis</a>
+            </li>
+          <li >
+              <a href="https://www.universiteitleiden.nl/nieuws/2018/01/fons-verbeek-op-sleutelstad-fm">
+    <img src="/binaries/content/gallery/ul2/main-images/science/liacs/sleutelstad.png/sleutelstad.png/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <span class="meta">25 januari 2018</span>
+      <strong>Fons Verbeek over computational bio-imaging op SleutelstadFM</strong>
+    </div>
+</a>
+</li>
+          <li >
+              <a href="https://www.universiteitleiden.nl/nieuws/2018/01/bnr-de-nieuwe-wereld">
+    <img src="/binaries/content/gallery/ul2/main-images/social-and-behavioural-sciences/psychologie/nieuws/logo-bnr.gif/logo-bnr.gif/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <span class="meta">23 januari 2018</span>
+      <strong>Aske Plaat en Catholijn Jonker bij BNR De Nieuwe Wereld</strong>
+    </div>
+</a>
+</li>
+          <li >
+              <a href="https://www.universiteitleiden.nl/nieuws/2018/01/aske-plaat-alphazero-nrc">
+    <img src="/binaries/content/gallery/ul2/main-images/science/liacs/alphazero.jpg/alphazero.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <span class="meta">22 januari 2018</span>
+      <strong>Aske Plaat in NRC over het succes van computerprogramma AlphaZero</strong>
+    </div>
+</a>
+</li>
+          <li >
+              <a href="https://www.universiteitleiden.nl/nieuws/2018/01/werking-smartwatches">
+    <img src="/binaries/content/gallery/ul2/main-images/science/liacs/smartwatch.jpg/smartwatch.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <span class="meta">08 januari 2018</span>
+      <strong>Joost Kok in Trouw over werking en toekomst smartwatches</strong>
+    </div>
+</a>
+</li>
+          <li >
+              <a href="https://www.universiteitleiden.nl/nieuws/2017/12/suzan-verberne-bij-universiteit-van-nederland">
+    <img src="/binaries/content/gallery/ul2/main-images/science/liacs/rembrandt.jpg/rembrandt.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <span class="meta">13 december 2017</span>
+      <strong>Suzan Verberne over RemBench bij Universiteit van Nederland</strong>
+    </div>
+</a>
+</li>
+          <li >
+              <a href="https://www.universiteitleiden.nl/nieuws/2017/11/arno-knobbe-over-data-analyse-in-aanloop-winterspelen">
+    <img src="/binaries/content/gallery/ul2/main-images/science/liacs/nwo.jpg/nwo.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <span class="meta">30 november 2017</span>
+      <strong>Arno Knobbe in NWO uitgave &#039;Experiment NL&#039; over data-analyse in de aanloop naar de Olympische Winterspelen</strong>
+    </div>
+</a>
+</li>
+          <li>
+              <a href="https://soundcloud.com/sleutelstad/2017-11-08-dr-jetty-klein-over-de-ladies-informaticadag">Jetty Kleijn over Informatics Ladies Day op Sleutelstad FM</a>
+            </li>
+          <li >
+              <a href="https://www.universiteitleiden.nl/nieuws/2017/08/suzan-verberne-in-de-volkskrant-over-nieuwe-vertaaltechnologieen">
+    <img src="/binaries/content/gallery/ul2/main-images/science/liacs/deeplearning1.jpg/deeplearning1.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <span class="meta">30 augustus 2017</span>
+      <strong>Suzan Verberne in de Volkskrant over nieuwe vertaaltechnologieën</strong>
+    </div>
+</a>
+</li>
+          <li>
+              <a href="http://www.mareonline.nl/archive/2017/04/06/geheime-missie-hyperloops-coderen">Leidse winnaars internationale codeerwedstrijd in Mare</a>
+            </li>
+          <li>
+              <a href="https://www.bnr.nl/radio/beter/10319396/meer-data-nodig-om-mensenlevens-te-redden">Wessel Kraaij op BNR Nieuwsradio</a>
+            </li>
+          <li>
+              <a href="https://soundcloud.com/sleutelstad/2017-05-10-aske-plaat-over-de-ada-lovelace-lezingen-en-zwaartekrachtsubsidie">Science071 over onze Ada Lovelace lezing en Zwaartekrachtsubsidie</a>
+            </li>
+          <li>
+              <a href="https://soundcloud.com/sleutelstad/2017-04-05-winnaars-internationale-programeerwedstrijd">Leidse winnaars internationale codeerwedstrijd op Sleutelstad FM</a>
+            </li>
+          <li >
+              <a href="https://www.universiteitleiden.nl/nieuws/2016/10/aske-plaat-in-nieuwsuur">
+    <img src="/binaries/content/gallery/ul2/main-images/general/main-images_nieuws-okt-2016_aske-plaat-in-nieuwsuur.jpg/main-images_nieuws-okt-2016_aske-plaat-in-nieuwsuur.jpg/d50x50" alt="" width="50" height="50"/>
+      <div>
+      <span class="meta">12 oktober 2016</span>
+      <strong>Aske Plaat in Nieuwsuur</strong>
+    </div>
+</a>
+</li>
+          <li>
+              <a href="http://sleutelstad.nl/2017/01/10/betafaculteit-beloont-onderzoekers-en-docent-jaar/">Frank Takes Docent van het Jaar op Sleutelstad FM</a>
+            </li>
+          </ul>
+      </div>
+  </div>
+</div>
+
+</div></div>
+    </div>
+
+    <!-- googleoff: all-->
+<div class="footer-container">
+    <footer class="wrapper clearfix">
+      <section>
+          <h2>Studiekeuze</h2>
+              <ul>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/onderwijs/bachelors">Bacheloropleidingen</a>
+                  </li>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/onderwijs/masters">Masteropleidingen</a>
+                  </li>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/onderzoek/promoveren">PhD-programma&#039;s</a>
+                  </li>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/onderwijs/overig-onderwijs/onderwijs-voor-professionals">Professional Learning and Development</a>
+                  </li>
+                <li>
+                    <a href="http://summerschool.universiteitleiden.nl">Summer School</a>
+                  </li>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/onderwijs/overig-onderwijs">Een leven lang leren</a>
+                  </li>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/onderwijs/bachelors/voorlichtingsactiviteiten/open-dagen">Open dagen</a>
+                  </li>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/onderwijs/masters/voorlichtingsactiviteiten/masterdagen">Masterdagen</a>
+                  </li>
+                </ul>
+            </section>
+      <section>
+          <h2>Organisatie</h2>
+              <ul>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/en/archaeology">Archeologie</a>
+                  </li>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/geesteswetenschappen">Geesteswetenschappen</a>
+                  </li>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/geneeskunde-lumc">Geneeskunde/LUMC</a>
+                  </li>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/governance-and-global-affairs">Governance and Global Affairs</a>
+                  </li>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/rechtsgeleerdheid">Rechtsgeleerdheid</a>
+                  </li>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/sociale-wetenschappen">Sociale Wetenschappen</a>
+                  </li>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/wiskunde-en-natuurwetenschappen">Wiskunde en Natuurwetenschappen</a>
+                  </li>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/afrika-studiecentrum-leiden">Afrika-Studiecentrum Leiden</a>
+                  </li>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/honours-academy">Honours Academy</a>
+                  </li>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/iclon">ICLON</a>
+                  </li>
+                </ul>
+            </section>
+      <section>
+          <h2>Over ons</h2>
+              <ul>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/werken-bij">Werken bij de Universiteit Leiden</a>
+                  </li>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/alumni">Alumni</a>
+                  </li>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/over-ons/impact">Impact</a>
+                  </li>
+                <li>
+                    <a href="http://www.leiden-delft-erasmus.nl/">Leiden-Delft-Erasmus</a>
+                  </li>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/locaties">Locaties</a>
+                  </li>
+                <li>
+                    <a href="https://www.organisatiegids.universiteitleiden.nl/reglementen/algemeen/universitaire-website-disclaimer">Disclaimer</a>
+                  </li>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/over-ons/contact">Contact</a>
+                  </li>
+                </ul>
+            </section>
+      <section>
+          <h2>Volg ons</h2>
+              <ul>
+                  <li>
+                      <a href="https://www.leidenuniv.nl/nieuwsbrief">Meld u aan voor onze nieuwsbrief</a>
+                    </li>
+                  </ul>
+              <div class="share">
+                <a href="https://nl-nl.facebook.com/UniversiteitLeiden" class="facebook"></a>
+                <a href="http://twitter.com/UniLeiden" class="twitter"></a>
+                <a href="http://www.youtube.com/user/UniversiteitLeiden" class="youtube"></a>
+                <a href="http://www.linkedin.com/company/leiden-university" class="linkedin"></a>
+                <a href="https://instagram.com/universiteitleiden" class="instagram"></a>
+                <a href="https://plus.google.com/+UniversiteitLeiden" class="google-plus"></a>
+                </div>
+            </section>
+      </footer>
+  </div>
+<!-- googleon: all-->
+<script async defer src="/scripts/ul2.js" data-main="/scripts/ul2external/main.js"></script>
+<!-- this line enables the loading of asynchronous components (together with the headContributions at the top) -->
+    </body>
+</html>
