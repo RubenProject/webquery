@@ -5,8 +5,10 @@
 CC=gcc
 CFLAGS=-lcurl -lssl -lcrypto
 
-main: webspider.c
+webspider: webspider.c
 	$(CC) -std=gnu89 -o webspider webspider.c htmlstreamparser.c  $(CFLAGS)
 
 
+printquery: printquery.c
+	$(CC) -std=gnu89 -o printquery printquery.c htmlstreamparser.c  $(CFLAGS)
 
