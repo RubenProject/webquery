@@ -8,8 +8,8 @@
  
 #define MAXQSIZE 9000000       // Maximum size of the queue, q
 #define MAXURL 100000          // Maximum size of a URL
-#define MAXPAGESIZE 20000          // Maximum size of a webpage
-#define MAXDOWNLOADS 300      // Maximum number of downloads we will attempt
+#define MAXPAGESIZE 200000          // Maximum size of a webpage
+#define MAXDOWNLOADS 2000      // Maximum number of downloads we will attempt
 
 //
 //  This code is a framework for a basic web spider.  It uses functions written
@@ -45,7 +45,7 @@ void buildWebIndex(char *url);
 size_t curl_callback(char *buffer, size_t size, size_t nmemb, void * buff);
 char *GetLinksFromWebPage(char *myhtmlpage, char *myurl);
 int GetNextURL(char *p, char *q, char *myurl);
-char *GetNextWord(char *p, char *q, char *myword);
+char *GetNextWord(char *p, char *myword);
 char *GetWebPage(char *myurl);
 char *md52str(const char *str, int length);
 void parseLineSave(char *line, char *url, const char *dir);
@@ -228,7 +228,7 @@ void parseLineSave(char *line, char *url, const char *dir) {
     f = (char *)malloc((strlen(line) + strlen(dir)));
     r = line;
     while (r != NULL){
-        r = GetNextWord(r, line, word);
+        r = GetNextWord(r, word);
         if (strlen(word) > 0){
             strcpy(f, dir);
             strcat(f, word);
@@ -242,12 +242,11 @@ void parseLineSave(char *line, char *url, const char *dir) {
 
 void buildTitleIndex(char *html, char *url) {
     const char *dir = "titleindex/\0";
-    FILE *f_out;
 
     HTMLSTREAMPARSER *hsp = html_parser_init();
 
     //htmlparser setup
-    char c, tag[6], *title, f[MAXURL + 12], inner[128], *r, *word;
+    char tag[6], *title, inner[128];
     size_t title_len = 0;
 
 	/*the size of the received data*/
@@ -281,7 +280,7 @@ void buildWebIndex(char *url){
 
     p = url;
     while (p != NULL){
-        p = GetNextWord(p, url, word);
+        p = GetNextWord(p, word);
         if (strlen(word) > 0 
             && strcmp(word, "http") != 0 
             && strcmp(word, "https") != 0){
@@ -354,14 +353,14 @@ int QSize(char *q) {
 
 
 void AppendLinks(char *p, char *q, char *weblinks) {
-    char url[MAXURL];
-    char *r;
+    char url[MAXURL], *url_md5, *r;
     int i;
     r = weblinks;
     for (i = 0; i < QSize(weblinks); i++){
         GetNextURL(r, weblinks, url);
         r = ShiftP(r, weblinks);
-        if (!find_in_tree(url)) {
+        url_md5 = str2md5(url, strlen(url));
+        if (!find_in_tree(url_md5)) {
             insert_in_tree(url);
             if (strlen(q) + strlen(url) + 1 < MAXQSIZE){
                 strcat(p, url);
@@ -378,7 +377,7 @@ void AppendLinks(char *p, char *q, char *weblinks) {
 //returns position of the start of the next word
 //returns NULL if end of file reached
 //function can return words of length zero
-char *GetNextWord(char *p, char *q, char *myword) {
+char *GetNextWord(char *p, char *myword) {
     const char diff = 'a' - 'A';
     int k;
     for(k = 0; k <= strlen(p); k++) {
@@ -477,7 +476,6 @@ void insert_in_tree(char *url) {
     find_in_tree2(url, &parent, &location);
     if(location != NULL)
     {
-        printf("URL duplicate!\n");
         return;
     }
     temp = malloc(sizeof(struct node));
@@ -531,48 +529,48 @@ int main(int argc, char* argv[]) {
         printf("\n\nNo webpage given...exiting\n\n"); 
         exit(0);
     } else { 
-      url = argv[1];
-      if(strstr(url,"http") != NULL) {
-          printf("\nInitial web URL: %s\n\n", url);
-      } else {
-          printf("\n\nYou must start the URL with lowercase http...exiting\n\n"); 
-          exit(0);
-      }
+        url = argv[1];
+        if(strstr(url,"http") != NULL) {
+            printf("\nInitial web URL: %s\n\n", url);
+        } else {
+            printf("\n\nYou must start the URL with lowercase http...exiting\n\n"); 
+            exit(0);
+        }
     }
 
     strcat(q, url);  strcat(q, "\n");
     url = urlspace;
 
     for(k = 0; k < MAXDOWNLOADS; k++) {
-      qs = QSize(q); 
-      ql = strlen(q);
-      printf("\nDownload #: %d   Weblinks: %d   Queue Size: %d\n",k, qs, ql);
+        qs = QSize(q); 
+        ql = strlen(q);
+        printf("\nDownload #: %d   Weblinks: %d   Queue Size: %d\n",k, qs, ql);
 
-      if (!GetNextURL(p, q, url)) {
-          printf("\n\nNo URL in queue\n\n");
-          exit(0);
-      }
-      p = ShiftP(p, q);
+        if (!GetNextURL(p, q, url)) {
+            printf("\n\nNo URL in queue\n\n");
+            exit(0);
+        }
+        p = ShiftP(p, q);
 
-      if (whitelist(url)) {
-        printf("url=%s\n", url);
-        html = GetWebPage(url);
+        //whitelist disabled
+        if (1 || whitelist(url)) {
+            printf("url=%s\n", url);
+            html = GetWebPage(url);
 
         if (html == NULL) { 
             printf("\n\nhtml is NULL\n\n");
-            exit(0);
-        }
+        } 
 
-        v = strlen(html); 
-        printf("\n\nwebpage size of %s is %d\n\n",url,v);
         if (html) { 
-          weblinks = GetLinksFromWebPage(html, url);
-          AppendLinks(p, q, weblinks);
-          buildWebIndex(url);
-          buildTitleIndex(html, url);
-          buildLinkIndex(weblinks, url);
-          buildPageIndex(html, url);
-          saveWebPage(html, url);
+            v = strlen(html); 
+            printf("\n\nwebpage size of %s is %d\n\n",url,v);
+            weblinks = GetLinksFromWebPage(html, url);
+            AppendLinks(p, q, weblinks);
+            buildWebIndex(url);
+            buildTitleIndex(html, url);
+            buildLinkIndex(weblinks, url);
+            buildPageIndex(html, url);
+            saveWebPage(html, url);
         }
       } else {
           printf("\n\nNot in allowed domains: %s\n\n",url);

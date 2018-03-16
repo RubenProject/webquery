@@ -3,7 +3,9 @@
 # For more depth, see http://www.gnu.org/software/make/manual/make.html
 
 CC=gcc
-CFLAGS=-lcurl -lssl -lcrypto
+CFLAGS=-g -Wall -Wextra -lcurl -lssl -lcrypto
+
+all: webspider printquery
 
 webspider: webspider.c
 	$(CC) -std=gnu89 -o webspider webspider.c htmlstreamparser.c  $(CFLAGS)

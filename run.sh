@@ -3,4 +3,4 @@ rm linkindex/*
 rm titleindex/*
 rm pageindex/*
 rm repository/*
-./webspider http://www.liacs.nl
+./webspider http://www.tweakers.net

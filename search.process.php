@@ -1,6 +1,7 @@
 #!/usr/bin/php-cgi7.1
-<html><body><center><p><br><p><br><font face=arial>
+<html><body><center><p><br><font face=arial>
 
+<img src="./cap.jpg" height="350" width="350" ><br>
 <font size=7 color=darkblue>Capibara Search</font>
 <p>
 <form enctype="multipart/form-data" action="./search.process.php" method="post">

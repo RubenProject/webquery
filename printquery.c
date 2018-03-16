@@ -8,7 +8,7 @@
 #define MAXURL 100000          // Maximum size of a URL
 #define MAXWORD 100          // Maximum size of a URL
 #define MAXBUFFER 1000
-#define MAXPAGESIZE 20000          // Maximum size of a webpage
+#define MAXPAGESIZE 200000          // Maximum size of a webpage
 
 
 //very basic linked list implementation
@@ -69,7 +69,7 @@ char *str2md5(const char *str, int length) {
 char *GetTitle(char *html){
     HTMLSTREAMPARSER *hsp = html_parser_init();
 
-    char c, tag[6], *title, inner[128];
+    char tag[6], *title, inner[128];
     size_t title_len = 0;
 
     /*the size of the received data*/
@@ -93,8 +93,6 @@ char *GetTitle(char *html){
         title[title_len] = '\0';
         html_parser_cleanup(hsp);
 
-        fprintf(stderr, "\nWebpage Title: %s\n\n", title);
-        fflush(stderr);
         free(html);
         return strdup(title);
     }
@@ -108,36 +106,27 @@ char *GetTitle(char *html){
 char *GetSummary(char *url){
     const char *dir = "repository/";
     FILE *fp;
-    char *html, *url_md5, *fname, *line, *t;
+    char *html, *url_md5, *fname, *line;
     url_md5 = str2md5(url, strlen(url));
-    fname = (char *)malloc((33 + 11) * sizeof(char));
-    html = (char *)malloc(MAXPAGESIZE * sizeof(char));
-    line = (char *)malloc(MAXPAGESIZE * sizeof(char));
-    t = (char *)malloc(MAXPAGESIZE * sizeof(char));
+    fname = (char *)calloc(33 + 11, sizeof(char));
+    html = (char *)calloc(MAXPAGESIZE, sizeof(char));
+    line = (char *)calloc(MAXPAGESIZE, sizeof(char));
     strcpy(fname, dir);
     strcat(fname, url_md5);
+    free(url_md5);
     fp = fopen(fname, "r");
     if (fp != NULL){
-        fprintf(stderr, "%s\n", fname);
-        fflush(stderr);
-        
         while (fscanf(fp, "%s", line) == 1){
             strcat(html, line);
         }
-        fprintf(stderr, "=============");
-        fflush(stderr);
         fclose(fp);
-        t = GetTitle(html);
         free(line);
         free(fname);
-        free(fp);
-        return strdup(t);
+        return GetTitle(html);
     } else {
         free(html);
         free(line);
         free(fname);
-        fclose(fp);
-        free(fp);
         return NULL;
     }
 }
@@ -149,17 +138,12 @@ void php_print_result(struct Rel *entrance){
     p = entrance;
     int i;
     for (i = 0; p != NULL && i < 10; i++){
-        title = (char *)malloc(MAXURL * sizeof(char));
         title = GetSummary(p->url);
         if (title != NULL){
-            fprintf(stderr, "\nWebpage Title: %s\n\n", title);
-            fflush(stderr);
             //print
-            printf("---------------------------------------<br>");
-            printf("%i) <a href=\"%s\">%s</a><br>", i+1, p->url, title);
+            fprintf(stdout, "---------------------------------------<br>");
+            fprintf(stdout, "%i) <a href=\"%s\">%s</a><br>", i+1, p->url, title);
         }
-        fprintf(stderr, "\niteration: %i\n\n", i);
-        fflush(stderr);
         p = p->next;
         free(title);
     }
@@ -192,7 +176,7 @@ void swap(struct Rel *a, struct Rel *b){
 
 //bublesort linked list
 void sort_list(struct Rel **entrance){
-    int swapped, i;
+    int swapped;
     struct Rel *p, *r;
     r = NULL;
  
@@ -245,7 +229,6 @@ int in_list(struct Rel **loc, struct Rel *entrance, char *str){
 //location of object is in loc
 int add_list(struct Rel **loc, struct Rel **entrance, char *str){
     struct Rel *p, *n;
-    int i;
     n = (struct Rel *)malloc(sizeof(struct Rel));
     strcpy(n->url, str);
     n->score = 1;
@@ -290,6 +273,7 @@ void rankTitle(char *query, struct Rel **relevance){
             if (loc != NULL)
                 loc->score += 16;
         }
+        fclose(fp);
     }
     free(fname);
     free(url);
@@ -313,6 +297,7 @@ void rankWeb(char *query, struct Rel **relevance){
             if (loc != NULL)
                 loc->score += 4;
         }
+        fclose(fp);
     }
     free(fname);
     free(url);
@@ -326,7 +311,6 @@ void rankLink(struct Rel **relevance){
 
     fname = (char *)malloc(MAXWORD + sizeof(dir));
     url = (char *)malloc(MAXURL * sizeof(char));
-    url_md5 = (char *)malloc(MAXURL * sizeof(char));
     p = *relevance;
     while (p != NULL){
         url_md5 = str2md5(p->url, strlen(p->url));
@@ -338,6 +322,7 @@ void rankLink(struct Rel **relevance){
             while (fscanf(fp, "%s", url) == 1){
                 p->score += 1;
             }
+            fclose(fp);
         }
         p = p->next;
     }
@@ -357,9 +342,19 @@ int main (int argc, char *argv[]){
 
     if (strlen(query) < 3)
         printf("<span> Must be at least 3 characters<span>");
+    
+    int i;
+    char diff = 'a' - 'A';
+    for (i = 0; i < strlen(query); i++){
+        if (query[i] >= 'A' && query[i] <= 'Z')
+            query[i] = query[i] + diff;
+        else
+            query[i] = query[i];
+    }
+
 
     relevance = NULL;
-    struct Rel *loc;
+    struct Rel *loc = relevance, *last;
     
 
     //calculate relevance ranking
@@ -370,6 +365,12 @@ int main (int argc, char *argv[]){
     //print_list(relevance);
     php_print_result(relevance);
 
+    while (loc != NULL){
+        last = loc;
+        loc = loc->next;
+        free(last);
+    }
+    free(loc);
 
     return 0;
 }
